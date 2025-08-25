@@ -81,14 +81,14 @@
             "id": "97b4f9bf05b6b3e4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Заметки/Заметки.md",
-                "bFile": "Заметки/Заметки.md",
-                "aRef": ""
+                "file": "Заметки/Заметки.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Заметки"
+              "icon": "lucide-file",
+              "title": "Заметки"
             }
           }
         ],
@@ -254,9 +254,9 @@
   },
   "active": "97b4f9bf05b6b3e4",
   "lastOpenFiles": [
-    "Заметки/Заметки.md",
     "Заметки/Нерасформированные задачи и.md",
     "Заметки/План, что брать в Мск.md",
+    "Заметки/Заметки.md",
     "Заметки/Нерасформированные задачи.md",
     "Days/2025-08-25.md",
     "Days/2025-08-24.md",
