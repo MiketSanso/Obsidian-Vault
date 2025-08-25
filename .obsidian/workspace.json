@@ -81,14 +81,14 @@
             "id": "97b4f9bf05b6b3e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Days/2025-08-25.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Заметки/Заметки.md",
+                "bFile": "Заметки/Заметки.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2025-08-25"
+              "icon": "diff",
+              "title": "Diff: Заметки"
             }
           }
         ],
@@ -254,17 +254,19 @@
   },
   "active": "97b4f9bf05b6b3e4",
   "lastOpenFiles": [
+    "Заметки/Заметки.md",
+    "Заметки/Нерасформированные задачи и.md",
+    "Заметки/План, что брать в Мск.md",
+    "Заметки/Нерасформированные задачи.md",
+    "Days/2025-08-25.md",
     "Days/2025-08-24.md",
     "Tasks/Саморазвитие/Настроить Git в Obsidian.md",
-    "Days/2025-08-25.md",
     "Templates/Templates.md",
     "README.md",
     "Templates/Task.md",
     "Templates/Group.md",
     "Templates/Day.md",
     "Obsidian Web.md",
-    "Заметки/Нерасформированные задачи и.md",
-    "Заметки/Заметки.md",
     "Days/2025-08-16.md",
     "Days/2025-08-17.md",
     "Days/2025-08-19.md",
@@ -278,8 +280,6 @@
     "Days/2025-08-25 — копия.md",
     "Days/Daily reports.md",
     "Books/Books to read or search....md",
-    "Books/Books.md",
-    "Статьи/Моментные ощущения после первой работы.md",
     "Заметки",
     "Tasks/Программирование/Python",
     "Tasks/Программирование/Unity и работа",
