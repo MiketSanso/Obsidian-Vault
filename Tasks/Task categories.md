@@ -1,0 +1,5 @@
+[[Cooking]]
+[[Health]]
+[[Home tasks]]
+[[Self-development]]
+[[Sport training]]

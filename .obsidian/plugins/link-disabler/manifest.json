@@ -1,0 +1,10 @@
+{
+  "id": "link-disabler",
+  "name": "Link Disabler",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Превращает вики-ссылки в обычный текст без удаления из графа",
+  "author": "Miketo",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}

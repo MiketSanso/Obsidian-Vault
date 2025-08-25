@@ -1,0 +1,171 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "WmKASTQHgHsK94gge8Hsz",
+      "name": "Task don't closed",
+      "value": "#ff0000"
+    },
+    {
+      "id": "vTinaMk3vPMvBOJcW1rZa",
+      "name": "Task closed",
+      "value": "#00ff1e"
+    },
+    {
+      "id": "UGUVPZNWcxZGXs2tjAW92",
+      "name": "In progress",
+      "value": "#fff71a"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Tasks/Домашние задачи/Встретиться с Дашей.md",
+      "color": "WmKASTQHgHsK94gge8Hsz"
+    },
+    {
+      "path": "Tasks/Домашние задачи/Заварить тачку.md",
+      "color": "vTinaMk3vPMvBOJcW1rZa"
+    },
+    {
+      "path": "Tasks/Домашние задачи/Мытье стен.md",
+      "color": "UGUVPZNWcxZGXs2tjAW92"
+    },
+    {
+      "path": "Tasks/Готовка/Приготовить пирог (Повтор).md",
+      "color": "UGUVPZNWcxZGXs2tjAW92"
+    },
+    {
+      "path": "Tasks/Домашние задачи/Погладить вещи (Повтор).md",
+      "color": "vTinaMk3vPMvBOJcW1rZa"
+    },
+    {
+      "path": "Tasks/Домашние задачи/Распил бревен.md",
+      "color": "vTinaMk3vPMvBOJcW1rZa"
+    },
+    {
+      "path": "Tasks/Домашние задачи/Собрать дяде Вите косу..md",
+      "color": "vTinaMk3vPMvBOJcW1rZa"
+    },
+    {
+      "path": "Tasks/Домашние задачи/Собрать ягоды (Повтор).md",
+      "color": "WmKASTQHgHsK94gge8Hsz"
+    },
+    {
+      "path": "Tasks/Домашние задачи/Уборка чердака.md",
+      "color": "vTinaMk3vPMvBOJcW1rZa"
+    },
+    {
+      "path": "Tasks/Домашние задачи/Убрать подвал и опустить банки.md",
+      "color": "vTinaMk3vPMvBOJcW1rZa"
+    },
+    {
+      "path": "Tasks/Домашние задачи/Убрать траву вокруг дома (Повтор).md",
+      "color": "UGUVPZNWcxZGXs2tjAW92"
+    },
+    {
+      "path": "Tasks/Домашние задачи/Убраться в своей комнате (Повтор).md",
+      "color": "UGUVPZNWcxZGXs2tjAW92"
+    },
+    {
+      "path": "Tasks/GameDev/Доделать резюме в LinkedIn.md",
+      "color": "UGUVPZNWcxZGXs2tjAW92"
+    },
+    {
+      "path": "Tasks/GameDev/Изучить CI-CD.md",
+      "color": "WmKASTQHgHsK94gge8Hsz"
+    },
+    {
+      "path": "Tasks/GameDev/Изучить ECS.md",
+      "color": "WmKASTQHgHsK94gge8Hsz"
+    },
+    {
+      "path": "Tasks/GameDev/Изучить Photon.md",
+      "color": "WmKASTQHgHsK94gge8Hsz"
+    },
+    {
+      "path": "Tasks/GameDev/Проверить все вакансии.md",
+      "color": "UGUVPZNWcxZGXs2tjAW92"
+    },
+    {
+      "path": "Tasks/Саморазвитие/Начать пользоваться обсидианом.md",
+      "color": "vTinaMk3vPMvBOJcW1rZa"
+    },
+    {
+      "path": "Tasks/GameDev/Изучить UI Toolkit.md",
+      "color": "vTinaMk3vPMvBOJcW1rZa"
+    },
+    {
+      "path": "Tasks/GameDev/Изучить Clean Architecture.md",
+      "color": "vTinaMk3vPMvBOJcW1rZa"
+    },
+    {
+      "path": "Tasks/English/Start learning eniglish!.md",
+      "color": "WmKASTQHgHsK94gge8Hsz"
+    },
+    {
+      "path": "Tasks/Спортивные тренировки/Тренировка ударки.md",
+      "color": "UGUVPZNWcxZGXs2tjAW92"
+    },
+    {
+      "path": "Tasks/Tech/Смена деятельности.md",
+      "color": "WmKASTQHgHsK94gge8Hsz"
+    },
+    {
+      "path": "Tasks/Tech/Сделать брату программу.md",
+      "color": "UGUVPZNWcxZGXs2tjAW92"
+    },
+    {
+      "path": "Tasks/Домашние задачи/Помочь папе на винограднике (Повтор).md",
+      "color": "UGUVPZNWcxZGXs2tjAW92"
+    },
+    {
+      "path": "Tasks/Спортивные тренировки/Подтягивания.md",
+      "color": "UGUVPZNWcxZGXs2tjAW92"
+    },
+    {
+      "path": "Tasks/Готовка/Приготовить плов.md",
+      "color": "UGUVPZNWcxZGXs2tjAW92"
+    },
+    {
+      "path": "Tasks/Готовка/Приготовить шурпу.md",
+      "color": "UGUVPZNWcxZGXs2tjAW92"
+    },
+    {
+      "path": "Tasks/Домашние задачи/Домашние задачи.md",
+      "color": "vTinaMk3vPMvBOJcW1rZa"
+    },
+    {
+      "path": "Tasks/Здоровье/Спросить у врачейро верд тыкать в телефоне большими пальцами.md",
+      "color": "WmKASTQHgHsK94gge8Hsz"
+    },
+    {
+      "path": "Tasks/Спортивные тренировки/Качать бицепс.md",
+      "color": "UGUVPZNWcxZGXs2tjAW92"
+    },
+    {
+      "path": "Tasks/Спортивные тренировки/Внутренние приседания.md",
+      "color": "UGUVPZNWcxZGXs2tjAW92"
+    },
+    {
+      "path": "Tasks/Спортивные тренировки/Обычные отжимания от доски.md",
+      "color": "UGUVPZNWcxZGXs2tjAW92"
+    },
+    {
+      "path": "Tasks/Домашние задачи/Switch шкафов в доме.md",
+      "color": "vTinaMk3vPMvBOJcW1rZa"
+    },
+    {
+      "path": "Tasks/Домашние задачи/Закончить с коридором.md",
+      "color": "vTinaMk3vPMvBOJcW1rZa"
+    },
+    {
+      "path": "Tasks/Домашние задачи/Поставить полку.md",
+      "color": "vTinaMk3vPMvBOJcW1rZa"
+    },
+    {
+      "path": "Tasks/Домашние задачи/Разобрать книги.md",
+      "color": "vTinaMk3vPMvBOJcW1rZa"
+    }
+  ]
+}

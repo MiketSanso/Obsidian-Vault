@@ -1,0 +1,5 @@
+[[Изучить Photon Fusion]]
+[[Изучить Photon Fusion]]
+[[Изучить ECS]]
+[[Изучить Odin Inspector]]
+[[Изучить всю базу Unity (Повтор)]]
