@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Days/2025-08-25.md",
+                "file": "Заметки/Нерасформированные задачи и.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-25"
+              "title": "Нерасформированные задачи и"
             }
           }
         ],
@@ -254,11 +254,12 @@
   },
   "active": "97b4f9bf05b6b3e4",
   "lastOpenFiles": [
-    "Заметки/Заметки.md",
-    "Заметки/Нерасформированные задачи и.md",
     "Заметки/План, что брать в Мск.md",
-    "Заметки/Нерасформированные задачи.md",
+    "Заметки/Заметки.md",
     "Days/2025-08-25.md",
+    "Days/Daily reports.md",
+    "Заметки/Нерасформированные задачи и.md",
+    "Заметки/Нерасформированные задачи.md",
     "Days/2025-08-24.md",
     "Tasks/Саморазвитие/Настроить Git в Obsidian.md",
     "Templates/Templates.md",
@@ -278,7 +279,6 @@
     "Days/2025-08-20.md",
     "Days/2025-08-22 — копия.md",
     "Days/2025-08-25 — копия.md",
-    "Days/Daily reports.md",
     "Books/Books to read or search....md",
     "Заметки",
     "Tasks/Программирование/Python",
