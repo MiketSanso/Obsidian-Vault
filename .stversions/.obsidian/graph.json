@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Days",
+      "color": {
+        "a": 1,
+        "rgb": 52479
+      }
+    },
+    {
+      "query": "Tasks",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "Статьи",
+      "color": {
+        "a": 1,
+        "rgb": 11206400
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 0.814583333333333,
+  "lineSizeMultiplier": 1.63125,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 12.0833333333333,
+  "linkStrength": 1,
+  "linkDistance": 368,
+  "scale": 0.38414419990323595,
+  "close": false
+}

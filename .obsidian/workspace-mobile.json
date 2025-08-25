@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Days/2025-08-20.md",
+                "file": "Заметки/План, что брать в Мск.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-20"
+              "title": "План, что брать в Мск"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Days/2025-08-17.md",
+            "file": "Заметки/План, что брать в Мск.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -137,12 +137,23 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "e49c2c0ee1d94415",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -155,8 +166,17 @@
   },
   "active": "93ad8d8339bb1891",
   "lastOpenFiles": [
-    "Days/2025-08-21.md",
+    "Заметки/Заметки.md",
+    "Заметки/Нерасформированные задачи и.md",
+    "Days/2025-08-25.md",
+    "Tasks/Готовка/Приготовить заливной пирог.md",
+    "/Заметки/Заметки.md",
+    "/Заметки",
+    "Заметки/План, что брать в Мск.md",
+    "Посмотреть почему сжимаю зубы и тело, когда глажу кошку или какие-то слово произношу.md",
+    "README.md",
     "Days/2025-08-20.md",
+    "Days/2025-08-21.md",
     "Days/2025-08-18.md",
     "Days/2025-08-19.md",
     "Books/Books.md",
@@ -172,12 +192,6 @@
     "Templates/Day.md",
     "Days/2025-08-16.md",
     "Tasks/Домашние задачи/Закончить с коридором.md",
-    "Tasks/Спортивные тренировки/Внутренние приседания.md",
-    "Tasks/Здоровье/Спросить у врачейро верд тыкать в телефоне большими пальцами.md",
-    "Days/2025-08-15.md",
-    "Days/Все дни до 2025-08-13 (лето).md",
-    "Tasks/Домашние задачи/Switch шкафов в доме.md",
-    "Days/2025-08-15.sync-conflict-20250816-002247-7FXBB3W.md",
-    "Obsidian Web.md"
+    "Tasks/Спортивные тренировки/Внутренние приседания.md"
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "WmKASTQHgHsK94gge8Hsz",
+      "name": "Task don't closed",
+      "value": "#ff0000"
+    },
+    {
+      "id": "vTinaMk3vPMvBOJcW1rZa",
+      "name": "Task closed",
+      "value": "#00ff1e"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Tasks/Домашние задачи/Встретиться с Дашей.md",
+      "color": "WmKASTQHgHsK94gge8Hsz"
+    },
+    {
+      "path": "Tasks/Домашние задачи/Заварить тачку.md",
+      "color": "vTinaMk3vPMvBOJcW1rZa"
+    }
+  ]
+}
