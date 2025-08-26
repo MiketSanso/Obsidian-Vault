@@ -68,19 +68,32 @@
             "id": "27adfc65bf194261",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Days/2025-08-26.md",
-                "bFile": "Days/2025-08-26.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Days/2025-08-26.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 2025-08-26"
+              "icon": "lucide-file",
+              "title": "2025-08-26"
+            }
+          },
+          {
+            "id": "c9bb15b443d10d1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Days/2025-08-26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-26"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -240,13 +253,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0818b71d227befe7",
+  "active": "c9bb15b443d10d1a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Days/2025-08-26.md",
-    "Посмотреть почему сжимаю зубы и тело, когда глажу кошку или какие-то слово произношу.md",
     "Days/2025-08-25.md",
+    "Days/2025-08-26.md",
     "Days/Daily reports.md",
+    "Tasks/Здоровье/Сходить в больницу (Повтор).md",
+    "Статьи/Мотивация 21 века.md",
+    "conflict-files-obsidian-git.md",
+    "Посмотреть почему сжимаю зубы и тело, когда глажу кошку или какие-то слово произношу.md",
     "Obsidian Web.md",
     "Tasks/Программирование/Programming.md",
     "Tasks/Программирование/Unity и работа/Unity and work.md",
@@ -266,7 +281,6 @@
     "Templates/Task.md",
     "Templates/Group.md",
     "Templates/Day.md",
-    "Days/2025-08-16.md",
     "Заметки",
     "Tasks/Программирование/Python",
     "Tasks/Программирование/Unity и работа",
