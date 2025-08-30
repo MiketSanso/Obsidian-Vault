@@ -3,3 +3,4 @@
 [[Home tasks]]
 [[Self-development]]
 [[Sport training]]
+[[Programming]]
