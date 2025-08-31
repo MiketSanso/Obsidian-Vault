@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Day.md",
+                "file": "Days/2025-08-31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day"
+              "title": "2025-08-31"
             }
           }
         ]
@@ -180,6 +180,8 @@
   },
   "active": "90453a6eefa7527e",
   "lastOpenFiles": [
+    "Templates/Day.md",
+    "Days/2025-08-31.md",
     "Заметки/Нерасформированные задачи.md",
     "Заметки/Заметки.md",
     "Days/2025-08-30.md",
@@ -205,8 +207,6 @@
     "Days/2025-08-27.md",
     "Days/2025-08-28.md",
     "Days/2025-08-29.md",
-    "Tasks/Спортивные тренировки/Подтягивания.md",
-    "Days/(лето) Все дни до 2025-08-16.md",
     "Статьи",
     "Заметки",
     "Templates",
