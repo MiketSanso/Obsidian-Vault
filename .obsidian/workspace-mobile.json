@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Days/2025-08-31.md",
+                "file": "Days/2025-09-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-31"
+              "title": "2025-09-01"
             }
           }
         ],
@@ -181,8 +181,14 @@
   },
   "active": "a16c813505eea461",
   "lastOpenFiles": [
-    "Days/2025-09-01.md",
+    "/Days/2025-09-01.md",
+    "/Days",
+    "/Tasks/Спортивные тренировки/Бег по стадиону.md",
+    "Tasks/Спортивные тренировки/Бег по стадиону.md",
+    "/Tasks/Спортивные тренировки",
+    "/Tasks",
     "Days/2025-08-31.md",
+    "Days/2025-09-01.md",
     "Пресс.md",
     "Tasks/Спортивные тренировки/Sport training.md",
     "Tasks/Task categories.md",
@@ -202,20 +208,14 @@
     "/Tasks/Домашние задачи/Убрать траву вокруг дома (Повтор).md",
     "/Tasks/Домашние задачи/Home tasks.md",
     "/Tasks/Домашние задачи",
-    "/Tasks",
     "/Obsidian Web.md",
     "/Days/2025-08-27.md",
     "/Days/2025-08-24.md",
     "/Days/(лето) Все дни до 2025-08-16.md",
-    "/Days",
     "/Templates/Day.md",
     "/Templates",
     "/Days/2025-08-31.md",
-    "/Days/2025-08-30.md",
-    "/Статьи/Мотивация 21 века.md",
-    "/Статьи/Моментные ощущения после первой работы.md",
     "/Tasks/Программирование/Unity и работа",
-    "/Tasks/Программирование",
-    "/Tasks/Готовка"
+    "/Tasks/Программирование"
   ]
 }
