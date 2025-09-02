@@ -29,7 +29,17 @@
               "state": {
                 "file": "Статьи/Мотивация 21 века.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Мотивация 21 века"
@@ -181,8 +191,10 @@
   },
   "active": "a16c813505eea461",
   "lastOpenFiles": [
-    "Статьи/Моментные ощущения после первой работы.md",
+    "Obsidian Web.md",
+    "Статьи/Статьи.md",
     "Статьи/Мотивация 21 века.md",
+    "Статьи/Моментные ощущения после первой работы.md",
     "Статьи/Проблема отца с алкоголем.md",
     "Days/2025-09-02.md",
     "Статьи/История зарождения любви к психологии.md",
@@ -209,8 +221,6 @@
     "/Статьи/Статьи.md",
     "/Статьи/Мысли за пару дней до отъезда из дома в Москву.md",
     "/Статьи",
-    "/Заметки/Список покупок.md",
-    "/Заметки/Нерасформированные задачи.md",
     "/Заметки",
     "/Tasks/Здоровье",
     "/Tasks/Домашние задачи",
