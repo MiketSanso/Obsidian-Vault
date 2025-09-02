@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Статьи/Мотивация 21 века.md",
+                "file": "Obsidian Web.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Мотивация 21 века"
+              "title": "Obsidian Web"
             }
           }
         ],
@@ -191,9 +191,9 @@
   },
   "active": "a16c813505eea461",
   "lastOpenFiles": [
+    "Статьи/Мотивация 21 века.md",
     "Obsidian Web.md",
     "Статьи/Статьи.md",
-    "Статьи/Мотивация 21 века.md",
     "Статьи/Моментные ощущения после первой работы.md",
     "Статьи/Проблема отца с алкоголем.md",
     "Days/2025-09-02.md",
