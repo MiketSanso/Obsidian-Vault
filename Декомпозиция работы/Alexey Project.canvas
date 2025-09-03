@@ -12,7 +12,10 @@
 		{"id":"43bc2972fa30459b","x":-1760,"y":640,"width":250,"height":159,"color":"6","type":"text","text":"### Дополнительный функционал (после основной разработки)"},
 		{"id":"2e3237d1fdcf66b4","type":"text","text":"### Выгрузка данных","x":200,"y":720,"width":250,"height":50,"color":"6"},
 		{"id":"eec3e1fc7925b1d3","type":"text","text":"### Обработка данных\n","x":200,"y":120,"width":250,"height":60,"color":"6"},
-		{"id":"69cb768df7743cdb","type":"text","text":"### Загрузка данных","x":200,"y":-160,"width":250,"height":60,"color":"6"}
+		{"id":"69cb768df7743cdb","type":"text","text":"### Загрузка данных","x":200,"y":-160,"width":250,"height":60,"color":"6"},
+		{"id":"dc4b073b5c035bbf","x":-590,"y":-33,"width":250,"height":113,"color":"6","type":"text","text":"## Выбор архитектурного пулла"},
+		{"id":"a823c271b5e8d22a","x":-848,"y":-237,"width":250,"height":60,"type":"text","text":"### SDK/Frameworks"},
+		{"id":"d449d9b2a77dd295","x":-313,"y":-230,"width":250,"height":60,"type":"text","text":"### Общая с"}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -26,6 +29,9 @@
 		{"id":"fc24331398925aad","fromNode":"e987f4cc3430b20f","fromSide":"left","toNode":"f67e37a07c754908","toSide":"right"},
 		{"id":"3f786a3ce0c68508","fromNode":"f67e37a07c754908","fromSide":"left","toNode":"81c92ff170d84a64","toSide":"right"},
 		{"id":"0ec3edc5a5183f7a","fromNode":"f67e37a07c754908","fromSide":"left","toNode":"702a8b67a007f28a","toSide":"right"},
-		{"id":"f22f1ca7acb7b169","fromNode":"702a8b67a007f28a","fromSide":"left","toNode":"43bc2972fa30459b","toSide":"right"}
+		{"id":"f22f1ca7acb7b169","fromNode":"702a8b67a007f28a","fromSide":"left","toNode":"43bc2972fa30459b","toSide":"right"},
+		{"id":"e3d737f7931e10f5","fromNode":"e987f4cc3430b20f","fromSide":"top","toNode":"dc4b073b5c035bbf","toSide":"bottom"},
+		{"id":"bf9d2a04a43f2a93","fromNode":"dc4b073b5c035bbf","fromSide":"top","toNode":"a823c271b5e8d22a","toSide":"bottom"},
+		{"id":"9590749313f42d65","fromNode":"dc4b073b5c035bbf","fromSide":"top","toNode":"d449d9b2a77dd295","toSide":"bottom"}
 	]
 }
