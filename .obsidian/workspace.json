@@ -11,14 +11,17 @@
             "id": "90453a6eefa7527e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Декомпозиция работы/Work decomposition.md",
-                "mode": "source",
-                "source": false
+                "file": "Декомпозиция работы/Alexey Project.canvas",
+                "viewState": {
+                  "x": -525,
+                  "y": 302.5,
+                  "zoom": -1.2661403167016156
+                }
               },
-              "icon": "lucide-file",
-              "title": "Work decomposition"
+              "icon": "lucide-layout-dashboard",
+              "title": "Alexey Project"
             }
           }
         ]
@@ -180,10 +183,10 @@
   },
   "active": "90453a6eefa7527e",
   "lastOpenFiles": [
-    "Untitled.base",
-    "Декомпозиция работы/Work decomposition.md",
     "Templates/Decomposition programm.canvas",
     "Декомпозиция работы/Alexey Project.canvas",
+    "Декомпозиция работы/Work decomposition.md",
+    "Untitled.base",
     "Templates/DecompositionTemplate.canvas",
     "Templates/Alexey Project.canvas",
     "README.md",
