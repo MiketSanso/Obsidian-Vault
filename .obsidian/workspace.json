@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Декомпозиция работы/Alexey Project.canvas",
+                "file": "Templates/Decomposition task.canvas",
                 "viewState": {
-                  "x": -419.70974762953256,
-                  "y": 409.78150499196977,
-                  "zoom": -1.2815703572712216
+                  "x": -525,
+                  "y": 302.5,
+                  "zoom": -1.2661403167016156
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Alexey Project"
+              "title": "Decomposition task"
             }
           }
         ]
@@ -183,12 +183,15 @@
   },
   "active": "90453a6eefa7527e",
   "lastOpenFiles": [
+    "Декомпозиция работы/Alexey Project.canvas",
+    "Templates/Decomposition task.canvas",
+    "Templates/DecompositionTemplate.canvas",
+    "Templates/Alexey Project.canvas",
     "README.md",
     "Obsidian Web.md",
     "Tasks/Спортивные тренировки/Качать пресс.md",
     "Tasks/Спортивные тренировки/Пресс.md",
     "Декомпозиция работы/Work decomposition.md",
-    "Декомпозиция работы/Alexey Project.canvas",
     "Days/2025-09-03.md",
     "Декомпозиция работы",
     "Days/2025-09-02.md",

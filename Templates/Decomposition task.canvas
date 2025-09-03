@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"5e742ab3552d3e61","type":"text","text":"## Модули программирования","x":-200,"y":230,"width":250,"height":140,"color":"6"},
+		{"id":"8897649fed01c690","type":"text","text":"### Отображение данных","x":200,"y":390,"width":250,"height":81,"color":"6"},
+		{"id":"e987f4cc3430b20f","type":"text","text":"# **Alexey Project**","x":-600,"y":218,"width":270,"height":165,"color":"1"},
+		{"id":"2e3237d1fdcf66b4","type":"text","text":"### Выгрузка данных","x":200,"y":720,"width":250,"height":50,"color":"6"},
+		{"id":"eec3e1fc7925b1d3","type":"text","text":"### Обработка данных\n","x":200,"y":120,"width":250,"height":60,"color":"6"},
+		{"id":"69cb768df7743cdb","type":"text","text":"### Загрузка данных","x":200,"y":-160,"width":250,"height":60,"color":"6"},
+		{"id":"dc4b073b5c035bbf","type":"text","text":"## Выбор архитектурного пулла","x":-590,"y":-33,"width":250,"height":113,"color":"6"},
+		{"id":"43bc2972fa30459b","type":"text","text":"### Дополнительный функционал (после основной разработки)","x":-1920,"y":666,"width":250,"height":159,"color":"6"},
+		{"id":"81c92ff170d84a64","type":"text","text":"### Верстка","x":-1510,"y":-160,"width":250,"height":60,"color":"6"},
+		{"id":"702a8b67a007f28a","type":"text","text":"### Минимальный смысл/функционал","x":-1510,"y":228,"width":250,"height":102,"color":"6"},
+		{"id":"f67e37a07c754908","type":"text","text":"## Модули дизайна","x":-1120,"y":249,"width":250,"height":60,"color":"6"},
+		{"id":"a823c271b5e8d22a","type":"text","text":"### SDK/Frameworks","x":-870,"y":-220,"width":250,"height":60,"color":"6"},
+		{"id":"d449d9b2a77dd295","type":"text","text":"### Общая система\n","x":-325,"y":-220,"width":250,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
+		{"id":"9ff444a35a3e46ef","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"eec3e1fc7925b1d3","toSide":"left"},
+		{"id":"dbe5f93b4ee29791","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"2e3237d1fdcf66b4","toSide":"left"},
+		{"id":"069c905d482f3e8b","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"8897649fed01c690","toSide":"left"},
+		{"id":"3a43ae4b0dcbeef5","fromNode":"e987f4cc3430b20f","fromSide":"right","toNode":"5e742ab3552d3e61","toSide":"left"},
+		{"id":"fc24331398925aad","fromNode":"e987f4cc3430b20f","fromSide":"left","toNode":"f67e37a07c754908","toSide":"right"},
+		{"id":"3f786a3ce0c68508","fromNode":"f67e37a07c754908","fromSide":"left","toNode":"81c92ff170d84a64","toSide":"right"},
+		{"id":"0ec3edc5a5183f7a","fromNode":"f67e37a07c754908","fromSide":"left","toNode":"702a8b67a007f28a","toSide":"right"},
+		{"id":"f22f1ca7acb7b169","fromNode":"702a8b67a007f28a","fromSide":"left","toNode":"43bc2972fa30459b","toSide":"right"},
+		{"id":"e3d737f7931e10f5","fromNode":"e987f4cc3430b20f","fromSide":"top","toNode":"dc4b073b5c035bbf","toSide":"bottom"},
+		{"id":"bf9d2a04a43f2a93","fromNode":"dc4b073b5c035bbf","fromSide":"top","toNode":"a823c271b5e8d22a","toSide":"bottom"},
+		{"id":"9590749313f42d65","fromNode":"dc4b073b5c035bbf","fromSide":"top","toNode":"d449d9b2a77dd295","toSide":"bottom"}
+	]
+}
