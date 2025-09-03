@@ -1,11 +1,11 @@
 Здесь будут храниться все ссылки на **Все записи Obsidian.**
 
-Отдел записей: [[Task categories]].
-Отдел записей: [[Daily reports]].
-Отдел записей: [[Статьи]].
-Отдел записей: [[Templates]].
-Отдел записей: [[Заметки]]
-Отдел записей: [[Books]]
+Record section: [[Task categories]].
+Record section: [[Daily reports]].
+Record section: [[Статьи]].
+Record section: [[Templates]].
+Record section: [[Заметки]]
+Record section: [[Books]]
 
 
-Файл для ознакомления с общей целью ведения: [[README]]
+File for reviewing the general purpose of maintaining: [[README]]
