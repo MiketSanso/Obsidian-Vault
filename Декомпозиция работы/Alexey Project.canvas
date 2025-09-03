@@ -2,16 +2,16 @@
 	"nodes":[
 		{"id":"93fa2bc6f5bc5488","type":"text","text":"Сделать отображение **нажатий** на Image. (Точки)","x":620,"y":300,"width":250,"height":60},
 		{"id":"052fb4edce98a744","type":"text","text":"Сделать Line Renderer-ы","x":620,"y":400,"width":250,"height":60},
-		{"id":"8897649fed01c690","type":"text","text":"#### Отображение данных","x":200,"y":400,"width":250,"height":60},
-		{"id":"eec3e1fc7925b1d3","type":"text","text":"#### Обработка данных\n","x":200,"y":160,"width":250,"height":60},
-		{"id":"69cb768df7743cdb","type":"text","text":"#### Вход данных","x":200,"y":-100,"width":250,"height":60},
-		{"id":"2e3237d1fdcf66b4","type":"text","text":"#### Выгрузка данных","x":200,"y":680,"width":250,"height":60},
+		{"id":"eec3e1fc7925b1d3","type":"text","text":"### Обработка данных\n","x":200,"y":160,"width":250,"height":60},
+		{"id":"69cb768df7743cdb","type":"text","text":"### Вход данных","x":200,"y":-100,"width":250,"height":60},
+		{"id":"2e3237d1fdcf66b4","type":"text","text":"### Выгрузка данных","x":200,"y":680,"width":250,"height":60},
 		{"id":"5264fe79fb450c6c","type":"text","text":"Сделать смену фото","x":620,"y":500,"width":250,"height":60},
 		{"id":"5e742ab3552d3e61","type":"text","text":"## Модули программирования","x":-200,"y":230,"width":250,"height":140},
-		{"id":"f67e37a07c754908","x":-960,"y":270,"width":250,"height":60,"type":"text","text":"## Модули дизайна"},
 		{"id":"81c92ff170d84a64","x":-1331,"y":88,"width":250,"height":60,"type":"text","text":"### Верстка"},
 		{"id":"702a8b67a007f28a","x":-1331,"y":430,"width":250,"height":102,"type":"text","text":"### Минимальный смысл/функционал"},
-		{"id":"e987f4cc3430b20f","type":"text","text":"# **Alexey Project**","x":-600,"y":205,"width":270,"height":190,"color":"1"}
+		{"id":"f67e37a07c754908","x":-960,"y":270,"width":250,"height":60,"type":"text","text":"## Модули дизайна"},
+		{"id":"8897649fed01c690","type":"text","text":"### Отображение данных","x":200,"y":390,"width":250,"height":81},
+		{"id":"e987f4cc3430b20f","type":"text","text":"# **Alexey Project**","x":-600,"y":218,"width":270,"height":165,"color":"1"}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
