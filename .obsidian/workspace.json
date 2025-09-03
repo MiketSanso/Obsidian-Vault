@@ -84,12 +84,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Days/2025-08-26.md",
+                "file": "Days/2025-09-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-26"
+              "title": "2025-09-03"
             }
           }
         ],
@@ -255,8 +255,9 @@
   },
   "active": "c9bb15b443d10d1a",
   "lastOpenFiles": [
-    "Days/2025-08-25.md",
     "Days/2025-08-26.md",
+    "Days/2025-09-03.md",
+    "Days/2025-08-25.md",
     "Days/Daily reports.md",
     "Tasks/Здоровье/Сходить в больницу (Повтор).md",
     "Статьи/Мотивация 21 века.md",
@@ -280,7 +281,6 @@
     "README.md",
     "Templates/Task.md",
     "Templates/Group.md",
-    "Templates/Day.md",
     "Заметки",
     "Tasks/Программирование/Python",
     "Tasks/Программирование/Unity и работа",
