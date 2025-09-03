@@ -11,14 +11,17 @@
             "id": "90453a6eefa7527e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Obsidian Web.md",
-                "mode": "source",
-                "source": false
+                "file": "Декомпозиция работы/Alexey Project.canvas",
+                "viewState": {
+                  "x": 165,
+                  "y": 320,
+                  "zoom": -0.2815703572712217
+                }
               },
-              "icon": "lucide-file",
-              "title": "Obsidian Web"
+              "icon": "lucide-layout-dashboard",
+              "title": "Alexey Project"
             }
           }
         ]
@@ -180,9 +183,10 @@
   },
   "active": "90453a6eefa7527e",
   "lastOpenFiles": [
+    "README.md",
+    "Obsidian Web.md",
     "Tasks/Спортивные тренировки/Качать пресс.md",
     "Tasks/Спортивные тренировки/Пресс.md",
-    "Obsidian Web.md",
     "Декомпозиция работы/Work decomposition.md",
     "Декомпозиция работы/Alexey Project.canvas",
     "Days/2025-09-03.md",
@@ -201,7 +205,6 @@
     "Tasks/Домашние задачи/Убрать шкаф в свою комнату и поправили провода.md",
     "Tasks/Домашние задачи/Сделать 2 фото 3 на 4.md",
     "Tasks/Домашние задачи/Сходить за покупками.md",
-    "README.md",
     "Tasks/Здоровье/Health.md",
     "Tasks/Здоровье/Посмотреть почему сжимаю зубы и тело, когда глажу кошку или какие-то слово произношу.md",
     "Days/2025-08-31.md",
