@@ -11,17 +11,14 @@
             "id": "90453a6eefa7527e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Templates/Decomposition task.canvas",
-                "viewState": {
-                  "x": -525,
-                  "y": 302.5,
-                  "zoom": -1.2661403167016156
-                }
+                "file": "Декомпозиция работы/Work decomposition.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Decomposition task"
+              "icon": "lucide-file",
+              "title": "Work decomposition"
             }
           }
         ]
@@ -183,15 +180,16 @@
   },
   "active": "90453a6eefa7527e",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Декомпозиция работы/Work decomposition.md",
+    "Templates/Decomposition programm.canvas",
     "Декомпозиция работы/Alexey Project.canvas",
-    "Templates/Decomposition task.canvas",
     "Templates/DecompositionTemplate.canvas",
     "Templates/Alexey Project.canvas",
     "README.md",
     "Obsidian Web.md",
     "Tasks/Спортивные тренировки/Качать пресс.md",
     "Tasks/Спортивные тренировки/Пресс.md",
-    "Декомпозиция работы/Work decomposition.md",
     "Days/2025-09-03.md",
     "Декомпозиция работы",
     "Days/2025-09-02.md",
@@ -220,7 +218,6 @@
     "Tasks/Домашние задачи/Повторяющиеся",
     "Tasks/Программирование/Unity и работа",
     "Tasks/Программирование/Python",
-    "Tasks/Спортивные тренировки",
-    "Tasks/Программирование"
+    "Tasks/Спортивные тренировки"
   ]
 }
