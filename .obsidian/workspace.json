@@ -11,17 +11,14 @@
             "id": "90453a6eefa7527e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/Untitled.canvas",
-                "viewState": {
-                  "x": 295,
-                  "y": 327,
-                  "zoom": -0.3333333333333333
-                }
+                "file": "Obsidian Web.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Obsidian Web"
             }
           }
         ]
@@ -183,8 +180,9 @@
   },
   "active": "90453a6eefa7527e",
   "lastOpenFiles": [
+    "Декомпозиция работы/Work Decomposition.md",
+    "Декомпозиция работы/Alexey Project.canvas",
     "Days/2025-09-03.md",
-    "Декомпозиция работы/Untitled.canvas",
     "Декомпозиция работы",
     "Days/2025-09-02.md",
     "Days/2025-09-01.md",
@@ -209,7 +207,6 @@
     "Days/2025-08-31.md",
     "Days/(лето) Все дни до 2025-08-16.md",
     "Days/Daily reports.md",
-    "Статьи/Статьи.md",
     "Сделать 2 фото 3",
     "Статьи",
     "Заметки",
