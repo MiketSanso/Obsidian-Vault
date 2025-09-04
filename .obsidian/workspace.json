@@ -124,15 +124,14 @@
             "id": "25f33a82c32afc20",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Days/2025-09-03.md",
-                "bFile": "Days/2025-09-03.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Days/2025-09-04.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 2025-09-03"
+              "icon": "lucide-file",
+              "title": "2025-09-04"
             }
           }
         ],
@@ -159,7 +158,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -285,19 +284,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Создать новую базу": false,
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "audio-recorder:Начать/остановить запись": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0818b71d227befe7",
+  "active": "25f33a82c32afc20",
   "lastOpenFiles": [
+    "Days/2025-09-04.md",
     "conflict-files-obsidian-git.md",
     "Days/2025-09-03.md",
     "Templates/Decomposition programm.canvas",
