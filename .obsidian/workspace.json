@@ -124,15 +124,14 @@
             "id": "25f33a82c32afc20",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Days/2025-09-03.md",
-                "bFile": "Days/2025-09-03.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Days/2025-09-04.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 2025-09-03"
+              "icon": "lucide-file",
+              "title": "2025-09-04"
             }
           }
         ],
@@ -296,8 +295,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0818b71d227befe7",
+  "active": "25f33a82c32afc20",
   "lastOpenFiles": [
+    "Days/2025-09-04.md",
     "conflict-files-obsidian-git.md",
     "Days/2025-09-03.md",
     "Templates/Decomposition programm.canvas",
