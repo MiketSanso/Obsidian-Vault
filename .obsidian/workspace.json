@@ -124,14 +124,17 @@
             "id": "25f33a82c32afc20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Days/2025-09-04.md",
-                "mode": "source",
-                "source": false
+                "file": "Декомпозиция работы/Alexey Project.canvas",
+                "viewState": {
+                  "x": 833.9980412846021,
+                  "y": 439.5261703704994,
+                  "zoom": -0.07350333435640766
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-09-04"
+              "icon": "lucide-layout-dashboard",
+              "title": "Alexey Project"
             }
           }
         ],
