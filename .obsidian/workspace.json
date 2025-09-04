@@ -138,14 +138,15 @@
             "id": "00b40acdc80499dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -309,7 +310,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00b40acdc80499dd",
+  "active": "0818b71d227befe7",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Days/2025-09-04.md",
