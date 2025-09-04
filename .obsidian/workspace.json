@@ -124,17 +124,14 @@
             "id": "25f33a82c32afc20",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/Alexey Project.canvas",
-                "viewState": {
-                  "x": 833.9980412846021,
-                  "y": 439.5261703704994,
-                  "zoom": -0.07350333435640766
-                }
+                "file": "Days/2025-09-04.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Alexey Project"
+              "icon": "lucide-file",
+              "title": "2025-09-04"
             }
           }
         ],
@@ -300,6 +297,7 @@
   },
   "active": "25f33a82c32afc20",
   "lastOpenFiles": [
+    "Декомпозиция работы/Alexey Project.canvas",
     "Пресс.md",
     "Days/2025-09-04.md",
     "conflict-files-obsidian-git.md",
@@ -307,7 +305,6 @@
     "Templates/Decomposition programm.canvas",
     "Days/2025-09-02.md",
     "Декомпозиция работы/Work Decomposition.md",
-    "Декомпозиция работы/Alexey Project.canvas",
     "Декомпозиция работы",
     "Tasks/Готовка/Приготовить еду.md",
     "Days/2025-09-01.md",
@@ -328,7 +325,6 @@
     "Tasks/Программирование/Python/Python.md",
     "Tasks/Программирование/Python/Составить план по развитию.md",
     "Tasks/Программирование/Python/Сверстать первое приложение для спорта и хранения данных о спорте.md",
-    "Tasks/Программирование/Unity и работа/Сделать Лёхино приложение.md",
     "Заметки",
     "Tasks/Программирование/Python",
     "Tasks/Программирование/Unity и работа",
