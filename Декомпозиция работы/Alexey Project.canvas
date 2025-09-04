@@ -12,10 +12,10 @@
 		{"id":"93fa2bc6f5bc5488","type":"text","text":"Сделать отображение **нажатий** на Image. (Точки)","x":860,"y":300,"width":250,"height":60,"color":"1"},
 		{"id":"8897649fed01c690","type":"text","text":"### Отображение данных","x":440,"y":390,"width":250,"height":81,"color":"6"},
 		{"id":"052fb4edce98a744","type":"text","text":"Сделать Line Renderer-ы","x":860,"y":400,"width":250,"height":60,"color":"1"},
-		{"id":"5264fe79fb450c6c","type":"text","text":"Сделать смену фото","x":860,"y":500,"width":250,"height":60,"color":"1"},
+		{"id":"5264fe79fb450c6c","type":"text","text":"Сделать смену фото","x":860,"y":500,"width":250,"height":60,"color":"3"},
 		{"id":"2e3237d1fdcf66b4","type":"text","text":"### Выгрузка данных","x":440,"y":720,"width":250,"height":50,"color":"6"},
 		{"id":"a823c271b5e8d22a","type":"text","text":"### SDK/Frameworks","x":-960,"y":-220,"width":250,"height":60,"color":"6"},
-		{"id":"821356bf9e51818a","x":-580,"y":-280,"width":250,"height":120,"color":"6","type":"text","text":"### UI паттерны проектирования"},
+		{"id":"821356bf9e51818a","type":"text","text":"### UI паттерны проектирования","x":-580,"y":-280,"width":250,"height":120,"color":"6"},
 		{"id":"d449d9b2a77dd295","type":"text","text":"### Общая система\n","x":-210,"y":-220,"width":250,"height":60,"color":"6"}
 	],
 	"edges":[
