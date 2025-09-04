@@ -138,15 +138,17 @@
             "id": "00b40acdc80499dd",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "canvas",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Декомпозиция работы/Alexey Project.canvas",
+                "viewState": {
+                  "x": 984.415549169811,
+                  "y": 442.5803282605172,
+                  "zoom": 0.3333333333333334
+                }
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-layout-dashboard",
+              "title": "Alexey Project"
             }
           }
         ],
@@ -310,7 +312,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0818b71d227befe7",
+  "active": "00b40acdc80499dd",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Days/2025-09-04.md",
