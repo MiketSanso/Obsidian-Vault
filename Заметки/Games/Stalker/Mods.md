@@ -6,4 +6,9 @@
 
 **Зов Припяти:** 
 
-Gunslinger + 
+Gunslinger/StCop + 
+
+
+
+
+**Чистое небо:** OGSM
