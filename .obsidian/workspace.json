@@ -138,17 +138,14 @@
             "id": "00b40acdc80499dd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/Untitled.canvas",
-                "viewState": {
-                  "x": -56.1833024789176,
-                  "y": -564.3083548248903,
-                  "zoom": -2.0687384135119227
-                }
+                "file": "Days/2025-09-05.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "2025-09-05"
             }
           }
         ],
@@ -315,8 +312,8 @@
   },
   "active": "00b40acdc80499dd",
   "lastOpenFiles": [
-    "Декомпозиция работы/Alexey Project.canvas",
     "Декомпозиция работы/Untitled.canvas",
+    "Декомпозиция работы/Alexey Project.canvas",
     "Templates/Decomposition programm.canvas",
     "Templates/Category task.md",
     "Декомпозиция работы/Untitled.md",
