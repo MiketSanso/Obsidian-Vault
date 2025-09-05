@@ -194,14 +194,17 @@
             "id": "50cb2284ab33892f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Предметы (КОЛЛЕДЖ)/История.md",
-                "mode": "source",
-                "source": false
+                "file": "Декомпозиция работы/Untitled.canvas",
+                "viewState": {
+                  "x": -353.3245116411914,
+                  "y": -1455.9728759538636,
+                  "zoom": 1.1102230246251565e-16
+                }
               },
-              "icon": "lucide-file",
-              "title": "История"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -367,10 +370,10 @@
   },
   "active": "50cb2284ab33892f",
   "lastOpenFiles": [
+    "Предметы (КОЛЛЕДЖ)/История.md",
     "Декомпозиция работы/Untitled.canvas",
     "Days/2025-09-05.md",
     "conflict-files-obsidian-git.md",
-    "Предметы (КОЛЛЕДЖ)/История.md",
     "Пресс.md",
     "Предметы (КОЛЛЕДЖ)",
     "Obsidian Web.md",
