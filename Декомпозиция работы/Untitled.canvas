@@ -1,14 +1,14 @@
 {
 	"nodes":[
 		{"id":"ade5b83646886ed3","type":"text","text":"# **MENTOR TASK**","x":-300,"y":-120,"width":260,"height":100,"color":"1"},
-		{"id":"233ded49ae8ac27c","x":-562,"y":498,"width":250,"height":60,"type":"text","text":"## Сеть"},
-		{"id":"00a9817f4e1a0a26","x":0,"y":438,"width":250,"height":60,"type":"text","text":"## Android"},
-		{"id":"a499f024dc6b01bb","x":-290,"y":-600,"width":250,"height":60,"type":"text","text":"## C#"},
-		{"id":"b09ec2f221a41bf6","x":310,"y":-440,"width":250,"height":93,"type":"text","text":"## Математика для GameDev"},
-		{"id":"8258d841796536ee","x":310,"y":280,"width":250,"height":82,"type":"text","text":"## Практические кейсы"},
-		{"id":"3ae7cdf851d87b32","x":-1160,"y":-120,"width":250,"height":92,"type":"text","text":"## Паттерны и архитектура"},
-		{"id":"717e9cb809d236f1","x":-960,"y":384,"width":250,"height":54,"type":"text","text":"## Unity"},
-		{"id":"2345516322d89aa9","x":-312,"y":720,"width":250,"height":60,"type":"text","text":"## 3D-графика"}
+		{"id":"a499f024dc6b01bb","x":-290,"y":-600,"width":250,"height":60,"color":"6","type":"text","text":"## C#"},
+		{"id":"b09ec2f221a41bf6","x":435,"y":-360,"width":250,"height":93,"color":"6","type":"text","text":"## Математика для GameDev"},
+		{"id":"8258d841796536ee","x":480,"y":329,"width":250,"height":82,"color":"6","type":"text","text":"## Практические кейсы"},
+		{"id":"233ded49ae8ac27c","x":-640,"y":438,"width":250,"height":60,"color":"6","type":"text","text":"## Сеть"},
+		{"id":"2345516322d89aa9","x":-295,"y":640,"width":250,"height":50,"color":"6","type":"text","text":"## 3D-графика"},
+		{"id":"00a9817f4e1a0a26","x":80,"y":498,"width":250,"height":60,"color":"6","type":"text","text":"## Android"},
+		{"id":"717e9cb809d236f1","x":-1280,"y":384,"width":250,"height":54,"color":"6","type":"text","text":"## Unity"},
+		{"id":"3ae7cdf851d87b32","x":-1030,"y":-360,"width":250,"height":92,"color":"6","type":"text","text":"## Паттерны и архитектура"}
 	],
 	"edges":[
 		{"id":"9a181a683b20ab81","fromNode":"ade5b83646886ed3","fromSide":"right","toNode":"b09ec2f221a41bf6","toSide":"left"},
