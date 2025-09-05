@@ -8,7 +8,7 @@
 		{"id":"2345516322d89aa9","x":-295,"y":640,"width":250,"height":50,"color":"6","type":"text","text":"## 3D-графика"},
 		{"id":"00a9817f4e1a0a26","x":80,"y":498,"width":250,"height":60,"color":"6","type":"text","text":"## Android"},
 		{"id":"717e9cb809d236f1","x":-1280,"y":384,"width":250,"height":54,"color":"6","type":"text","text":"## Unity"},
-		{"id":"3ae7cdf851d87b32","x":-1030,"y":-360,"width":250,"height":92,"color":"6","type":"text","text":"## Паттерны и архитектура"}
+		{"id":"3ae7cdf851d87b32","x":-1060,"y":-360,"width":250,"height":92,"color":"6","type":"text","text":"## Паттерны и архитектура"}
 	],
 	"edges":[
 		{"id":"9a181a683b20ab81","fromNode":"ade5b83646886ed3","fromSide":"right","toNode":"b09ec2f221a41bf6","toSide":"left"},
