@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"e987f4cc3430b20f","type":"text","text":"# **Alexey Project**","x":-600,"y":218,"width":270,"height":165,"color":"1"},
+		{"id":"e987f4cc3430b20f","type":"text","text":"# **Alexey Project**","x":-600,"y":218,"width":270,"height":165,"color":"4"},
 		{"id":"dc4b073b5c035bbf","type":"text","text":"## Выбор архитектурного пулла","x":-590,"y":-33,"width":250,"height":113,"color":"6"},
 		{"id":"43bc2972fa30459b","type":"text","text":"### Дополнительный функционал (после основной разработки)","x":-1920,"y":691,"width":250,"height":159,"color":"6"},
 		{"id":"81c92ff170d84a64","type":"text","text":"### Верстка","x":-1510,"y":-135,"width":250,"height":60,"color":"6"},
@@ -9,14 +9,18 @@
 		{"id":"5e742ab3552d3e61","type":"text","text":"## Модули программирования","x":40,"y":230,"width":250,"height":140,"color":"6"},
 		{"id":"69cb768df7743cdb","type":"text","text":"### Загрузка данных","x":440,"y":-160,"width":250,"height":60,"color":"6"},
 		{"id":"eec3e1fc7925b1d3","type":"text","text":"### Обработка данных\n","x":440,"y":120,"width":250,"height":60,"color":"6"},
-		{"id":"93fa2bc6f5bc5488","type":"text","text":"Сделать отображение **нажатий** на Image. (Точки)","x":860,"y":300,"width":250,"height":60,"color":"1"},
+		{"id":"93fa2bc6f5bc5488","type":"text","text":"Сделать отображение **нажатий** на Image. (Точки)","x":860,"y":300,"width":250,"height":60,"color":"5"},
 		{"id":"8897649fed01c690","type":"text","text":"### Отображение данных","x":440,"y":390,"width":250,"height":81,"color":"6"},
-		{"id":"052fb4edce98a744","type":"text","text":"Сделать Line Renderer-ы","x":860,"y":400,"width":250,"height":60,"color":"1"},
-		{"id":"5264fe79fb450c6c","type":"text","text":"Сделать смену фото","x":860,"y":500,"width":250,"height":60,"color":"3"},
+		{"id":"052fb4edce98a744","type":"text","text":"Сделать Line Renderer-ы","x":860,"y":400,"width":250,"height":60,"color":"4"},
+		{"id":"5264fe79fb450c6c","type":"text","text":"Сделать смену фото","x":860,"y":500,"width":250,"height":60,"color":"4"},
 		{"id":"2e3237d1fdcf66b4","type":"text","text":"### Выгрузка данных","x":440,"y":720,"width":250,"height":50,"color":"6"},
 		{"id":"a823c271b5e8d22a","type":"text","text":"### SDK/Frameworks","x":-960,"y":-220,"width":250,"height":60,"color":"6"},
 		{"id":"821356bf9e51818a","type":"text","text":"### UI паттерны проектирования","x":-580,"y":-280,"width":250,"height":120,"color":"6"},
-		{"id":"d449d9b2a77dd295","type":"text","text":"### Общая система\n","x":-210,"y":-220,"width":250,"height":60,"color":"6"}
+		{"id":"d449d9b2a77dd295","type":"text","text":"### Общая система\n","x":-210,"y":-220,"width":250,"height":60,"color":"6"},
+		{"id":"a6c4578dc7c2a396","type":"text","text":"При смене фото","x":1280,"y":340,"width":250,"height":60,"color":"4"},
+		{"id":"34640c4f9b2c1f0f","type":"text","text":"При выделении\n","x":1280,"y":441,"width":250,"height":60,"color":"4"},
+		{"id":"3279ccafb80eed37","type":"text","text":"При смене фото","x":1225,"y":129,"width":250,"height":60,"color":"5"},
+		{"id":"19fa52d5f0723e71","type":"text","text":"При выделении\n","x":1279,"y":234,"width":250,"height":60,"color":"5"}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -34,6 +38,10 @@
 		{"id":"e3d737f7931e10f5","fromNode":"e987f4cc3430b20f","fromSide":"top","toNode":"dc4b073b5c035bbf","toSide":"bottom"},
 		{"id":"bf9d2a04a43f2a93","fromNode":"dc4b073b5c035bbf","fromSide":"top","toNode":"a823c271b5e8d22a","toSide":"bottom"},
 		{"id":"9590749313f42d65","fromNode":"dc4b073b5c035bbf","fromSide":"top","toNode":"d449d9b2a77dd295","toSide":"bottom"},
-		{"id":"ea71e08dbc8ba4a6","fromNode":"dc4b073b5c035bbf","fromSide":"top","toNode":"821356bf9e51818a","toSide":"bottom"}
+		{"id":"ea71e08dbc8ba4a6","fromNode":"dc4b073b5c035bbf","fromSide":"top","toNode":"821356bf9e51818a","toSide":"bottom"},
+		{"id":"349f020c428d6e7f","fromNode":"052fb4edce98a744","fromSide":"right","toNode":"a6c4578dc7c2a396","toSide":"left"},
+		{"id":"1d99eeeaba928134","fromNode":"052fb4edce98a744","fromSide":"right","toNode":"34640c4f9b2c1f0f","toSide":"left"},
+		{"id":"bd3ffec42418abcf","fromNode":"93fa2bc6f5bc5488","fromSide":"right","toNode":"3279ccafb80eed37","toSide":"left"},
+		{"id":"73ac49dede96a5b7","fromNode":"93fa2bc6f5bc5488","fromSide":"right","toNode":"19fa52d5f0723e71","toSide":"left"}
 	]
 }
