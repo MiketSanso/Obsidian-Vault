@@ -10,14 +10,18 @@
 		{"id":"717e9cb809d236f1","x":-1280,"y":384,"width":250,"height":54,"color":"6","type":"text","text":"## Unity"},
 		{"id":"3ae7cdf851d87b32","x":-1060,"y":-360,"width":250,"height":92,"color":"6","type":"text","text":"## Паттерны и архитектура"},
 		{"id":"7610b96dcb78673e","x":-481,"y":-834,"width":250,"height":60,"type":"text","text":"Ссылочные и значимые типы - разница."},
-		{"id":"45541a717427ba5e","x":-158,"y":-940,"width":250,"height":156,"type":"text","text":"Коллекции: Array, List, Stak, Queue, Dictionary, HashSet, LinkedList. Сложность добавления, поиска, удаления элемента."},
 		{"id":"35cf1577de5d0c22","x":-689,"y":-986,"width":250,"height":60,"type":"text","text":"Всегда ли значимые типы хранятся в стеке? "},
 		{"id":"30e1e11972316633","x":-606,"y":-1160,"width":250,"height":60,"type":"text","text":"Какие минусы боксинга? Почему он ресурсоёмкий?"},
 		{"id":"30ec2865752bac52","x":77,"y":-748,"width":250,"height":60,"type":"text","text":"String и StringBuilder, интернирование строк."},
 		{"id":"ce06ff4d444d4330","x":80,"y":-620,"width":250,"height":91,"type":"text","text":"Интерфейсы, и абстрактные классы - разница"},
 		{"id":"79eeb121e69514be","x":-690,"y":-670,"width":250,"height":60,"type":"text","text":"Делегаты, замыкания."},
-		{"id":"9b2398a7d07f6407","x":-602,"y":-535,"width":250,"height":60,"type":"text","text":"Когда вызывается статический конструктор?"},
-		{"id":"b5e0aaa711ec85f8","x":-407,"y":-389,"width":250,"height":60,"type":"text","text":"Асинхронность и многопоточность, корутины, UniTask'и."}
+		{"id":"9b2398a7d07f6407","x":-602,"y":-535,"width":250,"height":75,"type":"text","text":"Когда вызывается статический конструктор?"},
+		{"id":"45541a717427ba5e","x":-106,"y":-960,"width":250,"height":156,"type":"text","text":"Коллекции: Array, List, Stak, Queue, Dictionary, HashSet, LinkedList. Сложность добавления, поиска, удаления элемента."},
+		{"id":"b5e0aaa711ec85f8","x":-200,"y":-1300,"width":250,"height":89,"type":"text","text":"Асинхронность и многопоточность, корутины, UniTask'и."},
+		{"id":"17747727d20b1bf9","x":-87,"y":-1493,"width":250,"height":60,"type":"text","text":"Минусы Task в Unity"},
+		{"id":"32c4a4fe036c2700","x":100,"y":-1400,"width":250,"height":73,"type":"text","text":"Минусы многопоточности в Unity\n"},
+		{"id":"a27a66f7e3c3efd4","x":202,"y":-1241,"width":250,"height":60,"type":"text","text":"Чем UniTask лучше?"},
+		{"id":"4117db8723ad9cd0","x":-420,"y":-1436,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"9a181a683b20ab81","fromNode":"ade5b83646886ed3","fromSide":"right","toNode":"b09ec2f221a41bf6","toSide":"left"},
@@ -36,6 +40,7 @@
 		{"id":"424b9c8433d6c915","fromNode":"a499f024dc6b01bb","fromSide":"top","toNode":"ce06ff4d444d4330","toSide":"bottom"},
 		{"id":"30032c9e5e41c830","fromNode":"a499f024dc6b01bb","fromSide":"top","toNode":"79eeb121e69514be","toSide":"bottom"},
 		{"id":"3ec4c9658e325e0b","fromNode":"a499f024dc6b01bb","fromSide":"top","toNode":"9b2398a7d07f6407","toSide":"bottom"},
-		{"id":"b3f602827742cbfd","fromNode":"a499f024dc6b01bb","fromSide":"top","toNode":"b5e0aaa711ec85f8","toSide":"bottom"}
-	]
-}
+		{"id":"b3f602827742cbfd","fromNode":"a499f024dc6b01bb","fromSide":"top","toNode":"b5e0aaa711ec85f8","toSide":"bottom"},
+		{"id":"f574946c508133c0","fromNode":"b5e0aaa711ec85f8","fromSide":"top","toNode":"17747727d20b1bf9","toSide":"bottom"},
+		{"id":"a78c73138740edb5","fromNode":"b5e0aaa711ec85f8","fromSide":"top","toNode":"32c4a4fe036c2700","toSide":"bottom"},
+		{"id":"46297e8dcd662d69","f
