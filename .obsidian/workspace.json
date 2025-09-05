@@ -142,9 +142,9 @@
               "state": {
                 "file": "Декомпозиция работы/Untitled.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -140.65501249757634,
+                  "y": -131.5763520724259,
+                  "zoom": -0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -209,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 200
   },
   "right": {
     "id": "e4718eb4439f0a7d",
@@ -297,7 +297,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -314,11 +315,11 @@
   },
   "active": "00b40acdc80499dd",
   "lastOpenFiles": [
-    "Templates/Decomposition programm.canvas",
+    "Декомпозиция работы/Alexey Project.canvas",
     "Декомпозиция работы/Untitled.canvas",
+    "Templates/Decomposition programm.canvas",
     "Templates/Category task.md",
     "Декомпозиция работы/Untitled.md",
-    "Декомпозиция работы/Alexey Project.canvas",
     "Tasks/Программирование/Unity и работа/Сделать Лёхино приложение.md",
     "Days/2025-09-04.md",
     "Days/2025-09-05.md",

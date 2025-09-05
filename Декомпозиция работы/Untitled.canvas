@@ -1,6 +1,17 @@
 {
 	"nodes":[
-		{"id":"ade5b83646886ed3","x":-213,"y":-105,"width":250,"height":60,"color":"1","type":"text","text":"Mentor task"}
+		{"id":"ade5b83646886ed3","type":"text","text":"# **MENTOR TASK**","x":-300,"y":-120,"width":260,"height":100,"color":"1"},
+		{"id":"b09ec2f221a41bf6","x":224,"y":-93,"width":250,"height":60,"type":"text","text":""},
+		{"id":"a499f024dc6b01bb","x":-296,"y":-345,"width":250,"height":60,"type":"text","text":""},
+		{"id":"3ae7cdf851d87b32","x":-797,"y":-112,"width":250,"height":60,"type":"text","text":""},
+		{"id":"717e9cb809d236f1","x":-526,"y":182,"width":250,"height":60,"type":"text","text":""},
+		{"id":"2345516322d89aa9","x":-24,"y":176,"width":250,"height":60,"type":"text","text":""}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"9a181a683b20ab81","fromNode":"ade5b83646886ed3","fromSide":"right","toNode":"b09ec2f221a41bf6","toSide":"left"},
+		{"id":"87304c8cc583392c","fromNode":"ade5b83646886ed3","fromSide":"top","toNode":"a499f024dc6b01bb","toSide":"bottom"},
+		{"id":"6de4968a0f4411e4","fromNode":"ade5b83646886ed3","fromSide":"left","toNode":"3ae7cdf851d87b32","toSide":"right"},
+		{"id":"52e873c298c0d1e7","fromNode":"ade5b83646886ed3","fromSide":"bottom","toNode":"717e9cb809d236f1","toSide":"top"},
+		{"id":"d264cc568b67f452","fromNode":"ade5b83646886ed3","fromSide":"bottom","toNode":"2345516322d89aa9","toSide":"top"}
+	]
 }
