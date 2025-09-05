@@ -10,9 +10,9 @@
 		{"id":"717e9cb809d236f1","x":-1280,"y":384,"width":250,"height":54,"color":"6","type":"text","text":"## Unity"},
 		{"id":"3ae7cdf851d87b32","x":-1060,"y":-360,"width":250,"height":92,"color":"6","type":"text","text":"## Паттерны и архитектура"},
 		{"id":"7610b96dcb78673e","x":-481,"y":-834,"width":250,"height":60,"type":"text","text":"Ссылочные и значимые типы - разница."},
-		{"id":"45541a717427ba5e","x":-158,"y":-844,"width":250,"height":60,"type":"text","text":""},
+		{"id":"45541a717427ba5e","x":-158,"y":-844,"width":250,"height":60,"type":"text","text":"Коллекции: Array, List, Stak, Queue, Dictionary, HashSet, LinkedList. Сложность добавления, поиска, удаления элемента."},
 		{"id":"35cf1577de5d0c22","x":-689,"y":-986,"width":250,"height":60,"type":"text","text":"Всегда ли значимые типы хранятся в стеке? "},
-		{"id":"30e1e11972316633","x":-476,"y":-1097,"width":250,"height":60,"type":"text","text":""}
+		{"id":"30e1e11972316633","x":-606,"y":-1160,"width":250,"height":60,"type":"text","text":"Какие минусы боксинга? Почему он ресурсоёмкий?"}
 	],
 	"edges":[
 		{"id":"9a181a683b20ab81","fromNode":"ade5b83646886ed3","fromSide":"right","toNode":"b09ec2f221a41bf6","toSide":"left"},
