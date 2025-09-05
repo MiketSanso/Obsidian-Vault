@@ -8,7 +8,11 @@
 		{"id":"2345516322d89aa9","x":-295,"y":640,"width":250,"height":50,"color":"6","type":"text","text":"## 3D-графика"},
 		{"id":"00a9817f4e1a0a26","x":80,"y":498,"width":250,"height":60,"color":"6","type":"text","text":"## Android"},
 		{"id":"717e9cb809d236f1","x":-1280,"y":384,"width":250,"height":54,"color":"6","type":"text","text":"## Unity"},
-		{"id":"3ae7cdf851d87b32","x":-1060,"y":-360,"width":250,"height":92,"color":"6","type":"text","text":"## Паттерны и архитектура"}
+		{"id":"3ae7cdf851d87b32","x":-1060,"y":-360,"width":250,"height":92,"color":"6","type":"text","text":"## Паттерны и архитектура"},
+		{"id":"7610b96dcb78673e","x":-481,"y":-834,"width":250,"height":60,"type":"text","text":"Ссылочные и значимые типы - разница."},
+		{"id":"45541a717427ba5e","x":-158,"y":-844,"width":250,"height":60,"type":"text","text":""},
+		{"id":"35cf1577de5d0c22","x":-689,"y":-986,"width":250,"height":60,"type":"text","text":"Всегда ли значимые типы хранятся в стеке? "},
+		{"id":"30e1e11972316633","x":-476,"y":-1097,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"9a181a683b20ab81","fromNode":"ade5b83646886ed3","fromSide":"right","toNode":"b09ec2f221a41bf6","toSide":"left"},
@@ -18,6 +22,10 @@
 		{"id":"d264cc568b67f452","fromNode":"ade5b83646886ed3","fromSide":"bottom","toNode":"2345516322d89aa9","toSide":"top"},
 		{"id":"cb50f05c2cb54eda","fromNode":"ade5b83646886ed3","fromSide":"bottom","toNode":"8258d841796536ee","toSide":"top"},
 		{"id":"db82e1d6b40744f1","fromNode":"ade5b83646886ed3","fromSide":"bottom","toNode":"233ded49ae8ac27c","toSide":"top"},
-		{"id":"5008e2f386bd1a59","fromNode":"ade5b83646886ed3","fromSide":"bottom","toNode":"00a9817f4e1a0a26","toSide":"top"}
+		{"id":"5008e2f386bd1a59","fromNode":"ade5b83646886ed3","fromSide":"bottom","toNode":"00a9817f4e1a0a26","toSide":"top"},
+		{"id":"9a1dade54151a276","fromNode":"a499f024dc6b01bb","fromSide":"top","toNode":"7610b96dcb78673e","toSide":"bottom"},
+		{"id":"125e15130a6f171f","fromNode":"a499f024dc6b01bb","fromSide":"top","toNode":"45541a717427ba5e","toSide":"bottom"},
+		{"id":"324e31c9ddd77006","fromNode":"7610b96dcb78673e","fromSide":"top","toNode":"35cf1577de5d0c22","toSide":"bottom"},
+		{"id":"2b711998810499a1","fromNode":"7610b96dcb78673e","fromSide":"top","toNode":"30e1e11972316633","toSide":"bottom"}
 	]
 }
