@@ -138,17 +138,14 @@
             "id": "00b40acdc80499dd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/Alexey Project.canvas",
-                "viewState": {
-                  "x": 1339.5369413123212,
-                  "y": 471.1583524118215,
-                  "zoom": -0.3333333333333332
-                }
+                "file": "Days/2025-09-05.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Alexey Project"
+              "icon": "lucide-file",
+              "title": "2025-09-05"
             }
           }
         ],
@@ -314,9 +311,10 @@
   },
   "active": "00b40acdc80499dd",
   "lastOpenFiles": [
+    "Декомпозиция работы/Alexey Project.canvas",
+    "Days/2025-09-05.md",
     "conflict-files-obsidian-git.md",
     "Days/2025-09-04.md",
-    "Декомпозиция работы/Alexey Project.canvas",
     "Пресс.md",
     "Days/2025-09-03.md",
     "Templates/Decomposition programm.canvas",
@@ -341,7 +339,6 @@
     "Tasks/Программирование/Unity и работа/Unity and work.md",
     "Tasks/Программирование/Python/Python.md",
     "Tasks/Программирование/Python/Составить план по развитию.md",
-    "Tasks/Программирование/Python/Сверстать первое приложение для спорта и хранения данных о спорте.md",
     "Заметки",
     "Tasks/Программирование/Python",
     "Tasks/Программирование/Unity и работа",
