@@ -21,3 +21,4 @@ OGSM
 
 Dead Air: Revolution 2
 Anomaly 1.5.2 GAMMA
+True Stalker (потерпеть в начале, красивый, типа ведьмака)
