@@ -34,7 +34,9 @@
 		{"id":"f69fc004238cd85c","x":-1989,"y":74,"width":250,"height":60,"type":"text","text":"SOLID, GRASP"},
 		{"id":"b7a4dbb017786f70","x":-2058,"y":261,"width":250,"height":60,"type":"text","text":"Композиция против наследования"},
 		{"id":"1f97e13181ad2c16","x":-1742,"y":-536,"width":250,"height":60,"type":"text","text":"Паттерны GoF"},
-		{"id":"8ae5f2def872d330","x":-1849,"y":-799,"width":250,"height":60,"type":"text","text":"Порождающие:\n- Фабричный метод\n- Абстрактная фабрика\n- "}
+		{"id":"8ae5f2def872d330","x":-1849,"y":-799,"width":250,"height":159,"type":"text","text":"Порождающие:\n- Фабричный метод\n- Абстрактная фабрика\n- Синглтон"},
+		{"id":"943a5442fbd91e2d","x":-1589,"y":-795,"width":250,"height":152,"type":"text","text":"Структурные:\n- Фасад\n- Декоратор\n- Адаптер"},
+		{"id":"819fb08114fada5a","x":-1354,"y":-711,"width":250,"height":60,"type":"text","text":"Поведенческие:\n- Наблюдатель\n- Стратегия\n- Шаблонный метод\n- Состояние\n- Команла\n- "}
 	],
 	"edges":[
 		{"id":"9a181a683b20ab81","fromNode":"ade5b83646886ed3","fromSide":"right","toNode":"b09ec2f221a41bf6","toSide":"left"},
@@ -70,6 +72,8 @@
 		{"id":"5389659841103e33","fromNode":"3ae7cdf851d87b32","fromSide":"left","toNode":"f69fc004238cd85c","toSide":"right"},
 		{"id":"9afae37a4026de44","fromNode":"3ae7cdf851d87b32","fromSide":"left","toNode":"b7a4dbb017786f70","toSide":"right"},
 		{"id":"ec7946ced36bc5de","fromNode":"3ae7cdf851d87b32","fromSide":"left","toNode":"1f97e13181ad2c16","toSide":"right"},
-		{"id":"cff4612960909275","fromNode":"1f97e13181ad2c16","fromSide":"top","toNode":"8ae5f2def872d330","toSide":"bottom"}
+		{"id":"cff4612960909275","fromNode":"1f97e13181ad2c16","fromSide":"top","toNode":"8ae5f2def872d330","toSide":"bottom"},
+		{"id":"2e9f95e8f17c146f","fromNode":"1f97e13181ad2c16","fromSide":"top","toNode":"943a5442fbd91e2d","toSide":"bottom"},
+		{"id":"77d5215ec4e3ab19","fromNode":"1f97e13181ad2c16","fromSide":"top","toNode":"819fb08114fada5a","toSide":"bottom"}
 	]
 }
