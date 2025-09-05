@@ -14,3 +14,9 @@ Gunslinger/StCop + SGM (Сюжет)
 **Чистое небо:** 
 
 OGSM
+
+
+
+
+
+Ded aor
