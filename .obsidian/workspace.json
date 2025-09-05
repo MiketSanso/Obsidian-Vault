@@ -138,14 +138,17 @@
             "id": "00b40acdc80499dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Days/2025-09-04.md",
-                "mode": "source",
-                "source": false
+                "file": "Декомпозиция работы/Alexey Project.canvas",
+                "viewState": {
+                  "x": 1051.9362504006638,
+                  "y": 367.26354312077547,
+                  "zoom": 0.07255143078434545
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-09-04"
+              "icon": "lucide-layout-dashboard",
+              "title": "Alexey Project"
             }
           }
         ],
@@ -311,9 +314,10 @@
   },
   "active": "00b40acdc80499dd",
   "lastOpenFiles": [
+    "Tasks/Программирование/Unity и работа/Сделать Лёхино приложение.md",
+    "Days/2025-09-04.md",
     "Days/2025-09-05.md",
     "Days/2025-09-03.md",
-    "Days/2025-09-04.md",
     "Days/2025-09-02.md",
     "Days/2025-09-01.md",
     "Days/2025-08-31.md",
