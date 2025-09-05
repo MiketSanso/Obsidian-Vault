@@ -140,15 +140,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Декомпозиция работы/Alexey Project.canvas",
+                "file": "Декомпозиция работы/Untitled.canvas",
                 "viewState": {
-                  "x": -439.49573050625753,
-                  "y": 282.72893691552486,
-                  "zoom": -1.594115235882321
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Alexey Project"
+              "title": "Untitled"
             }
           }
         ],
@@ -314,6 +314,11 @@
   },
   "active": "00b40acdc80499dd",
   "lastOpenFiles": [
+    "Templates/Decomposition programm.canvas",
+    "Декомпозиция работы/Untitled.canvas",
+    "Templates/Category task.md",
+    "Декомпозиция работы/Untitled.md",
+    "Декомпозиция работы/Alexey Project.canvas",
     "Tasks/Программирование/Unity и работа/Сделать Лёхино приложение.md",
     "Days/2025-09-04.md",
     "Days/2025-09-05.md",
@@ -326,10 +331,8 @@
     "Days/2025-08-28.md",
     "Days/2025-08-27.md",
     "Days/2025-08-26.md",
-    "Декомпозиция работы/Alexey Project.canvas",
     "conflict-files-obsidian-git.md",
     "Пресс.md",
-    "Templates/Decomposition programm.canvas",
     "Декомпозиция работы/Work Decomposition.md",
     "Декомпозиция работы",
     "Tasks/Готовка/Приготовить еду.md",
@@ -340,9 +343,6 @@
     "Посмотреть почему сжимаю зубы и тело, когда глажу кошку или какие-то слово произношу.md",
     "Obsidian Web.md",
     "Tasks/Программирование/Programming.md",
-    "Tasks/Программирование/Unity и работа/Unity and work.md",
-    "Tasks/Программирование/Python/Python.md",
-    "Tasks/Программирование/Python/Составить план по развитию.md",
     "Заметки",
     "Tasks/Программирование/Python",
     "Tasks/Программирование/Unity и работа",
