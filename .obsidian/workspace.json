@@ -6,6 +6,7 @@
       {
         "id": "3d6e48500d2da1f2",
         "type": "tabs",
+        "dimension": 59.55882352941176,
         "children": [
           {
             "id": "25f33a82c32afc20",
@@ -26,22 +27,20 @@
       {
         "id": "a2f26f83ecf22dfc",
         "type": "tabs",
+        "dimension": 40.44117647058824,
         "children": [
           {
             "id": "14b4a10729290a46",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/Mentor Task.canvas",
-                "viewState": {
-                  "x": -511.60432586800937,
-                  "y": -1217.7954741565263,
-                  "zoom": -0.464132714977508
-                }
+                "file": "Days/2025-09-06.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Mentor Task"
+              "icon": "lucide-file",
+              "title": "2025-09-06"
             }
           }
         ]
@@ -206,8 +205,8 @@
   },
   "active": "14b4a10729290a46",
   "lastOpenFiles": [
-    "База знаний/Технические определения для собеседований/Unity/C шарп.md",
     "Декомпозиция работы/Mentor Task.canvas",
+    "База знаний/Технические определения для собеседований/Unity/C шарп.md",
     "База знаний/Заметки/Нерасформированные задачи.md",
     "База знаний/Заметки/Список покупок.md",
     "Days/2025-09-04.md",
