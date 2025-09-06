@@ -138,17 +138,14 @@
             "id": "00b40acdc80499dd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/Untitled.canvas",
-                "viewState": {
-                  "x": -815,
-                  "y": 1219.659043659044,
-                  "zoom": -1.7974660483108411
-                }
+                "file": "Декомпозиция работы/Work decomposition.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Work decomposition"
             }
           }
         ],
@@ -314,6 +311,8 @@
   },
   "active": "00b40acdc80499dd",
   "lastOpenFiles": [
+    "Декомпозиция работы/Mentor Task.canvas",
+    "Декомпозиция работы/Alexey Project.canvas",
     "Заметки/Games/Stalker/Mods.md",
     "Заметки/Заметки.md",
     "Заметки/Список покупок.md",
@@ -322,9 +321,7 @@
     "Tasks/Саморазвитие/Наладить режим сна.md",
     "Tasks/Саморазвитие/Наладить режим пищи.md",
     "Декомпозиция работы/Work decomposition.md",
-    "Декомпозиция работы/Untitled.canvas",
     "Предметы (КОЛЛЕДЖ)/История.md",
-    "Декомпозиция работы/Alexey Project.canvas",
     "Days/2025-09-06.md",
     "Tasks/Программирование/Unity и работа/Сделать Лёхино приложение.md",
     "Заметки/Games/Stalker/Untitled",
@@ -346,7 +343,6 @@
     "Days/2025-08-28.md",
     "Days/2025-08-27.md",
     "Days/2025-08-26.md",
-    "conflict-files-obsidian-git.md",
     "Декомпозиция работы",
     "Заметки",
     "Tasks/Программирование/Python",
