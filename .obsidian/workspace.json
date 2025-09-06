@@ -126,12 +126,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Заметки/Нерасформированные задачи.md",
+                "file": "База знаний/Технические определения для собеседований/Unity/C шарп.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Нерасформированные задачи"
+              "title": "C шарп"
             }
           }
         ],
@@ -295,8 +295,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f65b398fdbc8ece",
+  "active": "25f33a82c32afc20",
   "lastOpenFiles": [
+    "Декомпозиция работы/Mentor Task.canvas",
+    "База знаний/Заметки/Нерасформированные задачи.md",
     "База знаний/Заметки/Список покупок.md",
     "Days/2025-09-04.md",
     "conflict-files-obsidian-git.md",
@@ -314,12 +316,10 @@
     "База знаний/Статьи",
     "База знаний/Предметы (КОЛЛЕДЖ)/История.md",
     "База знаний/Предметы (КОЛЛЕДЖ)",
-    "База знаний/Заметки/Нерасформированные задачи.md",
     "База знаний/Заметки/Заметки.md",
     "База знаний/Заметки",
     "База знаний",
     "Заметки/Список покупок.md",
-    "Декомпозиция работы/Mentor Task.canvas",
     "Декомпозиция работы/Work decomposition.md",
     "Декомпозиция работы/Alexey Project.canvas",
     "База знаний/Заметки/Games/Stalker/Mods.md",
@@ -333,7 +333,6 @@
     "Заметки/Games/Stalker/Untitled",
     "База знаний/Заметки/Games/Stalker",
     "База знаний/Заметки/Games",
-    "Tasks/Программирование/Unity и работа/Пройти собес.md",
     "Предметы (КОЛЛЕДЖ)",
     "Templates/Decomposition programm.canvas",
     "Без названия.canvas",
