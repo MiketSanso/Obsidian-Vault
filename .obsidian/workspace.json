@@ -140,12 +140,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/Work decomposition.md",
+                "file": "Заметки/Заметки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Work decomposition"
+              "title": "Заметки"
             }
           }
         ],
@@ -311,11 +311,14 @@
   },
   "active": "00b40acdc80499dd",
   "lastOpenFiles": [
-    "Декомпозиция работы/Untitled.canvas",
-    "Декомпозиция работы/Work decomposition.md",
-    "Заметки/Заметки.md",
-    "Заметки/Нерасформированные задачи.md",
     "Заметки/Список покупок.md",
+    "Заметки/Нерасформированные задачи.md",
+    "Заметки/Заметки.md",
+    "Tasks/Саморазвитие/Настроить Git в Obsidian.md",
+    "Tasks/Саморазвитие/Наладить режим сна.md",
+    "Tasks/Саморазвитие/Наладить режим пищи.md",
+    "Декомпозиция работы/Work decomposition.md",
+    "Декомпозиция работы/Untitled.canvas",
     "Предметы (КОЛЛЕДЖ)/История.md",
     "Заметки/Games/Stalker/Mods.md",
     "Декомпозиция работы/Alexey Project.canvas",
@@ -341,8 +344,6 @@
     "Days/2025-08-27.md",
     "Days/2025-08-26.md",
     "conflict-files-obsidian-git.md",
-    "Пресс.md",
-    "Декомпозиция работы/Work Decomposition.md",
     "Декомпозиция работы",
     "Заметки",
     "Tasks/Программирование/Python",
