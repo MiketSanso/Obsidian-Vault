@@ -140,12 +140,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Days/2025-09-06.md",
+                "file": "Заметки/Список покупок.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-06"
+              "title": "Список покупок"
             }
           }
         ],
@@ -311,7 +311,12 @@
   },
   "active": "00b40acdc80499dd",
   "lastOpenFiles": [
+    "Заметки/Заметки.md",
+    "Заметки/Нерасформированные задачи.md",
     "Заметки/Games/Stalker/Mods.md",
+    "Декомпозиция работы/Untitled.canvas",
+    "Декомпозиция работы/Alexey Project.canvas",
+    "Декомпозиция работы/Work decomposition.md",
     "Days/2025-09-06.md",
     "Tasks/Программирование/Unity и работа/Сделать Лёхино приложение.md",
     "Заметки/Games/Stalker/Untitled",
@@ -320,12 +325,9 @@
     "Tasks/Программирование/Unity и работа/Пройти собес.md",
     "Days/2025-09-04.md",
     "Days/2025-09-05.md",
-    "Заметки/Нерасформированные задачи.md",
     "Заметки/Список покупок.md",
     "Предметы (КОЛЛЕДЖ)/История.md",
     "Предметы (КОЛЛЕДЖ)",
-    "Декомпозиция работы/Untitled.canvas",
-    "Декомпозиция работы/Alexey Project.canvas",
     "Templates/Decomposition programm.canvas",
     "Templates/Category task.md",
     "Декомпозиция работы/Untitled.md",
@@ -343,8 +345,6 @@
     "Декомпозиция работы/Work Decomposition.md",
     "Декомпозиция работы",
     "Tasks/Готовка/Приготовить еду.md",
-    "Days/2025-08-25.md",
-    "Days/Daily reports.md",
     "Заметки",
     "Tasks/Программирование/Python",
     "Tasks/Программирование/Unity и работа",
