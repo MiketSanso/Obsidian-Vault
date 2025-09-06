@@ -138,14 +138,17 @@
             "id": "00b40acdc80499dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Заметки/Заметки.md",
-                "mode": "source",
-                "source": false
+                "file": "Декомпозиция работы/Untitled.canvas",
+                "viewState": {
+                  "x": -815,
+                  "y": 1219.659043659044,
+                  "zoom": -1.7974660483108411
+                }
               },
-              "icon": "lucide-file",
-              "title": "Заметки"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -311,16 +314,16 @@
   },
   "active": "00b40acdc80499dd",
   "lastOpenFiles": [
+    "Заметки/Games/Stalker/Mods.md",
+    "Заметки/Заметки.md",
     "Заметки/Список покупок.md",
     "Заметки/Нерасформированные задачи.md",
-    "Заметки/Заметки.md",
     "Tasks/Саморазвитие/Настроить Git в Obsidian.md",
     "Tasks/Саморазвитие/Наладить режим сна.md",
     "Tasks/Саморазвитие/Наладить режим пищи.md",
     "Декомпозиция работы/Work decomposition.md",
     "Декомпозиция работы/Untitled.canvas",
     "Предметы (КОЛЛЕДЖ)/История.md",
-    "Заметки/Games/Stalker/Mods.md",
     "Декомпозиция работы/Alexey Project.canvas",
     "Days/2025-09-06.md",
     "Tasks/Программирование/Unity и работа/Сделать Лёхино приложение.md",
