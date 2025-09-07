@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Заметки/Список покупок.md",
+                "file": "База знаний/Заметки/Films/Films in plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Список покупок"
+              "title": "Films in plan"
             }
           }
         ]
@@ -181,10 +181,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f65b398fdbc8ece",
+  "active": "25f33a82c32afc20",
   "lastOpenFiles": [
-    "База знаний/Заметки/Нерасформированные задачи.md",
+    "База знаний/Заметки/Games/Stalker/Stalker.md",
+    "База знаний/Заметки/Films/Films in plan.md",
+    "База знаний/Заметки/Films",
+    "База знаний/Заметки/Games/Games.md",
     "База знаний/Заметки/Список покупок.md",
+    "База знаний/Заметки/Нерасформированные задачи.md",
     "База знаний/Заметки/Notes.md",
     "База знаний/Заметки/Games/In the plans.md",
     "База знаний/Recipes/Плов.md",
@@ -202,15 +206,12 @@
     "База знаний/Recipes/Шурпа (на 15 литров).md",
     "База знаний/Recipes/Шашлык.md",
     "База знаний/Recipes",
-    "База знаний/Заметки/Games/Games.md",
     "База знаний/Заметки/Games/Stalker/Mods.md",
-    "База знаний/Заметки/Games/Stalker/Stalker.md",
     "Days/2025-09-07.md",
     "База знаний/Технические определения для собеседований/Unity/C шарп.md",
     "Days/2025-09-06.md",
     "Days/2025-09-04.md",
     "conflict-files-obsidian-git.md",
-    "Заметки/Нерасформированные задачи.md",
     "База знаний/Технические определения для собеседований/Unity",
     "База знаний/Технические определения для собеседований",
     "База знаний/Статьи",
@@ -220,7 +221,6 @@
     "Декомпозиция работы/Alexey Project.canvas",
     "Заметки/Games/Stalker/Untitled",
     "База знаний/Заметки/Games/Stalker",
-    "База знаний/Заметки/Games",
     "Templates/Decomposition programm.canvas",
     "Без названия.canvas",
     "Obsidian Vault/Без названия.canvas"
