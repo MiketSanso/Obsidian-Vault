@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Recipes/Минутка 2.0.md",
+                "file": "База знаний/Recipes/Шурпа (на 15 литров).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Минутка 2.0"
+              "title": "Шурпа (на 15 литров)"
             }
           }
         ]
@@ -181,13 +181,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f65b398fdbc8ece",
+  "active": "25f33a82c32afc20",
   "lastOpenFiles": [
-    "База знаний/Recipes/Шурпа.md",
-    "База знаний/Recipes/Плов.md",
-    "База знаний/Recipes/Recipes.md",
     "База знаний/Recipes/Шашлык.md",
     "База знаний/Recipes/Минутка 2.0.md",
+    "База знаний/Recipes/Шурпа (на 15 литров).md",
+    "База знаний/Recipes/Плов.md",
+    "База знаний/Recipes/Recipes.md",
     "Tasks/Готовка/Приготовить торт Минутка 2.0.md",
     "База знаний/Recipes",
     "Tasks/Готовка/Приготовить плов.md",
