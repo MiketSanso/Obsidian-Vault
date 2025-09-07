@@ -4,7 +4,7 @@ Record section: [[Task categories]].
 Record section: [[Daily reports]].
 Record section: [[Статьи]].
 Record section: [[Templates]].
-Record section: [[Заметки]]
+Record section: [[Notes]]
 Record section: [[Books]]
 Record section: [[Work decomposition]]
 
