@@ -254,9 +254,9 @@
               "state": {
                 "file": "Декомпозиция работы/Alexey Project.canvas",
                 "viewState": {
-                  "x": 978.0827753215717,
-                  "y": -330.36107189902475,
-                  "zoom": -0.45734226991457033
+                  "x": 1042.0287087152872,
+                  "y": -23.12038972486744,
+                  "zoom": -0.3333333333333332
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -426,6 +426,14 @@
   },
   "active": "8895535277d41e2d",
   "lastOpenFiles": [
+    "Days/2025-09-08.md",
+    "Декомпозиция работы/Alexey Project.canvas",
+    "Days/2025-09-03.md",
+    "Days/2025-09-04.md",
+    "Days/2025-09-05.md",
+    "Days/2025-09-06.md",
+    "Days/2025-09-07.md",
+    "Days/2025-08-31.md",
     "База знаний/Предметы (КОЛЛЕДЖ)/История.md",
     "Декомпозиция работы/Mentor Task.canvas",
     "База знаний/Технические определения для собеседований/Unity/C шарп.md",
@@ -433,7 +441,6 @@
     "База знаний/Статьи/Мысли за пару дней до отъезда из дома в Москву.md",
     "База знаний/Статьи/Моментные ощущения после первой работы.md",
     "База знаний/Заметки/Список покупок.md",
-    "Days/2025-09-08.md",
     "conflict-files-obsidian-git.md",
     "База знаний/Технические определения для собеседований/Technical definitions.md",
     "База знаний/Предметы (КОЛЛЕДЖ)/College subjects.md",
@@ -447,15 +454,9 @@
     "База знаний/Recipes",
     "База знаний/Knowledge base.md",
     "База знаний/Games/Stalker/Stalker.md",
-    "База знаний/Games/Stalker/Mods.md",
     "База знаний/Games/Stalker",
-    "База знаний/Games/In the plans.md",
-    "База знаний/Games/Games.md",
     "База знаний/Games",
-    "База знаний/Films/Films.md",
-    "База знаний/Films/Films in plan.md",
     "База знаний/Films",
-    "База знаний/Books/Books.md",
     "База знаний/Books",
     "Заметки/Games/Stalker",
     "Заметки/Games",
@@ -464,7 +465,6 @@
     "Предметы (КОЛЛЕДЖ)",
     "Декомпозиция работы/Untitled.canvas",
     "Templates/Decomposition programm.canvas",
-    "Декомпозиция работы/Alexey Project.canvas",
     "Без названия.canvas",
     "Obsidian Vault/Без названия.canvas"
   ]
