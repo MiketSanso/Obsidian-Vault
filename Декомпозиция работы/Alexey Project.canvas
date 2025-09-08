@@ -7,8 +7,6 @@
 		{"id":"702a8b67a007f28a","type":"text","text":"### Минимальный смысл/функционал","x":-1510,"y":253,"width":250,"height":102,"color":"6"},
 		{"id":"f67e37a07c754908","type":"text","text":"## Модули дизайна","x":-1120,"y":274,"width":250,"height":60,"color":"6"},
 		{"id":"5e742ab3552d3e61","type":"text","text":"## Модули программирования","x":40,"y":230,"width":250,"height":140,"color":"6"},
-		{"id":"69cb768df7743cdb","type":"text","text":"### Загрузка данных","x":440,"y":-160,"width":250,"height":60,"color":"6"},
-		{"id":"eec3e1fc7925b1d3","type":"text","text":"### Обработка данных\n","x":440,"y":120,"width":250,"height":60,"color":"6"},
 		{"id":"93fa2bc6f5bc5488","type":"text","text":"Сделать отображение **нажатий** на Image. (Точки)","x":860,"y":300,"width":250,"height":60,"color":"5"},
 		{"id":"8897649fed01c690","type":"text","text":"### Отображение данных","x":440,"y":390,"width":250,"height":81,"color":"6"},
 		{"id":"052fb4edce98a744","type":"text","text":"Сделать Line Renderer-ы","x":860,"y":400,"width":250,"height":60,"color":"4"},
@@ -21,7 +19,22 @@
 		{"id":"3279ccafb80eed37","type":"text","text":"При смене фото","x":1225,"y":129,"width":250,"height":60,"color":"5"},
 		{"id":"19fa52d5f0723e71","type":"text","text":"При выделении\n","x":1279,"y":234,"width":250,"height":60,"color":"5"},
 		{"id":"2e3237d1fdcf66b4","type":"text","text":"### Выгрузка данных","x":440,"y":1360,"width":250,"height":50,"color":"6"},
-		{"id":"6d53f681cfddbf1f","x":903,"y":964,"width":250,"height":60,"type":"text","text":""}
+		{"id":"6d53f681cfddbf1f","x":900,"y":920,"width":250,"height":200,"color":"1","type":"text","text":"Сделать 3 режима:\n1) Режим обычных линий\n2) Режим корректирующих линий. \n3) Режим вымерки углов."},
+		{"id":"e49fe120a233feb5","x":1402,"y":765,"width":250,"height":90,"type":"text","text":"Сделать режим построения углов по трём точкам меньше 180 градусов"},
+		{"id":"29de459602188f6b","x":1399,"y":658,"width":250,"height":60,"type":"text","text":"Сделать переход в режим углов"},
+		{"id":"5ee7b03b61d457e0","x":1375,"y":1192,"width":250,"height":60,"type":"text","text":"Сделать переход в режим корректирующих линий"},
+		{"id":"ae7730c75c5ec2f7","x":896,"y":1445,"width":250,"height":60,"type":"text","text":"Сделать выгрузку углов как 25-30"},
+		{"id":"87ab339079729045","x":892,"y":1561,"width":250,"height":119,"type":"text","text":"Сделать сохранение segments, углов и correctSegments на картинке."},
+		{"id":"f542435b4d3392f9","x":1405,"y":1090,"width":250,"height":60,"type":"text","text":"Сделать отображение построения углов "},
+		{"id":"17778b7b74fc10a7","x":1399,"y":890,"width":250,"height":60,"type":"text","text":"Сделать переход в режим обычных линий"},
+		{"id":"69cb768df7743cdb","type":"text","text":"### Загрузка данных","x":440,"y":-660,"width":250,"height":60,"color":"6"},
+		{"id":"eec3e1fc7925b1d3","type":"text","text":"### Обработка данных\n","x":440,"y":-200,"width":250,"height":60,"color":"6"},
+		{"id":"ab01dea58bd99a20","x":860,"y":-660,"width":250,"height":60,"color":"4","type":"text","text":"Сделать загрузку фотографий"},
+		{"id":"056405713d503c38","x":862,"y":-518,"width":250,"height":118,"type":"text","text":"Сделать возможность загружать не фотки новые а старые фотки и значения из файла."},
+		{"id":"cf13b170c78dd2ea","type":"text","text":"Сделать сохранение segments, углов и correctSegments в techFile.","x":892,"y":1720,"width":250,"height":119},
+		{"id":"8b039d154e8d0f60","x":975,"y":-267,"width":250,"height":97,"type":"text","text":"Изменить хранилище и добавить переменные для новых режимов. "},
+		{"id":"e034dd070adea439","x":975,"y":-140,"width":250,"height":89,"type":"text","text":"Добавить условия работы кнопок свайпа в зависимости от режима "},
+		{"id":"20149054468113b5","x":1508,"y":-179,"width":250,"height":60,"type":"text","text":"Добавить обработку"}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -44,6 +57,18 @@
 		{"id":"1d99eeeaba928134","fromNode":"052fb4edce98a744","fromSide":"right","toNode":"34640c4f9b2c1f0f","toSide":"left"},
 		{"id":"bd3ffec42418abcf","fromNode":"93fa2bc6f5bc5488","fromSide":"right","toNode":"3279ccafb80eed37","toSide":"left"},
 		{"id":"73ac49dede96a5b7","fromNode":"93fa2bc6f5bc5488","fromSide":"right","toNode":"19fa52d5f0723e71","toSide":"left"},
-		{"id":"ce575ac93e90d353","fromNode":"8897649fed01c690","fromSide":"right","toNode":"6d53f681cfddbf1f","toSide":"left"}
+		{"id":"ce575ac93e90d353","fromNode":"8897649fed01c690","fromSide":"right","toNode":"6d53f681cfddbf1f","toSide":"left"},
+		{"id":"50a2b571f3564df3","fromNode":"6d53f681cfddbf1f","fromSide":"right","toNode":"f542435b4d3392f9","toSide":"left"},
+		{"id":"8805003a85955619","fromNode":"6d53f681cfddbf1f","fromSide":"right","toNode":"29de459602188f6b","toSide":"left"},
+		{"id":"4abbee65d2b89d0f","fromNode":"6d53f681cfddbf1f","fromSide":"right","toNode":"5ee7b03b61d457e0","toSide":"left"},
+		{"id":"45c11f70f2bb6870","fromNode":"2e3237d1fdcf66b4","fromSide":"right","toNode":"ae7730c75c5ec2f7","toSide":"left"},
+		{"id":"e4bb7831f9c7f914","fromNode":"2e3237d1fdcf66b4","fromSide":"right","toNode":"87ab339079729045","toSide":"left"},
+		{"id":"4b76a0c6ce95ae72","fromNode":"6d53f681cfddbf1f","fromSide":"right","toNode":"17778b7b74fc10a7","toSide":"left"},
+		{"id":"a0eec51112163224","fromNode":"69cb768df7743cdb","fromSide":"right","toNode":"ab01dea58bd99a20","toSide":"left"},
+		{"id":"8aa1abc78e0fc899","fromNode":"69cb768df7743cdb","fromSide":"right","toNode":"056405713d503c38","toSide":"left"},
+		{"id":"43ecb4d68d866964","fromNode":"2e3237d1fdcf66b4","fromSide":"right","toNode":"cf13b170c78dd2ea","toSide":"left"},
+		{"id":"5576cdcd3cf4a644","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"8b039d154e8d0f60","toSide":"left"},
+		{"id":"3a31625423dce247","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"e034dd070adea439","toSide":"left"},
+		{"id":"c2eff270a60ccdf5","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"20149054468113b5","toSide":"left"}
 	]
 }
