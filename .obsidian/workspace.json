@@ -11,14 +11,17 @@
             "id": "25f33a82c32afc20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Days/2025-09-08.md",
-                "mode": "source",
-                "source": false
+                "file": "Декомпозиция работы/Alexey Project.canvas",
+                "viewState": {
+                  "x": 1006.8497124835378,
+                  "y": -223.90444674234647,
+                  "zoom": -0.2709451685042274
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-09-08"
+              "icon": "lucide-layout-dashboard",
+              "title": "Alexey Project"
             }
           }
         ]
@@ -181,8 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0818b71d227befe7",
+  "active": "25f33a82c32afc20",
   "lastOpenFiles": [
+    "Декомпозиция работы/Work decomposition.md",
     "Days/2025-09-08.md",
     "conflict-files-obsidian-git.md",
     "База знаний/Заметки/Нерасформированные задачи (По убыванию важности).md",
@@ -208,7 +212,6 @@
     "База знаний/Статьи/Польза психологии.md",
     "База знаний/Статьи/Мысли за пару дней до отъезда из дома в Москву.md",
     "База знаний/Статьи/Мотивация 21 века.md",
-    "База знаний/Статьи/Моментные ощущения после первой работы.md",
     "База знаний/Films",
     "Декомпозиция работы/Mentor Task.canvas",
     "База знаний/Recipes",
