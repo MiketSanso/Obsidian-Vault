@@ -11,17 +11,14 @@
             "id": "25f33a82c32afc20",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/Alexey Project.canvas",
-                "viewState": {
-                  "x": 1058.7334290861306,
-                  "y": -42.91473766353461,
-                  "zoom": -0.2709451685042274
-                }
+                "file": "Days/2025-09-08.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Alexey Project"
+              "icon": "lucide-file",
+              "title": "2025-09-08"
             }
           }
         ]
@@ -186,12 +183,13 @@
   },
   "active": "25f33a82c32afc20",
   "lastOpenFiles": [
-    "Декомпозиция работы/Work decomposition.md",
+    "Days/2025-09-07.md",
     "Days/2025-09-08.md",
+    "Декомпозиция работы/Alexey Project.canvas",
+    "Декомпозиция работы/Work decomposition.md",
     "conflict-files-obsidian-git.md",
     "База знаний/Заметки/Нерасформированные задачи (По убыванию важности).md",
     "База знаний/Заметки/Список покупок.md",
-    "Days/2025-09-07.md",
     "Days/2025-09-06.md",
     "Days/2025-09-05.md",
     "Days/2025-09-04.md",
@@ -211,7 +209,6 @@
     "База знаний/Статьи/Проблема отца с алкоголем.md",
     "База знаний/Статьи/Польза психологии.md",
     "База знаний/Статьи/Мысли за пару дней до отъезда из дома в Москву.md",
-    "База знаний/Статьи/Мотивация 21 века.md",
     "База знаний/Films",
     "Декомпозиция работы/Mentor Task.canvas",
     "База знаний/Recipes",
@@ -221,7 +218,6 @@
     "База знаний/Предметы (КОЛЛЕДЖ)",
     "База знаний/Заметки",
     "База знаний",
-    "Декомпозиция работы/Alexey Project.canvas",
     "Заметки/Games/Stalker/Untitled",
     "База знаний/Games/Stalker",
     "Templates/Decomposition programm.canvas",
