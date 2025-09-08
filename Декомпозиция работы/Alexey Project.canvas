@@ -33,8 +33,7 @@
 		{"id":"056405713d503c38","x":862,"y":-518,"width":250,"height":118,"type":"text","text":"Сделать возможность загружать не фотки новые а старые фотки и значения из файла."},
 		{"id":"cf13b170c78dd2ea","type":"text","text":"Сделать сохранение segments, углов и correctSegments в techFile.","x":892,"y":1720,"width":250,"height":119},
 		{"id":"e034dd070adea439","x":975,"y":-140,"width":250,"height":89,"type":"text","text":"Добавить условия работы кнопок свайпа в зависимости от режима "},
-		{"id":"8b039d154e8d0f60","x":975,"y":-297,"width":250,"height":97,"type":"text","text":"Изменить хранилище и добавить переменные для новых режимов. "},
-		{"id":"20149054468113b5","x":1500,"y":-200,"width":250,"height":60,"type":"text","text":"Добавить обработку "}
+		{"id":"8b039d154e8d0f60","x":975,"y":-297,"width":250,"height":97,"type":"text","text":"Изменить хранилище и добавить переменные для новых режимов. "}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -68,7 +67,6 @@
 		{"id":"8aa1abc78e0fc899","fromNode":"69cb768df7743cdb","fromSide":"right","toNode":"056405713d503c38","toSide":"left"},
 		{"id":"43ecb4d68d866964","fromNode":"2e3237d1fdcf66b4","fromSide":"right","toNode":"cf13b170c78dd2ea","toSide":"left"},
 		{"id":"5576cdcd3cf4a644","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"8b039d154e8d0f60","toSide":"left"},
-		{"id":"3a31625423dce247","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"e034dd070adea439","toSide":"left"},
-		{"id":"c2eff270a60ccdf5","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"20149054468113b5","toSide":"left"}
+		{"id":"3a31625423dce247","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"e034dd070adea439","toSide":"left"}
 	]
 }
