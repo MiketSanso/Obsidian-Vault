@@ -13,14 +13,15 @@
 		{"id":"8897649fed01c690","type":"text","text":"### Отображение данных","x":440,"y":390,"width":250,"height":81,"color":"6"},
 		{"id":"052fb4edce98a744","type":"text","text":"Сделать Line Renderer-ы","x":860,"y":400,"width":250,"height":60,"color":"4"},
 		{"id":"5264fe79fb450c6c","type":"text","text":"Сделать смену фото","x":860,"y":500,"width":250,"height":60,"color":"4"},
-		{"id":"2e3237d1fdcf66b4","type":"text","text":"### Выгрузка данных","x":440,"y":720,"width":250,"height":50,"color":"6"},
 		{"id":"a823c271b5e8d22a","type":"text","text":"### SDK/Frameworks","x":-960,"y":-220,"width":250,"height":60,"color":"6"},
 		{"id":"821356bf9e51818a","type":"text","text":"### UI паттерны проектирования","x":-580,"y":-280,"width":250,"height":120,"color":"6"},
 		{"id":"d449d9b2a77dd295","type":"text","text":"### Общая система\n","x":-210,"y":-220,"width":250,"height":60,"color":"6"},
 		{"id":"a6c4578dc7c2a396","type":"text","text":"При смене фото","x":1280,"y":340,"width":250,"height":60,"color":"4"},
 		{"id":"34640c4f9b2c1f0f","type":"text","text":"При выделении\n","x":1280,"y":441,"width":250,"height":60,"color":"4"},
 		{"id":"3279ccafb80eed37","type":"text","text":"При смене фото","x":1225,"y":129,"width":250,"height":60,"color":"5"},
-		{"id":"19fa52d5f0723e71","type":"text","text":"При выделении\n","x":1279,"y":234,"width":250,"height":60,"color":"5"}
+		{"id":"19fa52d5f0723e71","type":"text","text":"При выделении\n","x":1279,"y":234,"width":250,"height":60,"color":"5"},
+		{"id":"2e3237d1fdcf66b4","type":"text","text":"### Выгрузка данных","x":440,"y":1360,"width":250,"height":50,"color":"6"},
+		{"id":"6d53f681cfddbf1f","x":903,"y":964,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -42,6 +43,7 @@
 		{"id":"349f020c428d6e7f","fromNode":"052fb4edce98a744","fromSide":"right","toNode":"a6c4578dc7c2a396","toSide":"left"},
 		{"id":"1d99eeeaba928134","fromNode":"052fb4edce98a744","fromSide":"right","toNode":"34640c4f9b2c1f0f","toSide":"left"},
 		{"id":"bd3ffec42418abcf","fromNode":"93fa2bc6f5bc5488","fromSide":"right","toNode":"3279ccafb80eed37","toSide":"left"},
-		{"id":"73ac49dede96a5b7","fromNode":"93fa2bc6f5bc5488","fromSide":"right","toNode":"19fa52d5f0723e71","toSide":"left"}
+		{"id":"73ac49dede96a5b7","fromNode":"93fa2bc6f5bc5488","fromSide":"right","toNode":"19fa52d5f0723e71","toSide":"left"},
+		{"id":"ce575ac93e90d353","fromNode":"8897649fed01c690","fromSide":"right","toNode":"6d53f681cfddbf1f","toSide":"left"}
 	]
 }
