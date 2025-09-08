@@ -37,7 +37,8 @@
 		{"id":"ce37ea78b311b478","type":"text","text":"Добавить условия выполнения кнопок в зависимости от режима\n","x":780,"y":-497,"width":250,"height":116,"color":"1"},
 		{"id":"7c18e79fcb074194","type":"text","text":"Сделать методы внесения изменений в хранилище новых режимов.","x":780,"y":29,"width":250,"height":100,"color":"4"},
 		{"id":"87ab339079729045","type":"text","text":"Сделать сохранение segments, углов и correctSegments на картинке.","x":860,"y":1440,"width":250,"height":119,"color":"1"},
-		{"id":"cf13b170c78dd2ea","type":"text","text":"Сделать сохранение segments, углов и correctSegments в techFile.","x":860,"y":1600,"width":250,"height":119,"color":"1"}
+		{"id":"cf13b170c78dd2ea","type":"text","text":"Сделать сохранение segments, углов и correctSegments в techFile.","x":860,"y":1600,"width":250,"height":119,"color":"1"},
+		{"id":"82adb6477dfe987e","x":1180,"y":-312,"width":250,"height":162,"color":"1","type":"text","text":"Разбить модели на несколько и унести в модели всю логику взаимодействия с их элементами, оставить чисто методы Change-ей."}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -75,6 +76,7 @@
 		{"id":"3799a39c9544c8a2","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"b8911a6e6fa01aed","toSide":"left"},
 		{"id":"07a5bdbf07d3bca8","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"412388527d2565aa","toSide":"left"},
 		{"id":"dc96ffcb151bb239","fromNode":"6d53f681cfddbf1f","fromSide":"right","toNode":"7ad77e10f756df6f","toSide":"left"},
-		{"id":"e467f8764a28f08b","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"7c18e79fcb074194","toSide":"left"}
+		{"id":"e467f8764a28f08b","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"7c18e79fcb074194","toSide":"left"},
+		{"id":"9ff193d38c6a7616","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"82adb6477dfe987e","toSide":"left"}
 	]
 }
