@@ -34,7 +34,7 @@
 		{"id":"cf13b170c78dd2ea","type":"text","text":"Сделать сохранение segments, углов и correctSegments в techFile.","x":892,"y":1720,"width":250,"height":119},
 		{"id":"8b039d154e8d0f60","x":975,"y":-267,"width":250,"height":97,"type":"text","text":"Изменить хранилище и добавить переменные для новых режимов. "},
 		{"id":"e034dd070adea439","x":975,"y":-140,"width":250,"height":89,"type":"text","text":"Добавить условия работы кнопок свайпа в зависимости от режима "},
-		{"id":"20149054468113b5","x":1508,"y":-179,"width":250,"height":60,"type":"text","text":"Добавить обработку"}
+		{"id":"20149054468113b5","x":1508,"y":-179,"width":250,"height":60,"type":"text","text":"Добавить обработку "}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
