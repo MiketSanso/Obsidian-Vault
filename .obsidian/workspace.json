@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Достижения/Sport.md",
+                "file": "Obsidian Web.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sport"
+              "title": "Obsidian Web"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Достижения/Sport.md",
+                "file": "Obsidian Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sport"
+              "title": "Outgoing links from Obsidian Web"
             }
           },
           {
@@ -181,10 +181,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7aa6518d501fb0f0",
+  "active": "25f33a82c32afc20",
   "lastOpenFiles": [
-    "Достижения/Work.md",
+    "Декомпозиция работы/Alexey Project.canvas",
+    "Декомпозиция работы/Work decomposition.md",
     "Достижения/Sport.md",
+    "Достижения/Work.md",
     "Достижения/Completed games.md",
     "Достижения/Achievements.md",
     "База знаний/Knowledge base.md",
@@ -196,8 +198,6 @@
     "Достижения/Спортивные показатели/Untitled",
     "Достижения/Спортивные показатели",
     "Достижения",
-    "Декомпозиция работы/Alexey Project.canvas",
-    "Декомпозиция работы/Work decomposition.md",
     "conflict-files-obsidian-git.md",
     "База знаний/Заметки/Нерасформированные задачи (По убыванию важности).md",
     "База знаний/Заметки/Список покупок.md",
@@ -212,7 +212,6 @@
     "База знаний/Статьи/Статьи.md",
     "База знаний/Технические определения для собеседований/Technical definitions.md",
     "База знаний/Технические определения для собеседований/Unity/C шарп.md",
-    "База знаний/Films/Films.md",
     "База знаний/Films",
     "Декомпозиция работы/Mentor Task.canvas",
     "База знаний/Recipes",
