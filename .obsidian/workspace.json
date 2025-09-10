@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Web.md",
+                "file": "Days/2025-09-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian Web"
+              "title": "2025-09-03"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Web.md",
+                "file": "Days/2025-09-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Obsidian Web"
+              "title": "Outgoing links from 2025-09-03"
             }
           },
           {
@@ -183,13 +183,16 @@
   },
   "active": "25f33a82c32afc20",
   "lastOpenFiles": [
-    "Декомпозиция работы/Alexey Project.canvas",
     "Декомпозиция работы/Work decomposition.md",
+    "Obsidian Web.md",
+    "README.md",
+    "База знаний/Knowledge base.md",
+    "База знаний/Recipes/Шашлык.md",
+    "Декомпозиция работы/Alexey Project.canvas",
     "Достижения/Sport.md",
     "Достижения/Work.md",
     "Достижения/Completed games.md",
     "Достижения/Achievements.md",
-    "База знаний/Knowledge base.md",
     "Days/2025-09-10.md",
     "Days/2025-09-09.md",
     "Days/2025-09-08.md",
@@ -210,18 +213,10 @@
     "База знаний/Предметы (КОЛЛЕДЖ)/College subjects.md",
     "База знаний/Предметы (КОЛЛЕДЖ)/История.md",
     "База знаний/Статьи/Статьи.md",
-    "База знаний/Технические определения для собеседований/Technical definitions.md",
-    "База знаний/Технические определения для собеседований/Unity/C шарп.md",
     "База знаний/Films",
     "Декомпозиция работы/Mentor Task.canvas",
     "База знаний/Recipes",
     "База знаний/Технические определения для собеседований/Unity",
     "База знаний/Технические определения для собеседований",
     "База знаний/Статьи",
-    "База знаний/Предметы (КОЛЛЕДЖ)",
-    "База знаний/Заметки",
-    "Templates/Decomposition programm.canvas",
-    "Без названия.canvas",
-    "Obsidian Vault/Без названия.canvas"
-  ]
-}
+    "База знаний/Предметы (КОЛЛЕДЖ)"
