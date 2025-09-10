@@ -1,10 +1,10 @@
 
 ----
-- 100 отжиманий, 100 приседаний и 100 подтягиваний за 15 минут 
+- 100 push-ups, 100 squats and 100 pull-ups in 15 minutes 
 	Status: In progress
 
 ----
-- Бег 30км за 3ч 
+- Run in 30км за 3ч 
 	Status: In progress
 
 ----
