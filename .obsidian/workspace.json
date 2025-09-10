@@ -11,17 +11,14 @@
             "id": "25f33a82c32afc20",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/Alexey Project.canvas",
-                "viewState": {
-                  "x": 1078.5427304829605,
-                  "y": -196.3112377311528,
-                  "zoom": 0.395721498162439
-                }
+                "file": "Days/2025-09-10.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Alexey Project"
+              "icon": "lucide-file",
+              "title": "2025-09-10"
             }
           }
         ]
@@ -116,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Декомпозиция работы/Alexey Project.canvas",
+                "file": "Days/2025-09-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Alexey Project"
+              "title": "Outgoing links from 2025-09-10"
             }
           },
           {
