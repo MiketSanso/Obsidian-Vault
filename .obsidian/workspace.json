@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -181,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25f33a82c32afc20",
+  "active": "4b44acd3c243ba52",
   "lastOpenFiles": [
     "Декомпозиция работы/Alexey Project.canvas",
     "Templates/Decomposition programm.canvas",
