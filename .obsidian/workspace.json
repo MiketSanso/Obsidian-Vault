@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Day.md",
+                "file": "Days/2025-09-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day"
+              "title": "2025-09-09"
             }
           }
         ]
@@ -184,7 +184,9 @@
   "active": "25f33a82c32afc20",
   "lastOpenFiles": [
     "Days/2025-09-08.md",
+    "Days/2025-09-09.md",
     "Days/2025-09-10.md",
+    "Templates/Day.md",
     "Days/2025-09-07.md",
     "Достижения/Работа.md",
     "Достижения/Спортивные показатели/Untitled",
@@ -211,7 +213,6 @@
     "База знаний/Films/Films in plan.md",
     "База знаний/Games/Games.md",
     "База знаний/Games/In the plans.md",
-    "База знаний/Knowledge base.md",
     "База знаний/Films",
     "Декомпозиция работы/Mentor Task.canvas",
     "База знаний/Recipes",
