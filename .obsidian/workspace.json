@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Достижения/Пройденные игры.md",
+                "file": "Достижения/Работа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Пройденные игры"
+              "title": "Работа"
             }
           }
         ]
@@ -183,8 +183,11 @@
   },
   "active": "9f65b398fdbc8ece",
   "lastOpenFiles": [
-    "Days/2025-09-10.md",
+    "Достижения/Спортивные показатели/Untitled",
     "Достижения/Пройденные игры.md",
+    "Достижения/Работа.md",
+    "Достижения/Спортивные показатели",
+    "Days/2025-09-10.md",
     "Достижения",
     "Days/2025-09-08.md",
     "Декомпозиция работы/Alexey Project.canvas",
@@ -209,8 +212,6 @@
     "База знаний/Games/Games.md",
     "База знаний/Games/In the plans.md",
     "База знаний/Knowledge base.md",
-    "База знаний/Статьи/Проблема отца с алкоголем.md",
-    "База знаний/Статьи/Польза психологии.md",
     "База знаний/Films",
     "Декомпозиция работы/Mentor Task.canvas",
     "База знаний/Recipes",
@@ -220,7 +221,6 @@
     "База знаний/Предметы (КОЛЛЕДЖ)",
     "База знаний/Заметки",
     "База знаний",
-    "Заметки/Games/Stalker/Untitled",
     "Templates/Decomposition programm.canvas",
     "Без названия.canvas",
     "Obsidian Vault/Без названия.canvas"
