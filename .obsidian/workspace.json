@@ -250,17 +250,14 @@
             "id": "8895535277d41e2d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/Alexey Project.canvas",
-                "viewState": {
-                  "x": 1042.0287087152872,
-                  "y": -23.12038972486744,
-                  "zoom": -0.3333333333333332
-                }
+                "file": "Days/2025-09-10.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Alexey Project"
+              "icon": "lucide-file",
+              "title": "2025-09-10"
             }
           }
         ],
@@ -426,8 +423,9 @@
   },
   "active": "8895535277d41e2d",
   "lastOpenFiles": [
-    "Days/2025-09-08.md",
     "Декомпозиция работы/Alexey Project.canvas",
+    "Days/2025-09-10.md",
+    "Days/2025-09-08.md",
     "Days/2025-09-03.md",
     "Days/2025-09-04.md",
     "Days/2025-09-05.md",
@@ -453,7 +451,6 @@
     "База знаний/Recipes/Recipes.md",
     "База знаний/Recipes",
     "База знаний/Knowledge base.md",
-    "База знаний/Games/Stalker/Stalker.md",
     "База знаний/Games/Stalker",
     "База знаний/Games",
     "База знаний/Films",
