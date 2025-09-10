@@ -11,10 +11,17 @@
             "id": "25f33a82c32afc20",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Декомпозиция работы/Alexey Project.canvas",
+                "viewState": {
+                  "x": 1013.9334529361827,
+                  "y": -207.71287494529003,
+                  "zoom": 0.395721498162439
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Alexey Project"
             }
           }
         ]
@@ -109,11 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Декомпозиция работы/Alexey Project.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Alexey Project"
             }
           },
           {
