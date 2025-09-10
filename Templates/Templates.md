@@ -2,7 +2,7 @@
 
 [[Category task]]
 [[Group]]
-[[Repeat task]]
+[[Decomposition programm.canvas|Decomposition programm]]
 [[Task]]
 [[Day]]
 

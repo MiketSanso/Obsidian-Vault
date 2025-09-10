@@ -6,3 +6,4 @@
 [[Games]]
 [[Recipes]]
 [[Technical definitions]]
+[[College subjects]]

@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"e987f4cc3430b20f","type":"text","text":"# **Alexey Project**","x":-600,"y":218,"width":270,"height":165,"color":"4"},
+		{"id":"e987f4cc3430b20f","type":"text","text":"# **Alexey Project**","x":-600,"y":218,"width":270,"height":165,"color":"3"},
 		{"id":"dc4b073b5c035bbf","type":"text","text":"## Выбор архитектурного пулла","x":-590,"y":-33,"width":250,"height":113,"color":"6"},
 		{"id":"43bc2972fa30459b","type":"text","text":"### Дополнительный функционал (после основной разработки)","x":-1920,"y":691,"width":250,"height":159,"color":"6"},
 		{"id":"81c92ff170d84a64","type":"text","text":"### Верстка","x":-1510,"y":-135,"width":250,"height":60,"color":"6"},
@@ -25,7 +25,7 @@
 		{"id":"f542435b4d3392f9","type":"text","text":"Сделать отображение построения углов ","x":1405,"y":1090,"width":250,"height":60,"color":"1"},
 		{"id":"17778b7b74fc10a7","type":"text","text":"Сделать переход в режим обычных линий","x":1399,"y":890,"width":250,"height":60,"color":"1"},
 		{"id":"eec3e1fc7925b1d3","type":"text","text":"### Обработка данных\n","x":440,"y":-200,"width":250,"height":60,"color":"6"},
-		{"id":"7ad77e10f756df6f","type":"text","text":"Добавить обработку кнопки смены режима","x":1405,"y":990,"width":250,"height":60,"color":"1"},
+		{"id":"7ad77e10f756df6f","type":"text","text":"Добавить кнопку смены режима","x":1405,"y":990,"width":250,"height":60,"color":"1"},
 		{"id":"5ee7b03b61d457e0","type":"text","text":"Сделать переход в режим корректирующих линий","x":1405,"y":1200,"width":250,"height":68,"color":"1"},
 		{"id":"ae7730c75c5ec2f7","type":"text","text":"Сделать выгрузку углов как 25-30","x":864,"y":1355,"width":250,"height":60,"color":"1"},
 		{"id":"69cb768df7743cdb","type":"text","text":"### Загрузка данных","x":440,"y":-820,"width":250,"height":60,"color":"6"},
@@ -33,11 +33,12 @@
 		{"id":"ab01dea58bd99a20","type":"text","text":"Сделать загрузку фотографий","x":780,"y":-940,"width":250,"height":60,"color":"4"},
 		{"id":"8b039d154e8d0f60","type":"text","text":"Изменить хранилище и добавить переменные для новых режимов. ","x":817,"y":-102,"width":250,"height":97,"color":"4"},
 		{"id":"b8911a6e6fa01aed","type":"text","text":"Добавить смену текста в зависимости от активного режима","x":810,"y":-333,"width":250,"height":102,"color":"1"},
-		{"id":"412388527d2565aa","type":"text","text":"Добавить обработку кнопки смены режима","x":817,"y":-200,"width":250,"height":60,"color":"1"},
+		{"id":"412388527d2565aa","type":"text","text":"Добавить обработку кнопки смены режима","x":817,"y":-200,"width":250,"height":60,"color":"4"},
 		{"id":"ce37ea78b311b478","type":"text","text":"Добавить условия выполнения кнопок в зависимости от режима\n","x":780,"y":-497,"width":250,"height":116,"color":"1"},
-		{"id":"7c18e79fcb074194","x":780,"y":29,"width":250,"height":100,"color":"1","type":"text","text":"Сделать методы внесения изменений в хранилище новых режимов."},
+		{"id":"7c18e79fcb074194","type":"text","text":"Сделать методы внесения изменений в хранилище новых режимов.","x":780,"y":29,"width":250,"height":100,"color":"4"},
 		{"id":"87ab339079729045","type":"text","text":"Сделать сохранение segments, углов и correctSegments на картинке.","x":860,"y":1440,"width":250,"height":119,"color":"1"},
-		{"id":"cf13b170c78dd2ea","type":"text","text":"Сделать сохранение segments, углов и correctSegments в techFile.","x":860,"y":1600,"width":250,"height":119,"color":"1"}
+		{"id":"cf13b170c78dd2ea","type":"text","text":"Сделать сохранение segments, углов и correctSegments в techFile.","x":860,"y":1600,"width":250,"height":119,"color":"1"},
+		{"id":"82adb6477dfe987e","type":"text","text":"Разбить модели на несколько и унести в модели всю логику взаимодействия с их элементами, оставить чисто методы Change-ей.","x":1180,"y":-327,"width":250,"height":192,"color":"3"}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -75,6 +76,7 @@
 		{"id":"3799a39c9544c8a2","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"b8911a6e6fa01aed","toSide":"left"},
 		{"id":"07a5bdbf07d3bca8","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"412388527d2565aa","toSide":"left"},
 		{"id":"dc96ffcb151bb239","fromNode":"6d53f681cfddbf1f","fromSide":"right","toNode":"7ad77e10f756df6f","toSide":"left"},
-		{"id":"e467f8764a28f08b","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"7c18e79fcb074194","toSide":"left"}
+		{"id":"e467f8764a28f08b","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"7c18e79fcb074194","toSide":"left"},
+		{"id":"9ff193d38c6a7616","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"82adb6477dfe987e","toSide":"left"}
 	]
 }
