@@ -4,15 +4,15 @@
 	Status: In progress
 
 ----
-- Run in 30км за 3ч 
+- Running 30km for 3h
 	Status: In progress
 
 ----
-- Ходьба 100км за день. 
+- Walking 100km in 1 day. 
 	Status: In progress
 
 ----
-- Отжимания - 10000 раз за 2 суток. 
+- Push-ups 10000 раз за 2 суток. 
 	Status: In progress
 
 ----
