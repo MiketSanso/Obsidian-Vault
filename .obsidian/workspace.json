@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -181,8 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b44acd3c243ba52",
+  "active": "25f33a82c32afc20",
   "lastOpenFiles": [
+    "Days/2025-09-12.md",
+    "Days/2025-09-10.md",
     "Декомпозиция работы/Alexey Project.canvas",
     "Templates/Decomposition programm.canvas",
     "Templates/Templates.md",
@@ -197,7 +199,6 @@
     "Достижения/Work.md",
     "Достижения/Completed games.md",
     "Достижения/Achievements.md",
-    "Days/2025-09-10.md",
     "Days/2025-09-09.md",
     "Days/2025-09-08.md",
     "Templates/Day.md",
