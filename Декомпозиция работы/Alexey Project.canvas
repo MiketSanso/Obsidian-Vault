@@ -38,7 +38,8 @@
 		{"id":"7c18e79fcb074194","type":"text","text":"Сделать методы внесения изменений в хранилище новых режимов.","x":780,"y":29,"width":250,"height":100,"color":"4"},
 		{"id":"87ab339079729045","type":"text","text":"Сделать сохранение segments, углов и correctSegments на картинке.","x":860,"y":1440,"width":250,"height":119,"color":"1"},
 		{"id":"cf13b170c78dd2ea","type":"text","text":"Сделать сохранение segments, углов и correctSegments в techFile.","x":860,"y":1600,"width":250,"height":119,"color":"1"},
-		{"id":"82adb6477dfe987e","type":"text","text":"Разбить модели на несколько и унести в модели всю логику взаимодействия с их элементами, оставить чисто методы Change-ей.","x":1180,"y":-327,"width":250,"height":192,"color":"3"}
+		{"id":"82adb6477dfe987e","type":"text","text":"Разбить модели на несколько ","x":1180,"y":-287,"width":250,"height":87,"color":"4"},
+		{"id":"2b49962c652e10df","x":1180,"y":-163,"width":250,"height":122,"color":"2","type":"text","text":"В контроллер унести всю логику взаимодействия с lineRenderer-ами, оставить чисто методы Change-ей."}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -77,6 +78,7 @@
 		{"id":"07a5bdbf07d3bca8","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"412388527d2565aa","toSide":"left"},
 		{"id":"dc96ffcb151bb239","fromNode":"6d53f681cfddbf1f","fromSide":"right","toNode":"7ad77e10f756df6f","toSide":"left"},
 		{"id":"e467f8764a28f08b","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"7c18e79fcb074194","toSide":"left"},
-		{"id":"9ff193d38c6a7616","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"82adb6477dfe987e","toSide":"left"}
+		{"id":"9ff193d38c6a7616","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"82adb6477dfe987e","toSide":"left"},
+		{"id":"11d64b8f41d76847","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"2b49962c652e10df","toSide":"left"}
 	]
 }
