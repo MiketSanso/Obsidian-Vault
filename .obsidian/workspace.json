@@ -278,17 +278,14 @@
             "id": "997a3f19cb72e70a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/Alexey Project.canvas",
-                "viewState": {
-                  "x": 967.1853761883904,
-                  "y": 745.9196288929932,
-                  "zoom": 0.3333333333333334
-                }
+                "file": "Days/2025-09-11.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Alexey Project"
+              "icon": "lucide-file",
+              "title": "2025-09-11"
             }
           }
         ],
@@ -452,9 +449,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0818b71d227befe7",
+  "active": "997a3f19cb72e70a",
   "lastOpenFiles": [
     "Декомпозиция работы/Alexey Project.canvas",
+    "Days/2025-09-11.md",
     "conflict-files-obsidian-git.md",
     "Days/2025-09-10.md",
     "Достижения/Work.md",
@@ -481,7 +479,6 @@
     "База знаний/Предметы (КОЛЛЕДЖ)/College subjects.md",
     "База знаний/Заметки/Нерасформированные задачи (По убыванию важности).md",
     "База знаний/Заметки/Notes.md",
-    "База знаний/Recipes/Шурпа (на 15 литров).md",
     "База знаний/Recipes",
     "База знаний/Games/Stalker",
     "База знаний/Games",
