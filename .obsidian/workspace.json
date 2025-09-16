@@ -280,12 +280,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Days/2025-09-12.md",
+                "file": "Days/2025-09-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-12"
+              "title": "2025-09-16"
             }
           }
         ],
@@ -451,8 +451,9 @@
   },
   "active": "997a3f19cb72e70a",
   "lastOpenFiles": [
-    "Days/2025-09-11.md",
     "Days/2025-09-12.md",
+    "Days/2025-09-16.md",
+    "Days/2025-09-11.md",
     "База знаний/Технические определения для собеседований/Unity/C шарп.md",
     "Декомпозиция работы/Alexey Project.canvas",
     "conflict-files-obsidian-git.md",
@@ -479,7 +480,6 @@
     "База знаний/Технические определения для собеседований/Technical definitions.md",
     "База знаний/Предметы (КОЛЛЕДЖ)/College subjects.md",
     "База знаний/Заметки/Нерасформированные задачи (По убыванию важности).md",
-    "База знаний/Заметки/Notes.md",
     "База знаний/Recipes",
     "База знаний/Games/Stalker",
     "База знаний/Games",
