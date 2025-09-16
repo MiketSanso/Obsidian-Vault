@@ -1,3 +1,3 @@
 
-[[Alexey Project.canvas|Alexey Project]]
+[[Alexey Project]]
 [[Mentor Task.canvas|Mentor Task]]
