@@ -25,17 +25,14 @@
             "id": "67031c10cf5ce57f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
-                "viewState": {
-                  "x": 1039.6077321057187,
-                  "y": -206.26113074538037,
-                  "zoom": -0.16266654151553384
-                }
+                "file": "Days/2025-09-17.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Alexey Project"
+              "icon": "lucide-file",
+              "title": "2025-09-17"
             }
           }
         ],
@@ -201,12 +198,12 @@
   },
   "active": "67031c10cf5ce57f",
   "lastOpenFiles": [
+    "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
     "Декомпозиция работы/AlexeyProject/Alexey Project.md",
     "Days/2025-09-17.md",
     "Untitled.base",
     "conflict-files-obsidian-git.md",
     "Декомпозиция работы/AlexeyProject/Без названия.canvas",
-    "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
     "Obsidian Web.md",
     "Декомпозиция работы/Work Decomposition.md",
     "Декомпозиция работы/AlexeyProject",
