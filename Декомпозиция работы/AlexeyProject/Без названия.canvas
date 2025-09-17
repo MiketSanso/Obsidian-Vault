@@ -27,7 +27,8 @@
 		{"id":"6ece2346c1e16820","type":"text","text":"### SaveDataToXMLService\n\n1) Сохраняет все данные в XML (для пользователя)\n2) <mark class=\"hltr-r\">Сохраняет технические данные для повторного открытия.</mark>","x":1091,"y":539,"width":293,"height":221,"color":"3"},
 		{"id":"e9ed2e91ed2b00bc","type":"text","text":"### SceneChangeService\n1) Смена сцены","x":1804,"y":635,"width":259,"height":105,"color":"4"},
 		{"id":"7ce8ad26e0d179dd","type":"text","text":"### ActiveLineRenderersController\n\n1. Активирует точки на картинке.\n2. Меняет точки на картинке.","x":1008,"y":840,"width":374,"height":120,"color":"5"},
-		{"id":"4e630ae168e6b1da","type":"text","text":"### PoolCircleController","x":978,"y":1010,"width":260,"height":55}
+		{"id":"4e630ae168e6b1da","type":"text","text":"### PoolCircleController","x":978,"y":1010,"width":260,"height":55,"color":"#000000"},
+		{"id":"1e99de3e09122d9d","type":"text","text":"### LineRendererController\n\n1. Хранилище для LineRenderer-а, контролирует его активацию. ","x":978,"y":1120,"width":374,"height":120,"color":"5"}
 	],
 	"edges":[
 		{"id":"efccadab956ab2d3","fromNode":"dfa14613b899ddb5","fromSide":"top","toNode":"6d6dcabfbb8060eb","toSide":"bottom"},
