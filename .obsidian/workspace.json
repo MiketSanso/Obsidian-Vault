@@ -11,14 +11,17 @@
             "id": "25f33a82c32afc20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Days/2025-09-17.md",
-                "mode": "source",
-                "source": false
+                "file": "Декомпозиция работы/AlexeyProject/Без названия.canvas",
+                "viewState": {
+                  "x": 1440.1869824177331,
+                  "y": 1101.274032728533,
+                  "zoom": -0.6093811158827276
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-09-17"
+              "icon": "lucide-layout-dashboard",
+              "title": "Без названия"
             }
           }
         ]
@@ -183,6 +186,7 @@
   },
   "active": "25f33a82c32afc20",
   "lastOpenFiles": [
+    "Days/2025-09-15.md",
     "Days/2025-09-16.md",
     "Days/2025-09-17.md",
     "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
@@ -190,7 +194,6 @@
     "Декомпозиция работы/Work Decomposition.md",
     "Декомпозиция работы/AlexeyProject/Alexey Project.md",
     "Декомпозиция работы/AlexeyProject",
-    "Days/2025-09-15.md",
     "Days/2025-09-14.md",
     "Days/2025-09-13.md",
     "Days/2025-09-10.md",
