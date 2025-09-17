@@ -14,7 +14,7 @@
 		{"id":"42d8bca27fadafaa","type":"text","text":"### ImageScrollerPresenter\n\n1) UpdateText (Обновление текста номера картинки в UI)\n2) OperationWithNumber (перелистнуть назад/вперед картинку, заспавнить все нужные элементы в UI)","x":1189,"y":-906,"width":279,"height":294,"color":"3"},
 		{"id":"58144f8d5f8603e9","type":"text","text":"### CalibrationPanelPresenter\n\n1) ChangeSystemSize (Изменяет во View референсное значение для калибровки.)\n2) SaveSize (Метод для кнопки сохранения. Сохраняет значения.)","x":943,"y":-1171,"width":324,"height":210,"color":"4"},
 		{"id":"2c05199bb6c77021","type":"text","text":"### MainImagePresenter\n\n1) SetFirstValue\n2) SetSecondValue\n3) SetThirdValue","x":807,"y":-1381,"width":273,"height":147,"color":"3"},
-		{"id":"b67d631646168896","type":"text","text":"### ModeElementsScrollerPresenter\n\n1) UpdateText (обновить текст линий в UI)\n   2) TryChamgeNumberLine(true/false) (попытка менять номер линии.)\n   3) OperationWithNumber (Смена значения в Data и изменение UI)","x":1529,"y":-701,"width":374,"height":240,"color":"3"},
+		{"id":"b67d631646168896","type":"text","text":"### ModeElementsScrollerPresenter\n\n1) UpdateText (обновить текст линий в UI)\n2) TryChamgeNumberLine(true/false) (попытка менять номер линии.)\n3) OperationWithNumber (Смена значения в Data и изменение UI)","x":1529,"y":-701,"width":374,"height":240,"color":"3"},
 		{"id":"0087610c447f4212","type":"text","text":"### TechButtonsPresenter\n\n1) SaveToXml (Сохраняет все мои данные)\n2) SwitchMode (Сменить мод выделения)","x":728,"y":-1661,"width":250,"height":200,"color":"4"},
 		{"id":"644e5776caf399c2","type":"text","text":"### ImageScrollerView\n\n1) Button _scrollLeftButton;  \n2) Button _scrollRightButton;  \n3) TMP_Text _textNumberImages;","x":-1195,"y":-1145,"width":279,"height":193,"color":"3"},
 		{"id":"24732a8fa58b0c6f","type":"text","text":"## UI","x":-990,"y":-1622,"width":74,"height":60,"color":"6"},
@@ -24,11 +24,11 @@
 		{"id":"d0c4fa0c8be78801","type":"text","text":"### CalibrationPanelView\n\n1) Button buttonAgreeSize\n2) InputFiled fieldActualSize\n3) textSize","x":-313,"y":-1502,"width":324,"height":150,"color":"4"},
 		{"id":"dd4aad916be0bac6","type":"text","text":"## Service","x":1560,"y":960,"width":136,"height":50,"color":"6"},
 		{"id":"8ebbcd256774ae21","type":"text","text":"### LoadImagesService\n\n1) Загружает новые фотографии.\n<mark class=\"hltr-r\">2) Загружает старые, ранее редактировавшиеся файлы</mark>","x":1488,"y":408,"width":316,"height":160,"color":"3"},
-		{"id":"6ece2346c1e16820","type":"text","text":"### SaveDataToXMLService\n\n1) Сохраняет все данные в XML (для пользователя)\n2) <mark class=\"hltr-r\">Сохраняет технические данные для повторного открытия.</mark>","x":1091,"y":539,"width":293,"height":221,"color":"3"},
-		{"id":"e9ed2e91ed2b00bc","type":"text","text":"### SceneChangeService\n1) Смена сцены","x":1804,"y":635,"width":259,"height":105,"color":"4"},
 		{"id":"7ce8ad26e0d179dd","type":"text","text":"### ActiveLineRenderersController\n\n1. Активирует точки на картинке.\n2. Меняет точки на картинке.","x":1008,"y":840,"width":374,"height":120,"color":"5"},
-		{"id":"4e630ae168e6b1da","type":"text","text":"### PoolCircleController","x":978,"y":1010,"width":260,"height":55,"color":"#000000"},
-		{"id":"1e99de3e09122d9d","type":"text","text":"### LineRendererController\n\n1. Хранилище для LineRenderer-а, контролирует его активацию. ","x":978,"y":1120,"width":374,"height":120,"color":"5"}
+		{"id":"6ece2346c1e16820","type":"text","text":"### SaveDataToXMLService\n\n1) Сохраняет все данные в XML (для пользователя)\n2) <mark class=\"hltr-r\">Сохраняет технические данные для повторного открытия.</mark>","x":1165,"y":467,"width":293,"height":221,"color":"3"},
+		{"id":"e9ed2e91ed2b00bc","type":"text","text":"### SceneChangeService\n1) Смена сцены","x":1696,"y":636,"width":259,"height":105,"color":"4"},
+		{"id":"1e99de3e09122d9d","type":"text","text":"### LineRendererController\n\n1. Хранилище для LineRenderer-а, контролирует его активацию. ","x":821,"y":1010,"width":374,"height":120,"color":"5"},
+		{"id":"4e630ae168e6b1da","type":"text","text":"### PoolCircleController","x":1008,"y":1215,"width":260,"height":50,"color":"#000000"}
 	],
 	"edges":[
 		{"id":"efccadab956ab2d3","fromNode":"dfa14613b899ddb5","fromSide":"top","toNode":"6d6dcabfbb8060eb","toSide":"bottom"},
@@ -53,6 +53,7 @@
 		{"id":"c9b2aa0bf2ff0ada","fromNode":"dd4aad916be0bac6","fromSide":"top","toNode":"6ece2346c1e16820","toSide":"bottom"},
 		{"id":"6d325ad06314470d","fromNode":"dd4aad916be0bac6","fromSide":"top","toNode":"e9ed2e91ed2b00bc","toSide":"bottom"},
 		{"id":"5845f7d6e3e31b0a","fromNode":"dd4aad916be0bac6","fromSide":"left","toNode":"7ce8ad26e0d179dd","toSide":"right"},
-		{"id":"8c2e254043b56a01","fromNode":"dd4aad916be0bac6","fromSide":"left","toNode":"4e630ae168e6b1da","toSide":"right"}
+		{"id":"8c2e254043b56a01","fromNode":"dd4aad916be0bac6","fromSide":"left","toNode":"4e630ae168e6b1da","toSide":"right"},
+		{"id":"122377ff8cb0d211","fromNode":"dd4aad916be0bac6","fromSide":"left","toNode":"1e99de3e09122d9d","toSide":"right"}
 	]
 }
