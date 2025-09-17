@@ -23,7 +23,7 @@
 		{"id":"67010f01c36178d4","type":"text","text":"### PanelTechButtonsView\n\n1) Button _buttonSaveToXML;\n2) Button _buttonChangeMode;","x":-313,"y":-1762,"width":310,"height":140,"color":"4"},
 		{"id":"d0c4fa0c8be78801","type":"text","text":"### CalibrationPanelView\n\n1) Button buttonAgreeSize\n2) InputFiled fieldActualSize\n3) textSize","x":-313,"y":-1502,"width":324,"height":150,"color":"4"},
 		{"id":"dd4aad916be0bac6","type":"text","text":"## Service","x":1560,"y":960,"width":136,"height":50,"color":"6"},
-		{"id":"7ce8ad26e0d179dd","type":"text","text":"### ActiveLineRenderersController","x":1008,"y":890,"width":374,"height":70},
+		{"id":"7ce8ad26e0d179dd","type":"text","text":"### ActiveLineRenderersController\n\n1. Активирует точки на картинке.\n2. Меняет точки на картинке.","x":1008,"y":890,"width":374,"height":120},
 		{"id":"4e630ae168e6b1da","type":"text","text":"### PoolCircleController","x":1008,"y":1120,"width":260,"height":55},
 		{"id":"31dd9ae37637d2fa","type":"text","text":"### ActiveLineRenderersController","x":913,"y":1010,"width":355,"height":60},
 		{"id":"8ebbcd256774ae21","type":"text","text":"### LoadImagesService\n\n1) Загружает новые фотографии.\n<mark class=\"hltr-r\">2) Загружает старые, ранее редактировавшиеся файлы</mark>","x":1488,"y":408,"width":316,"height":160,"color":"3"},
