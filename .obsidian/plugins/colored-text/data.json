@@ -13,11 +13,11 @@
   ],
   "colorArr": [
     "rgb(192, 0, 0)",
+    "rgb(192, 0, 0)",
     "#000000",
-    "#000000",
-    "#000000",
-    "#000000"
+    "#00b050",
+    "#0070c0"
   ],
   "colorCellCount": "5",
-  "hidePlugin": true
+  "hidePlugin": false
 }
