@@ -25,17 +25,14 @@
             "id": "67031c10cf5ce57f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/AlexeyProject/Без названия.canvas",
-                "viewState": {
-                  "x": 1475.0825582674606,
-                  "y": 903.5657084076493,
-                  "zoom": -0.8543364219404523
-                }
+                "file": "Days/2025-09-17.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Без названия"
+              "icon": "lucide-file",
+              "title": "2025-09-17"
             }
           }
         ],
@@ -201,8 +198,9 @@
   },
   "active": "67031c10cf5ce57f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Декомпозиция работы/AlexeyProject/Без названия.canvas",
+    "Days/2025-09-17.md",
+    "conflict-files-obsidian-git.md",
     "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
     "Obsidian Web.md",
     "Декомпозиция работы/AlexeyProject/Alexey Project.md",
@@ -229,7 +227,6 @@
     "Достижения/Sport.md",
     "Достижения/Achievements.md",
     "Достижения",
-    "Days/2025-09-08.md",
     "Декомпозиция работы/Mentor Task.canvas",
     "База знаний/Recipes",
     "База знаний/Games/Stalker",
