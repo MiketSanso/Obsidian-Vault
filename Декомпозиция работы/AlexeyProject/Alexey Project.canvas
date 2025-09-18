@@ -31,8 +31,6 @@
 		{"id":"69cb768df7743cdb","type":"text","text":"### Загрузка данных","x":440,"y":-820,"width":250,"height":60,"color":"6"},
 		{"id":"056405713d503c38","type":"text","text":"Сделать возможность загружать старые данные и сразу отображать их. ","x":780,"y":-849,"width":250,"height":118,"color":"1"},
 		{"id":"ab01dea58bd99a20","type":"text","text":"Сделать загрузку фотографий","x":780,"y":-940,"width":250,"height":60,"color":"4"},
-		{"id":"8b039d154e8d0f60","type":"text","text":"Изменить хранилище и добавить переменные для новых режимов. ","x":817,"y":-102,"width":250,"height":97,"color":"4"},
-		{"id":"7c18e79fcb074194","type":"text","text":"Сделать методы внесения изменений в хранилище новых режимов.","x":780,"y":29,"width":250,"height":100,"color":"4"},
 		{"id":"87ab339079729045","type":"text","text":"Сделать сохранение segments, углов и correctSegments на картинке.","x":860,"y":1440,"width":250,"height":119,"color":"1"},
 		{"id":"cf13b170c78dd2ea","type":"text","text":"Сделать сохранение segments, углов и correctSegments в techFile.","x":860,"y":1600,"width":250,"height":119,"color":"1"},
 		{"id":"1578b8e1ccdd9b0e","type":"text","text":"## Архитектура скриптов","x":-635,"y":1125,"width":315,"height":75,"color":"6"},
@@ -65,11 +63,13 @@
 		{"id":"b78540f14c437b8f","type":"text","text":"### MainImagePresenter\n\n1) SetFirstValue\n2) SetSecondValue\n3) SetThirdValue","x":168,"y":3000,"width":273,"height":147,"color":"3"},
 		{"id":"78b0f826104d7d72","type":"text","text":"### CalibrationPanelPresenter\n\n1) ChangeSystemSize (Изменяет во View референсное значение для калибровки.)\n2) SaveSize (Метод для кнопки сохранения. Сохраняет значения.)","x":304,"y":3210,"width":324,"height":210,"color":"4"},
 		{"id":"6cfd2ae0a65bbeb2","type":"text","text":"### TechButtonsPresenter\n\n1) SaveToXml (Сохраняет все мои данные)\n2) SwitchMode (Сменить мод выделения)","x":89,"y":2720,"width":250,"height":200,"color":"4"},
-		{"id":"ce37ea78b311b478","type":"text","text":"Добавить условия выполнения кнопок в зависимости от режима\n","x":580,"y":-520,"width":250,"height":116,"color":"3"},
-		{"id":"b8911a6e6fa01aed","type":"text","text":"Добавить смену текста в зависимости от активного режима","x":610,"y":-356,"width":250,"height":102,"color":"4"},
-		{"id":"412388527d2565aa","type":"text","text":"Добавить обработку кнопки смены режима","x":485,"y":-31,"width":250,"height":60,"color":"4"},
-		{"id":"2b49962c652e10df","type":"text","text":"В контроллер унести всю логику взаимодействия с lineRenderer-ами, оставить чисто методы Change-ей.","x":1180,"y":-175,"width":250,"height":122,"color":"4"},
-		{"id":"82adb6477dfe987e","type":"text","text":"Разбить модели на несколько ","x":1180,"y":-287,"width":250,"height":87,"color":"4"}
+		{"id":"ce37ea78b311b478","type":"text","text":"Добавить условия выполнения кнопок в зависимости от режима\n","x":735,"y":-553,"width":250,"height":116,"color":"3"},
+		{"id":"b8911a6e6fa01aed","type":"text","text":"Добавить смену текста в зависимости от активного режима","x":735,"y":-404,"width":250,"height":102,"color":"4"},
+		{"id":"82adb6477dfe987e","type":"text","text":"Разбить модели на несколько ","x":1149,"y":-475,"width":250,"height":87,"color":"4"},
+		{"id":"2b49962c652e10df","type":"text","text":"В контроллер унести всю логику взаимодействия с lineRenderer-ами, оставить чисто методы Change-ей.","x":1149,"y":-363,"width":250,"height":122,"color":"4"},
+		{"id":"8b039d154e8d0f60","type":"text","text":"Изменить хранилище и добавить переменные для новых режимов. ","x":860,"y":-237,"width":250,"height":97,"color":"4"},
+		{"id":"7c18e79fcb074194","type":"text","text":"Сделать методы внесения изменений в хранилище новых режимов.","x":823,"y":-106,"width":250,"height":100,"color":"4"},
+		{"id":"412388527d2565aa","type":"text","text":"Добавить обработку кнопки смены режима","x":823,"y":32,"width":250,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
