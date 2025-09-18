@@ -25,17 +25,14 @@
             "id": "67031c10cf5ce57f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
-                "viewState": {
-                  "x": 1039.1669113897954,
-                  "y": 3804.869408234542,
-                  "zoom": 0.834630808291162
-                }
+                "file": "Days/2025-09-18.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Alexey Project"
+              "icon": "lucide-file",
+              "title": "2025-09-18"
             }
           }
         ],
@@ -201,10 +198,10 @@
   },
   "active": "67031c10cf5ce57f",
   "lastOpenFiles": [
+    "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
     "База знаний/Предметы (КОЛЛЕДЖ)/История.md",
     "Days/2025-09-18.md",
     "Days/2025-09-17.md",
-    "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
     "Декомпозиция работы/AlexeyProject/Alexey Project.md",
     "Untitled.base",
     "conflict-files-obsidian-git.md",
@@ -230,7 +227,6 @@
     "Достижения/Work.md",
     "Достижения/Completed games.md",
     "Достижения/Sport.md",
-    "Достижения/Achievements.md",
     "Достижения",
     "Декомпозиция работы/Mentor Task.canvas",
     "База знаний/Recipes",
