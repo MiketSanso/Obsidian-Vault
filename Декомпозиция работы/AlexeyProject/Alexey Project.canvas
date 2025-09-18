@@ -7,7 +7,6 @@
 		{"id":"702a8b67a007f28a","type":"text","text":"### Минимальный смысл/функционал","x":-1510,"y":253,"width":250,"height":102,"color":"6"},
 		{"id":"f67e37a07c754908","type":"text","text":"## Модули дизайна","x":-1120,"y":274,"width":250,"height":60,"color":"6"},
 		{"id":"5e742ab3552d3e61","type":"text","text":"## Модули программирования","x":40,"y":230,"width":250,"height":140,"color":"6"},
-		{"id":"93fa2bc6f5bc5488","type":"text","text":"Сделать отображение **нажатий** на Image. (Точки)","x":860,"y":300,"width":250,"height":60,"color":"#000000"},
 		{"id":"8897649fed01c690","type":"text","text":"### Отображение данных","x":440,"y":390,"width":250,"height":81,"color":"6"},
 		{"id":"052fb4edce98a744","type":"text","text":"Сделать Line Renderer-ы","x":860,"y":400,"width":250,"height":60,"color":"4"},
 		{"id":"5264fe79fb450c6c","type":"text","text":"Сделать смену фото","x":860,"y":500,"width":250,"height":60,"color":"4"},
@@ -16,8 +15,6 @@
 		{"id":"d449d9b2a77dd295","type":"text","text":"### Общая система\n","x":-210,"y":-220,"width":250,"height":60,"color":"6"},
 		{"id":"a6c4578dc7c2a396","type":"text","text":"При смене фото","x":1280,"y":340,"width":250,"height":60,"color":"4"},
 		{"id":"34640c4f9b2c1f0f","type":"text","text":"При выделении\n","x":1280,"y":441,"width":250,"height":60,"color":"4"},
-		{"id":"3279ccafb80eed37","type":"text","text":"При смене фото","x":1225,"y":129,"width":250,"height":60,"color":"#000000"},
-		{"id":"19fa52d5f0723e71","type":"text","text":"При выделении\n","x":1279,"y":234,"width":250,"height":60,"color":"#000000"},
 		{"id":"2e3237d1fdcf66b4","type":"text","text":"### Выгрузка данных","x":440,"y":1360,"width":250,"height":50,"color":"6"},
 		{"id":"6d53f681cfddbf1f","type":"text","text":"Сделать 3 режима:\n1) Режим обычных линий\n2) Режим корректирующих линий. \n3) Режим вымерки углов.","x":900,"y":920,"width":250,"height":200,"color":"3"},
 		{"id":"e49fe120a233feb5","type":"text","text":"Сделать режим построения углов по трём точкам меньше 180 градусов","x":1402,"y":765,"width":250,"height":90,"color":"1"},
@@ -31,8 +28,6 @@
 		{"id":"69cb768df7743cdb","type":"text","text":"### Загрузка данных","x":440,"y":-820,"width":250,"height":60,"color":"6"},
 		{"id":"056405713d503c38","type":"text","text":"Сделать возможность загружать старые данные и сразу отображать их. ","x":780,"y":-849,"width":250,"height":118,"color":"1"},
 		{"id":"ab01dea58bd99a20","type":"text","text":"Сделать загрузку фотографий","x":780,"y":-940,"width":250,"height":60,"color":"4"},
-		{"id":"8b039d154e8d0f60","type":"text","text":"Изменить хранилище и добавить переменные для новых режимов. ","x":817,"y":-102,"width":250,"height":97,"color":"4"},
-		{"id":"7c18e79fcb074194","type":"text","text":"Сделать методы внесения изменений в хранилище новых режимов.","x":780,"y":29,"width":250,"height":100,"color":"4"},
 		{"id":"87ab339079729045","type":"text","text":"Сделать сохранение segments, углов и correctSegments на картинке.","x":860,"y":1440,"width":250,"height":119,"color":"1"},
 		{"id":"cf13b170c78dd2ea","type":"text","text":"Сделать сохранение segments, углов и correctSegments в techFile.","x":860,"y":1600,"width":250,"height":119,"color":"1"},
 		{"id":"1578b8e1ccdd9b0e","type":"text","text":"## Архитектура скриптов","x":-635,"y":1125,"width":315,"height":75,"color":"6"},
@@ -66,10 +61,16 @@
 		{"id":"78b0f826104d7d72","type":"text","text":"### CalibrationPanelPresenter\n\n1) ChangeSystemSize (Изменяет во View референсное значение для калибровки.)\n2) SaveSize (Метод для кнопки сохранения. Сохраняет значения.)","x":304,"y":3210,"width":324,"height":210,"color":"4"},
 		{"id":"6cfd2ae0a65bbeb2","type":"text","text":"### TechButtonsPresenter\n\n1) SaveToXml (Сохраняет все мои данные)\n2) SwitchMode (Сменить мод выделения)","x":89,"y":2720,"width":250,"height":200,"color":"4"},
 		{"id":"ce37ea78b311b478","type":"text","text":"Добавить условия выполнения кнопок в зависимости от режима\n","x":580,"y":-520,"width":250,"height":116,"color":"3"},
-		{"id":"b8911a6e6fa01aed","type":"text","text":"Добавить смену текста в зависимости от активного режима","x":610,"y":-356,"width":250,"height":102,"color":"4"},
-		{"id":"412388527d2565aa","type":"text","text":"Добавить обработку кнопки смены режима","x":485,"y":-31,"width":250,"height":60,"color":"4"},
-		{"id":"2b49962c652e10df","type":"text","text":"В контроллер унести всю логику взаимодействия с lineRenderer-ами, оставить чисто методы Change-ей.","x":1180,"y":-175,"width":250,"height":122,"color":"4"},
-		{"id":"82adb6477dfe987e","type":"text","text":"Разбить модели на несколько ","x":1180,"y":-287,"width":250,"height":87,"color":"4"}
+		{"id":"412388527d2565aa","type":"text","text":"Добавить обработку кнопки смены режима","x":655,"y":-347,"width":250,"height":60,"color":"4"},
+		{"id":"7c18e79fcb074194","type":"text","text":"Сделать методы внесения изменений в хранилище новых режимов.","x":530,"y":-53,"width":250,"height":100,"color":"4"},
+		{"id":"8b039d154e8d0f60","type":"text","text":"Изменить хранилище и добавить переменные для новых режимов. ","x":817,"y":-100,"width":250,"height":97,"color":"4"},
+		{"id":"2b49962c652e10df","type":"text","text":"В контроллер унести всю логику взаимодействия с lineRenderer-ами, оставить чисто методы Change-ей.","x":1030,"y":-235,"width":250,"height":122,"color":"4"},
+		{"id":"82adb6477dfe987e","type":"text","text":"Разбить модели на несколько ","x":1030,"y":-347,"width":250,"height":87,"color":"4"},
+		{"id":"5ce3f91b155d5770","x":864,"y":631,"width":250,"height":115,"color":"4","type":"text","text":"Сделать правильное отображение Elements и Images при нажатии на смену режима. "},
+		{"id":"93fa2bc6f5bc5488","type":"text","text":"Сделать отображение **нажатий** на Image. (Точки)","x":860,"y":153,"width":250,"height":60,"color":"#000000"},
+		{"id":"b8911a6e6fa01aed","type":"text","text":"Добавить смену текста в зависимости от активного режима","x":864,"y":243,"width":250,"height":102,"color":"4"},
+		{"id":"3279ccafb80eed37","type":"text","text":"При смене фото","x":1220,"y":99,"width":250,"height":60,"color":"#000000"},
+		{"id":"19fa52d5f0723e71","type":"text","text":"При выделении\n","x":1220,"y":183,"width":250,"height":60,"color":"#000000"}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -104,7 +105,6 @@
 		{"id":"43ecb4d68d866964","fromNode":"2e3237d1fdcf66b4","fromSide":"right","toNode":"cf13b170c78dd2ea","toSide":"left"},
 		{"id":"5576cdcd3cf4a644","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"8b039d154e8d0f60","toSide":"left"},
 		{"id":"dc96ffcb151bb239","fromNode":"6d53f681cfddbf1f","fromSide":"right","toNode":"7ad77e10f756df6f","toSide":"left"},
-		{"id":"e467f8764a28f08b","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"7c18e79fcb074194","toSide":"left"},
 		{"id":"9ff193d38c6a7616","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"82adb6477dfe987e","toSide":"left"},
 		{"id":"11d64b8f41d76847","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"2b49962c652e10df","toSide":"left"},
 		{"id":"4d9ff3b801a2d6bc","fromNode":"da4028ee369d2987","fromSide":"top","toNode":"58205ecec0e25c9b","toSide":"bottom"},
@@ -136,8 +136,10 @@
 		{"id":"b4280e4702808a62","fromNode":"da4028ee369d2987","fromSide":"top","toNode":"42d15725412d928c","toSide":"bottom"},
 		{"id":"a845144c7b5c2fc9","fromNode":"da4028ee369d2987","fromSide":"top","toNode":"3bd9f8bab046a125","toSide":"bottom"},
 		{"id":"1a5719d77f7aa210","fromNode":"da4028ee369d2987","fromSide":"right","toNode":"37f68f8aa36cbb49","toSide":"bottom"},
-		{"id":"b4639769d7ce0310","fromNode":"eec3e1fc7925b1d3","fromSide":"top","toNode":"b8911a6e6fa01aed","toSide":"left"},
 		{"id":"e5e3173c8816bd3c","fromNode":"eec3e1fc7925b1d3","fromSide":"top","toNode":"ce37ea78b311b478","toSide":"left"},
-		{"id":"cceb76ddf3e83e5c","fromNode":"eec3e1fc7925b1d3","fromSide":"bottom","toNode":"412388527d2565aa","toSide":"left"}
+		{"id":"6648fd9d82e3d14b","fromNode":"8897649fed01c690","fromSide":"right","toNode":"b8911a6e6fa01aed","toSide":"left"},
+		{"id":"5883273b78c8638a","fromNode":"8897649fed01c690","fromSide":"right","toNode":"5ce3f91b155d5770","toSide":"left"},
+		{"id":"817e32960cf413c8","fromNode":"eec3e1fc7925b1d3","fromSide":"top","toNode":"412388527d2565aa","toSide":"left"},
+		{"id":"c70e1db409fc9b51","fromNode":"eec3e1fc7925b1d3","fromSide":"bottom","toNode":"7c18e79fcb074194","toSide":"left"}
 	]
 }
