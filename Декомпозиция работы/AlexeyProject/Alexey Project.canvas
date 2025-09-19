@@ -17,13 +17,7 @@
 		{"id":"34640c4f9b2c1f0f","type":"text","text":"При выделении\n","x":1280,"y":441,"width":250,"height":60,"color":"4"},
 		{"id":"2e3237d1fdcf66b4","type":"text","text":"### Выгрузка данных","x":440,"y":1360,"width":250,"height":50,"color":"6"},
 		{"id":"6d53f681cfddbf1f","type":"text","text":"Сделать 3 режима:\n1) Режим обычных линий\n2) Режим корректирующих линий. \n3) Режим вымерки углов.","x":900,"y":920,"width":250,"height":200,"color":"3"},
-		{"id":"e49fe120a233feb5","type":"text","text":"Сделать режим построения углов по трём точкам меньше 180 градусов","x":1402,"y":765,"width":250,"height":90,"color":"1"},
-		{"id":"29de459602188f6b","type":"text","text":"Сделать переход в режим углов","x":1399,"y":658,"width":250,"height":60,"color":"4"},
-		{"id":"f542435b4d3392f9","type":"text","text":"Сделать отображение построения углов ","x":1405,"y":1090,"width":250,"height":60,"color":"1"},
-		{"id":"17778b7b74fc10a7","type":"text","text":"Сделать переход в режим обычных линий","x":1399,"y":890,"width":250,"height":60,"color":"4"},
 		{"id":"eec3e1fc7925b1d3","type":"text","text":"### Обработка данных\n","x":440,"y":-200,"width":250,"height":60,"color":"6"},
-		{"id":"7ad77e10f756df6f","type":"text","text":"Добавить кнопку смены режима","x":1405,"y":990,"width":250,"height":60,"color":"4"},
-		{"id":"5ee7b03b61d457e0","type":"text","text":"Сделать переход в режим корректирующих линий","x":1405,"y":1200,"width":250,"height":68,"color":"4"},
 		{"id":"ae7730c75c5ec2f7","type":"text","text":"Сделать выгрузку углов как 25-30","x":864,"y":1355,"width":250,"height":60,"color":"1"},
 		{"id":"87ab339079729045","type":"text","text":"Сделать сохранение segments, углов и correctSegments на картинке.","x":860,"y":1440,"width":250,"height":119,"color":"1"},
 		{"id":"cf13b170c78dd2ea","type":"text","text":"Сделать сохранение segments, углов и correctSegments в techFile.","x":860,"y":1600,"width":250,"height":119,"color":"1"},
@@ -70,7 +64,13 @@
 		{"id":"82adb6477dfe987e","type":"text","text":"Разбить модели на несколько ","x":1216,"y":-403,"width":250,"height":87,"color":"4"},
 		{"id":"7c18e79fcb074194","type":"text","text":"Сделать методы внесения изменений в хранилище новых режимов.","x":690,"y":-60,"width":250,"height":100,"color":"4"},
 		{"id":"412388527d2565aa","type":"text","text":"Добавить обработку кнопки смены режима","x":1360,"y":-488,"width":250,"height":60,"color":"4"},
-		{"id":"ce37ea78b311b478","type":"text","text":"Добавить условия выполнения кнопок в зависимости от режима\n(В классе MainImagePresenter)","x":882,"y":-604,"width":250,"height":146,"color":"4"}
+		{"id":"ce37ea78b311b478","type":"text","text":"Добавить условия выполнения кнопок в зависимости от режима\n(В классе MainImagePresenter)","x":882,"y":-604,"width":250,"height":146,"color":"4"},
+		{"id":"29de459602188f6b","type":"text","text":"Сделать переход в режим углов","x":1399,"y":788,"width":250,"height":60,"color":"4"},
+		{"id":"e49fe120a233feb5","type":"text","text":"Сделать видимость построения углов по трём точкам меньше 180 градусов","x":1402,"y":895,"width":250,"height":90,"color":"1"},
+		{"id":"17778b7b74fc10a7","type":"text","text":"Сделать переход в режим обычных линий","x":1399,"y":1020,"width":250,"height":60,"color":"4"},
+		{"id":"7ad77e10f756df6f","type":"text","text":"Добавить кнопку смены режима","x":1405,"y":1120,"width":250,"height":60,"color":"4"},
+		{"id":"5ee7b03b61d457e0","type":"text","text":"Сделать переход в режим корректирующих линий","x":1405,"y":1216,"width":250,"height":68,"color":"4"},
+		{"id":"6654a09dec6dbd76","x":740,"y":-288,"width":250,"height":60,"type":"text","text":"При смене картинки сделать так, чтобы линия выбиралась по но"}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -94,7 +94,6 @@
 		{"id":"bd3ffec42418abcf","fromNode":"93fa2bc6f5bc5488","fromSide":"right","toNode":"3279ccafb80eed37","toSide":"left"},
 		{"id":"73ac49dede96a5b7","fromNode":"93fa2bc6f5bc5488","fromSide":"right","toNode":"19fa52d5f0723e71","toSide":"left"},
 		{"id":"ce575ac93e90d353","fromNode":"8897649fed01c690","fromSide":"right","toNode":"6d53f681cfddbf1f","toSide":"left"},
-		{"id":"50a2b571f3564df3","fromNode":"6d53f681cfddbf1f","fromSide":"right","toNode":"f542435b4d3392f9","toSide":"left"},
 		{"id":"8805003a85955619","fromNode":"6d53f681cfddbf1f","fromSide":"right","toNode":"29de459602188f6b","toSide":"left"},
 		{"id":"4abbee65d2b89d0f","fromNode":"6d53f681cfddbf1f","fromSide":"right","toNode":"5ee7b03b61d457e0","toSide":"left"},
 		{"id":"45c11f70f2bb6870","fromNode":"2e3237d1fdcf66b4","fromSide":"right","toNode":"ae7730c75c5ec2f7","toSide":"left"},
@@ -140,6 +139,7 @@
 		{"id":"6648fd9d82e3d14b","fromNode":"8897649fed01c690","fromSide":"right","toNode":"b8911a6e6fa01aed","toSide":"left"},
 		{"id":"5883273b78c8638a","fromNode":"8897649fed01c690","fromSide":"right","toNode":"5ce3f91b155d5770","toSide":"left"},
 		{"id":"817e32960cf413c8","fromNode":"eec3e1fc7925b1d3","fromSide":"top","toNode":"412388527d2565aa","toSide":"left"},
-		{"id":"c70e1db409fc9b51","fromNode":"eec3e1fc7925b1d3","fromSide":"bottom","toNode":"7c18e79fcb074194","toSide":"left"}
+		{"id":"c70e1db409fc9b51","fromNode":"eec3e1fc7925b1d3","fromSide":"bottom","toNode":"7c18e79fcb074194","toSide":"left"},
+		{"id":"2590588ae21b7e27","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"6654a09dec6dbd76","toSide":"left"}
 	]
 }
