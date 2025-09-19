@@ -79,12 +79,13 @@
 		{"id":"3bd9f8bab046a125","type":"text","text":"### ModesData\n1) (int) CountModes\n","x":-2820,"y":4173,"width":250,"height":110,"color":"4"},
 		{"id":"42d15725412d928c","type":"text","text":"### DataSaveSize\n\n1) int CountLines \n2) int CountCorners  \n3) int CountReferenceLines","x":-3119,"y":4144,"width":250,"height":168,"color":"4"},
 		{"id":"37f68f8aa36cbb49","type":"text","text":"### SceneNumbersData\n\n1) (int) Menu\n2) (int) Workplace","x":-2869,"y":4400,"width":250,"height":120,"color":"4"},
-		{"id":"0843402099aa7196","type":"text","text":"### MainSegmentsModel\n\n1) (float[,]) SegmentSaveSizes\n2) (Vector2[,,]) PointPositions\n3)  (float) segmentUserWriteSize\n4) (float) segmentCalibrationSize;\n\n","x":-1970,"y":5334,"width":300,"height":190,"color":"4"},
-		{"id":"bdf011ea412e000a","type":"text","text":"### ModeModel\n\n1) (ModesData) modesData\n2) (int) ModeNumber","x":-2037,"y":5594,"width":250,"height":140,"color":"4"},
-		{"id":"6c304184139342e5","type":"text","text":"### ReferenceSegmentsModel\n\n1) (Vector2[,,]) PointReferencePositions\n\n\n","x":-2239,"y":5814,"width":327,"height":120,"color":"4"},
-		{"id":"0fe324d663eb37ea","type":"text","text":"### ImagesModel\n\n1) (string[,]) FileNames\n2) (List<Sprite>) Images","x":-2070,"y":5084,"width":250,"height":160,"color":"4"},
-		{"id":"58205ecec0e25c9b","type":"text","text":"### CornersModel\n\n1) (float[,]) CornerSaveSizes\n2) (Vector2[,,]) PointCornerPositions","x":-2600,"y":5080,"width":307,"height":150,"color":"4"},
-		{"id":"89cf64e4a24ca2fe","type":"text","text":"### TechImagesModel\n\n1) (const int) COUNT_LINES = 25;  \n2) (int) countImages = -1;  \n3) (int) numberImage;  \n4) (int) numberLine;","x":-1360,"y":5934,"width":300,"height":200,"color":"4"}
+		{"id":"89cf64e4a24ca2fe","type":"text","text":"### TechImagesModel\n\n1) (const int) COUNT_LINES = 25;  \n2) (int) countImages = -1;  \n3) (int) numberImage;  \n4) (int) numberLine;","x":-1360,"y":5934,"width":300,"height":200,"color":"4"},
+		{"id":"6c304184139342e5","type":"text","text":"### ReferenceSegmentsModel\n\n1) (Vector2[,,]) PointReferencePositions\n\n\n","x":-1270,"y":5740,"width":327,"height":120,"color":"4"},
+		{"id":"bdf011ea412e000a","type":"text","text":"### ModeModel\n\n1) (ModesData) modesData\n2) (int) ModeNumber","x":-1270,"y":5524,"width":250,"height":140,"color":"4"},
+		{"id":"0843402099aa7196","type":"text","text":"### MainSegmentsModel\n\n1) (float[,]) SegmentSaveSizes\n2) (Vector2[,,]) PointPositions\n3)  (float) segmentUserWriteSize\n4) (float) segmentCalibrationSize;\n\n","x":-1360,"y":5244,"width":300,"height":190,"color":"4"},
+		{"id":"0fe324d663eb37ea","type":"text","text":"### ImagesModel\n\n1) (string[,]) FileNames\n2) (List<Sprite>) Images","x":-1610,"y":4986,"width":250,"height":160,"color":"4"},
+		{"id":"58205ecec0e25c9b","type":"text","text":"### CornersModel\n\n1) (float[,]) CornerSaveSizes\n2) (Vector2[,,]) PointCornerPositions","x":-1763,"y":4806,"width":307,"height":150,"color":"4"},
+		{"id":"51ff629002fbf2dd","x":-1811,"y":4664,"width":250,"height":60,"type":"text","text":"## LineRenderersModel\n\n1) Хранит в себе массив и 2 LineRenderer-а для управления ими. \n   20"}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -120,12 +121,10 @@
 		{"id":"dc96ffcb151bb239","fromNode":"6d53f681cfddbf1f","fromSide":"right","toNode":"7ad77e10f756df6f","toSide":"left"},
 		{"id":"9ff193d38c6a7616","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"82adb6477dfe987e","toSide":"left"},
 		{"id":"11d64b8f41d76847","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"2b49962c652e10df","toSide":"left"},
-		{"id":"4d9ff3b801a2d6bc","fromNode":"da4028ee369d2987","fromSide":"top","toNode":"58205ecec0e25c9b","toSide":"bottom"},
-		{"id":"a44ae935571a46e9","fromNode":"da4028ee369d2987","fromSide":"top","toNode":"0fe324d663eb37ea","toSide":"bottom"},
 		{"id":"24ce0d6b9f54d046","fromNode":"da4028ee369d2987","fromSide":"right","toNode":"0843402099aa7196","toSide":"left"},
 		{"id":"e5b19ea1bf25ea61","fromNode":"da4028ee369d2987","fromSide":"right","toNode":"bdf011ea412e000a","toSide":"left"},
-		{"id":"779379936d41f14c","fromNode":"da4028ee369d2987","fromSide":"bottom","toNode":"6c304184139342e5","toSide":"top"},
-		{"id":"d684a4a5664f7300","fromNode":"da4028ee369d2987","fromSide":"bottom","toNode":"89cf64e4a24ca2fe","toSide":"top"},
+		{"id":"779379936d41f14c","fromNode":"da4028ee369d2987","fromSide":"bottom","toNode":"6c304184139342e5","toSide":"left"},
+		{"id":"d684a4a5664f7300","fromNode":"da4028ee369d2987","fromSide":"bottom","toNode":"89cf64e4a24ca2fe","toSide":"left"},
 		{"id":"578bc89a1dc52c24","fromNode":"247713e7a8cf9622","fromSide":"left","toNode":"78b0f826104d7d72","toSide":"right"},
 		{"id":"6507f75026a92d9d","fromNode":"247713e7a8cf9622","fromSide":"top","toNode":"b78540f14c437b8f","toSide":"bottom"},
 		{"id":"2e049db1923779cb","fromNode":"247713e7a8cf9622","fromSide":"bottom","toNode":"c03a8facefc0913d","toSide":"top"},
@@ -169,6 +168,9 @@
 		{"id":"abe5e11ed0c75dbf","fromNode":"43bc2972fa30459b","fromSide":"left","toNode":"dc439c6d25e5c196","toSide":"right"},
 		{"id":"93cd77522444eac7","fromNode":"43bc2972fa30459b","fromSide":"left","toNode":"aa91dbad66b6c927","toSide":"right"},
 		{"id":"3b01f759d34c87bc","fromNode":"43bc2972fa30459b","fromSide":"left","toNode":"cb0d6583fd7d1c85","toSide":"right"},
-		{"id":"1d5b55cec64db1f3","fromNode":"43bc2972fa30459b","fromSide":"left","toNode":"f40ba099576b425f","toSide":"right"}
+		{"id":"1d5b55cec64db1f3","fromNode":"43bc2972fa30459b","fromSide":"left","toNode":"f40ba099576b425f","toSide":"right"},
+		{"id":"bedd076f02a160fc","fromNode":"da4028ee369d2987","fromSide":"right","toNode":"58205ecec0e25c9b","toSide":"left"},
+		{"id":"4a775de7dd62a725","fromNode":"da4028ee369d2987","fromSide":"right","toNode":"0fe324d663eb37ea","toSide":"left"},
+		{"id":"98ea694e12e25778","fromNode":"da4028ee369d2987","fromSide":"right","toNode":"51ff629002fbf2dd","toSide":"left"}
 	]
 }
