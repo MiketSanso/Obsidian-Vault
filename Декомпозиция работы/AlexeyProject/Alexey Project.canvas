@@ -2,7 +2,6 @@
 	"nodes":[
 		{"id":"e987f4cc3430b20f","type":"text","text":"# **Alexey Project**\n","x":-600,"y":218,"width":270,"height":165,"color":"3"},
 		{"id":"dc4b073b5c035bbf","type":"text","text":"## Выбор архитектурного пулла","x":-590,"y":-33,"width":250,"height":113,"color":"6"},
-		{"id":"43bc2972fa30459b","type":"text","text":"### Дополнительный функционал (после основной разработки)","x":-1920,"y":691,"width":250,"height":159,"color":"6"},
 		{"id":"81c92ff170d84a64","type":"text","text":"### Верстка","x":-1510,"y":-135,"width":250,"height":60,"color":"6"},
 		{"id":"702a8b67a007f28a","type":"text","text":"### Минимальный смысл/функционал","x":-1510,"y":253,"width":250,"height":102,"color":"6"},
 		{"id":"f67e37a07c754908","type":"text","text":"## Модули дизайна","x":-1120,"y":274,"width":250,"height":60,"color":"6"},
@@ -80,7 +79,12 @@
 		{"id":"eadcb241992497cc","x":-137,"y":-960,"width":117,"height":60,"color":"5","type":"text","text":"GRASP"},
 		{"id":"dac917a2f6c27b62","x":-53,"y":-730,"width":113,"height":60,"color":"5","type":"text","text":"SOLID"},
 		{"id":"413738719fcb5fe2","x":-1881,"y":-285,"width":250,"height":65,"color":"4","type":"text","text":"Сверстать Bootstrap"},
-		{"id":"a4432716016d9c61","x":-1872,"y":-15,"width":250,"height":60,"color":"4","type":"text","text":"Сверстать главный экран"}
+		{"id":"a4432716016d9c61","x":-1872,"y":-15,"width":250,"height":60,"color":"4","type":"text","text":"Сверстать главный рабочий экран"},
+		{"id":"43bc2972fa30459b","type":"text","text":"### Дополнительный функционал (после основной разработки)","x":-1900,"y":780,"width":250,"height":159,"color":"6"},
+		{"id":"dc439c6d25e5c196","x":-2298,"y":1007,"width":250,"height":60,"type":"text","text":"Иметь возможность выделять углы. "},
+		{"id":"aa91dbad66b6c927","x":-2312,"y":774,"width":250,"height":60,"type":"text","text":"Иметь возможность делать постоянные калибровочные линии для каждой картинки."},
+		{"id":"cb0d6583fd7d1c85","x":-2349,"y":895,"width":250,"height":60,"type":"text","text":"Иметь возможность сохранять изменения на самой картинке"},
+		{"id":"f40ba099576b425f","x":-2306,"y":668,"width":250,"height":60,"type":"text","text":"Иметь возможность сохранять технические изменения и загружать их."}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -161,6 +165,10 @@
 		{"id":"4405c0c2d0bdc643","fromNode":"d449d9b2a77dd295","fromSide":"top","toNode":"dac917a2f6c27b62","toSide":"bottom"},
 		{"id":"9c458bbf7ec4fa6e","fromNode":"d449d9b2a77dd295","fromSide":"top","toNode":"632e6e0def0515a2","toSide":"bottom"},
 		{"id":"57628f7a9e317b7e","fromNode":"81c92ff170d84a64","fromSide":"left","toNode":"413738719fcb5fe2","toSide":"right"},
-		{"id":"c381f779f8e5d34b","fromNode":"81c92ff170d84a64","fromSide":"left","toNode":"a4432716016d9c61","toSide":"right"}
+		{"id":"c381f779f8e5d34b","fromNode":"81c92ff170d84a64","fromSide":"left","toNode":"a4432716016d9c61","toSide":"right"},
+		{"id":"abe5e11ed0c75dbf","fromNode":"43bc2972fa30459b","fromSide":"left","toNode":"dc439c6d25e5c196","toSide":"right"},
+		{"id":"93cd77522444eac7","fromNode":"43bc2972fa30459b","fromSide":"left","toNode":"aa91dbad66b6c927","toSide":"right"},
+		{"id":"3b01f759d34c87bc","fromNode":"43bc2972fa30459b","fromSide":"left","toNode":"cb0d6583fd7d1c85","toSide":"right"},
+		{"id":"1d5b55cec64db1f3","fromNode":"43bc2972fa30459b","fromSide":"left","toNode":"f40ba099576b425f","toSide":"right"}
 	]
 }
