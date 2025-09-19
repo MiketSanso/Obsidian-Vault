@@ -10,9 +10,6 @@
 		{"id":"8897649fed01c690","type":"text","text":"### Отображение данных","x":440,"y":390,"width":250,"height":81,"color":"6"},
 		{"id":"052fb4edce98a744","type":"text","text":"Сделать Line Renderer-ы","x":860,"y":400,"width":250,"height":60,"color":"4"},
 		{"id":"5264fe79fb450c6c","type":"text","text":"Сделать смену фото","x":860,"y":500,"width":250,"height":60,"color":"4"},
-		{"id":"a823c271b5e8d22a","type":"text","text":"### SDK/Frameworks","x":-960,"y":-220,"width":250,"height":60,"color":"6"},
-		{"id":"821356bf9e51818a","type":"text","text":"### UI паттерны проектирования","x":-580,"y":-280,"width":250,"height":120,"color":"6"},
-		{"id":"d449d9b2a77dd295","type":"text","text":"### Общая система\n","x":-210,"y":-220,"width":250,"height":60,"color":"6"},
 		{"id":"a6c4578dc7c2a396","type":"text","text":"При смене фото","x":1280,"y":340,"width":250,"height":60,"color":"4"},
 		{"id":"34640c4f9b2c1f0f","type":"text","text":"При выделении\n","x":1280,"y":441,"width":250,"height":60,"color":"4"},
 		{"id":"2e3237d1fdcf66b4","type":"text","text":"### Выгрузка данных","x":440,"y":1360,"width":250,"height":50,"color":"6"},
@@ -73,10 +70,15 @@
 		{"id":"8b039d154e8d0f60","type":"text","text":"Изменить хранилище и добавить переменные для новых режимов. ","x":989,"y":-108,"width":250,"height":97,"color":"4"},
 		{"id":"82adb6477dfe987e","type":"text","text":"Разбить модели на несколько ","x":1470,"y":-380,"width":250,"height":87,"color":"4"},
 		{"id":"03181dde539b443b","x":1060,"y":-410,"width":250,"height":60,"color":"3","type":"text","text":"Сделать класс, хранящий в себе все LineRenderer-ы."},
-		{"id":"d6c369dba8022101","x":-591,"y":-471,"width":250,"height":60,"color":"5","type":"text","text":"MVP"},
-		{"id":"a4c100829eab0b12","x":-960,"y":-400,"width":250,"height":60,"color":"5","type":"text","text":"Zenject"},
-		{"id":"c76c9e2b3e03e1bd","x":-212,"y":-401,"width":250,"height":60,"color":"5","type":"text","text":"GoF"},
-		{"id":"eadcb241992497cc","x":-17,"y":-424,"width":250,"height":60,"type":"text","text":"GRASP"}
+		{"id":"d449d9b2a77dd295","type":"text","text":"### Общая система\n","x":-334,"y":-580,"width":250,"height":60,"color":"6"},
+		{"id":"c76c9e2b3e03e1bd","x":-314,"y":-1020,"width":114,"height":60,"color":"5","type":"text","text":"GoF"},
+		{"id":"a823c271b5e8d22a","type":"text","text":"### SDK/Frameworks","x":-1260,"y":-580,"width":250,"height":60,"color":"6"},
+		{"id":"a4c100829eab0b12","x":-1260,"y":-760,"width":250,"height":60,"color":"5","type":"text","text":"Zenject"},
+		{"id":"821356bf9e51818a","type":"text","text":"### UI паттерны проектирования","x":-880,"y":-640,"width":250,"height":120,"color":"6"},
+		{"id":"d6c369dba8022101","x":-891,"y":-831,"width":250,"height":60,"color":"5","type":"text","text":"MVP"},
+		{"id":"632e6e0def0515a2","x":-454,"y":-831,"width":120,"height":60,"color":"5","type":"text","text":"ООП"},
+		{"id":"eadcb241992497cc","x":-137,"y":-960,"width":117,"height":60,"color":"5","type":"text","text":"GRASP"},
+		{"id":"dac917a2f6c27b62","x":-53,"y":-730,"width":113,"height":60,"color":"5","type":"text","text":"SOLID"}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -153,6 +155,8 @@
 		{"id":"43bb48263fbc391b","fromNode":"821356bf9e51818a","fromSide":"top","toNode":"d6c369dba8022101","toSide":"bottom"},
 		{"id":"190c77890e83508e","fromNode":"a823c271b5e8d22a","fromSide":"top","toNode":"a4c100829eab0b12","toSide":"bottom"},
 		{"id":"8df5039048975c90","fromNode":"d449d9b2a77dd295","fromSide":"top","toNode":"c76c9e2b3e03e1bd","toSide":"bottom"},
-		{"id":"ab3b5ea43c41c2ee","fromNode":"d449d9b2a77dd295","fromSide":"top","toNode":"eadcb241992497cc","toSide":"bottom"}
+		{"id":"ab3b5ea43c41c2ee","fromNode":"d449d9b2a77dd295","fromSide":"top","toNode":"eadcb241992497cc","toSide":"bottom"},
+		{"id":"4405c0c2d0bdc643","fromNode":"d449d9b2a77dd295","fromSide":"top","toNode":"dac917a2f6c27b62","toSide":"bottom"},
+		{"id":"9c458bbf7ec4fa6e","fromNode":"d449d9b2a77dd295","fromSide":"top","toNode":"632e6e0def0515a2","toSide":"bottom"}
 	]
 }
