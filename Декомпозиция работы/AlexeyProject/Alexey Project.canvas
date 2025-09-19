@@ -78,7 +78,9 @@
 		{"id":"d6c369dba8022101","x":-891,"y":-831,"width":250,"height":60,"color":"5","type":"text","text":"MVP"},
 		{"id":"632e6e0def0515a2","x":-454,"y":-831,"width":120,"height":60,"color":"5","type":"text","text":"ООП"},
 		{"id":"eadcb241992497cc","x":-137,"y":-960,"width":117,"height":60,"color":"5","type":"text","text":"GRASP"},
-		{"id":"dac917a2f6c27b62","x":-53,"y":-730,"width":113,"height":60,"color":"5","type":"text","text":"SOLID"}
+		{"id":"dac917a2f6c27b62","x":-53,"y":-730,"width":113,"height":60,"color":"5","type":"text","text":"SOLID"},
+		{"id":"413738719fcb5fe2","x":-1881,"y":-285,"width":250,"height":65,"color":"4","type":"text","text":"Сверстать Bootstrap"},
+		{"id":"a4432716016d9c61","x":-1872,"y":-15,"width":250,"height":60,"color":"4","type":"text","text":"Сверстать главный экран"}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -157,6 +159,8 @@
 		{"id":"8df5039048975c90","fromNode":"d449d9b2a77dd295","fromSide":"top","toNode":"c76c9e2b3e03e1bd","toSide":"bottom"},
 		{"id":"ab3b5ea43c41c2ee","fromNode":"d449d9b2a77dd295","fromSide":"top","toNode":"eadcb241992497cc","toSide":"bottom"},
 		{"id":"4405c0c2d0bdc643","fromNode":"d449d9b2a77dd295","fromSide":"top","toNode":"dac917a2f6c27b62","toSide":"bottom"},
-		{"id":"9c458bbf7ec4fa6e","fromNode":"d449d9b2a77dd295","fromSide":"top","toNode":"632e6e0def0515a2","toSide":"bottom"}
+		{"id":"9c458bbf7ec4fa6e","fromNode":"d449d9b2a77dd295","fromSide":"top","toNode":"632e6e0def0515a2","toSide":"bottom"},
+		{"id":"57628f7a9e317b7e","fromNode":"81c92ff170d84a64","fromSide":"left","toNode":"413738719fcb5fe2","toSide":"right"},
+		{"id":"c381f779f8e5d34b","fromNode":"81c92ff170d84a64","fromSide":"left","toNode":"a4432716016d9c61","toSide":"right"}
 	]
 }
