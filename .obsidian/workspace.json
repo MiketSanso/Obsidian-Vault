@@ -25,14 +25,17 @@
             "id": "67031c10cf5ce57f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Days/2025-09-19.md",
-                "mode": "source",
-                "source": false
+                "file": "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
+                "viewState": {
+                  "x": -582,
+                  "y": 2533,
+                  "zoom": -2.8320358583755048
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-09-19"
+              "icon": "lucide-layout-dashboard",
+              "title": "Alexey Project"
             }
           }
         ],
@@ -196,15 +199,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0818b71d227befe7",
+  "active": "67031c10cf5ce57f",
   "lastOpenFiles": [
-    "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
-    "conflict-files-obsidian-git.md",
+    "Декомпозиция работы/AlexeyProject/Alexey Project.md",
     "Days/2025-09-19.md",
+    "conflict-files-obsidian-git.md",
+    "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
     "База знаний/Предметы (КОЛЛЕДЖ)/История.md",
     "Days/2025-09-18.md",
     "Days/2025-09-17.md",
-    "Декомпозиция работы/AlexeyProject/Alexey Project.md",
     "Untitled.base",
     "Декомпозиция работы/AlexeyProject/Без названия.canvas",
     "Obsidian Web.md",
