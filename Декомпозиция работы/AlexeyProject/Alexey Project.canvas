@@ -72,7 +72,11 @@
 		{"id":"5ee7b03b61d457e0","type":"text","text":"Сделать переход в режим корректирующих линий","x":1360,"y":1260,"width":250,"height":68,"color":"4"},
 		{"id":"8b039d154e8d0f60","type":"text","text":"Изменить хранилище и добавить переменные для новых режимов. ","x":989,"y":-108,"width":250,"height":97,"color":"4"},
 		{"id":"82adb6477dfe987e","type":"text","text":"Разбить модели на несколько ","x":1470,"y":-380,"width":250,"height":87,"color":"4"},
-		{"id":"03181dde539b443b","x":1060,"y":-410,"width":250,"height":60,"color":"3","type":"text","text":"Сделать класс, хранящий в себе все LineRenderer-ы."}
+		{"id":"03181dde539b443b","x":1060,"y":-410,"width":250,"height":60,"color":"3","type":"text","text":"Сделать класс, хранящий в себе все LineRenderer-ы."},
+		{"id":"d6c369dba8022101","x":-591,"y":-471,"width":250,"height":60,"color":"5","type":"text","text":"MVP"},
+		{"id":"a4c100829eab0b12","x":-960,"y":-400,"width":250,"height":60,"color":"5","type":"text","text":"Zenject"},
+		{"id":"c76c9e2b3e03e1bd","x":-212,"y":-401,"width":250,"height":60,"color":"5","type":"text","text":"GoF"},
+		{"id":"eadcb241992497cc","x":-17,"y":-424,"width":250,"height":60,"type":"text","text":"GRASP"}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -145,6 +149,10 @@
 		{"id":"2590588ae21b7e27","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"6654a09dec6dbd76","toSide":"left"},
 		{"id":"c9c447e2c8ddd77d","fromNode":"6d53f681cfddbf1f","fromSide":"right","toNode":"e49fe120a233feb5","toSide":"left"},
 		{"id":"df71ef26e716ba0b","fromNode":"6d53f681cfddbf1f","fromSide":"right","toNode":"ae6fb92c9be83049","toSide":"left"},
-		{"id":"e887dde05920b01e","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"03181dde539b443b","toSide":"left"}
+		{"id":"e887dde05920b01e","fromNode":"eec3e1fc7925b1d3","fromSide":"right","toNode":"03181dde539b443b","toSide":"left"},
+		{"id":"43bb48263fbc391b","fromNode":"821356bf9e51818a","fromSide":"top","toNode":"d6c369dba8022101","toSide":"bottom"},
+		{"id":"190c77890e83508e","fromNode":"a823c271b5e8d22a","fromSide":"top","toNode":"a4c100829eab0b12","toSide":"bottom"},
+		{"id":"8df5039048975c90","fromNode":"d449d9b2a77dd295","fromSide":"top","toNode":"c76c9e2b3e03e1bd","toSide":"bottom"},
+		{"id":"ab3b5ea43c41c2ee","fromNode":"d449d9b2a77dd295","fromSide":"top","toNode":"eadcb241992497cc","toSide":"bottom"}
 	]
 }
