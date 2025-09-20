@@ -11,17 +11,14 @@
             "id": "25f33a82c32afc20",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
-                "viewState": {
-                  "x": 971.0348342379997,
-                  "y": 3499.4357851147674,
-                  "zoom": -1.3202078185020139
-                }
+                "file": "Days/2025-09-20.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Alexey Project"
+              "icon": "lucide-file",
+              "title": "2025-09-20"
             }
           }
         ]
@@ -186,8 +183,9 @@
   },
   "active": "25f33a82c32afc20",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
+    "Days/2025-09-20.md",
+    "conflict-files-obsidian-git.md",
     "Days/2025-09-18.md",
     "Декомпозиция работы/AlexeyProject/Без названия.canvas",
     "Days/2025-09-17.md",
@@ -216,7 +214,6 @@
     "Days/2025-09-03.md",
     "Декомпозиция работы/Work decomposition.md",
     "Obsidian Web.md",
-    "README.md",
     "Достижения/Спортивные показатели/Untitled",
     "Достижения/Спортивные показатели",
     "Достижения",
