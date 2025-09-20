@@ -85,7 +85,8 @@
 		{"id":"0843402099aa7196","type":"text","text":"### MainSegmentsModel\n\n1) (float[,]) SegmentSaveSizes\n2) (Vector2[,,]) PointPositions\n3)  (float) segmentUserWriteSize\n4) (float) segmentCalibrationSize;\n\n","x":-1360,"y":5244,"width":300,"height":190,"color":"4"},
 		{"id":"0fe324d663eb37ea","type":"text","text":"### ImagesModel\n\n1) (string[,]) FileNames\n2) (List<Sprite>) Images","x":-1610,"y":4986,"width":250,"height":160,"color":"4"},
 		{"id":"58205ecec0e25c9b","type":"text","text":"### CornersModel\n\n1) (float[,]) CornerSaveSizes\n2) (Vector2[,,]) PointCornerPositions","x":-1763,"y":4806,"width":307,"height":150,"color":"4"},
-		{"id":"51ff629002fbf2dd","x":-1811,"y":4520,"width":355,"height":204,"color":"3","type":"text","text":"## LineRenderersModel\n\n1) Хранит в себе массив и 2 LineRenderer-а для управления ими. \n   2) Управляет лайн рендерерами, а вернее выдает методы их активации, деактивации и так далее."}
+		{"id":"51ff629002fbf2dd","type":"text","text":"## LineRenderersModel\n\n1) Хранит в себе массив и 2 LineRenderer-а для управления ими. \n   2) Управляет лайн рендерерами, а вернее выдает методы их активации, деактивации и так далее.","x":-1811,"y":4520,"width":355,"height":204,"color":"3"},
+		{"id":"730149faa5cccf22","x":1557,"y":-642,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -171,6 +172,7 @@
 		{"id":"1d5b55cec64db1f3","fromNode":"43bc2972fa30459b","fromSide":"left","toNode":"f40ba099576b425f","toSide":"right"},
 		{"id":"bedd076f02a160fc","fromNode":"da4028ee369d2987","fromSide":"right","toNode":"58205ecec0e25c9b","toSide":"left"},
 		{"id":"4a775de7dd62a725","fromNode":"da4028ee369d2987","fromSide":"right","toNode":"0fe324d663eb37ea","toSide":"left"},
-		{"id":"98ea694e12e25778","fromNode":"da4028ee369d2987","fromSide":"right","toNode":"51ff629002fbf2dd","toSide":"left"}
+		{"id":"98ea694e12e25778","fromNode":"da4028ee369d2987","fromSide":"right","toNode":"51ff629002fbf2dd","toSide":"left"},
+		{"id":"c01484a19a6ce5a1","fromNode":"6654a09dec6dbd76","fromSide":"right","toNode":"730149faa5cccf22","toSide":"left"}
 	]
 }
