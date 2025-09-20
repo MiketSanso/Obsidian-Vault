@@ -48,7 +48,7 @@
 		{"id":"056405713d503c38","type":"text","text":"Сделать возможность загружать старые данные и сразу отображать их. ","x":780,"y":-1069,"width":250,"height":118,"color":"1"},
 		{"id":"69cb768df7743cdb","type":"text","text":"### Загрузка данных","x":440,"y":-1040,"width":250,"height":60,"color":"6"},
 		{"id":"7c18e79fcb074194","type":"text","text":"Сделать методы внесения изменений в хранилище новых режимов.","x":690,"y":-60,"width":250,"height":100,"color":"4"},
-		{"id":"6654a09dec6dbd76","type":"text","text":"При смене картинки сделать так, чтобы линия выбиралась по номеру, все калибровочные линии картинки активировались, а углы пропадали (или наоборот, в зависимости от режима)","x":1160,"y":-675,"width":250,"height":235,"color":"1"},
+		{"id":"6654a09dec6dbd76","type":"text","text":"При смене картинки сделать так, чтобы линия выбиралась по номеру, все калибровочные линии картинки активировались, а углы пропадали (или наоборот, в зависимости от режима)","x":1160,"y":-675,"width":250,"height":235,"color":"3"},
 		{"id":"29de459602188f6b","type":"text","text":"Сделать переход в режим углов","x":1518,"y":716,"width":250,"height":60,"color":"4"},
 		{"id":"e49fe120a233feb5","type":"text","text":"Сделать видимость построения углов по трём точкам меньше 180 градусов","x":1660,"y":800,"width":250,"height":90,"color":"1"},
 		{"id":"ae6fb92c9be83049","type":"text","text":"При выборе какой-то определённой калибровочной линии (если она уже была нарисована) выделить её другим цветом.","x":1725,"y":900,"width":250,"height":180,"color":"1"},
@@ -57,7 +57,7 @@
 		{"id":"5ee7b03b61d457e0","type":"text","text":"Сделать переход в режим корректирующих линий","x":1360,"y":1260,"width":250,"height":68,"color":"4"},
 		{"id":"8b039d154e8d0f60","type":"text","text":"Изменить хранилище и добавить переменные для новых режимов. ","x":989,"y":-108,"width":250,"height":97,"color":"4"},
 		{"id":"82adb6477dfe987e","type":"text","text":"Разбить модели на несколько ","x":1470,"y":-380,"width":250,"height":87,"color":"4"},
-		{"id":"03181dde539b443b","type":"text","text":"Сделать класс, хранящий в себе все LineRenderer-ы.","x":1060,"y":-410,"width":250,"height":60,"color":"3"},
+		{"id":"03181dde539b443b","type":"text","text":"Сделать класс, хранящий в себе все LineRenderer-ы.","x":1060,"y":-410,"width":250,"height":60,"color":"4"},
 		{"id":"d449d9b2a77dd295","type":"text","text":"### Общая система\n","x":-334,"y":-580,"width":250,"height":60,"color":"6"},
 		{"id":"c76c9e2b3e03e1bd","type":"text","text":"GoF","x":-314,"y":-1020,"width":114,"height":60,"color":"5"},
 		{"id":"a823c271b5e8d22a","type":"text","text":"### SDK/Frameworks","x":-1260,"y":-580,"width":250,"height":60,"color":"6"},
@@ -86,7 +86,8 @@
 		{"id":"0fe324d663eb37ea","type":"text","text":"### ImagesModel\n\n1) (string[,]) FileNames\n2) (List<Sprite>) Images","x":-1610,"y":4986,"width":250,"height":160,"color":"4"},
 		{"id":"58205ecec0e25c9b","type":"text","text":"### CornersModel\n\n1) (float[,]) CornerSaveSizes\n2) (Vector2[,,]) PointCornerPositions","x":-1763,"y":4806,"width":307,"height":150,"color":"4"},
 		{"id":"51ff629002fbf2dd","type":"text","text":"## LineRenderersModel\n\n1) Хранит в себе массив и 2 LineRenderer-а для управления ими. \n   2) Управляет лайн рендерерами, а вернее выдает методы их активации, деактивации и так далее.","x":-1811,"y":4520,"width":355,"height":204,"color":"3"},
-		{"id":"730149faa5cccf22","x":1557,"y":-642,"width":250,"height":60,"type":"text","text":""}
+		{"id":"730149faa5cccf22","x":1560,"y":-675,"width":250,"height":95,"color":"1","type":"text","text":"Линия выбиралась по номеру / выбирался угол по номеру"},
+		{"id":"ef1e80bc37216a49","x":1560,"y":-534,"width":250,"height":60,"color":"4","type":"text","text":"Все калибровочные линии картинки активировались"}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -173,6 +174,7 @@
 		{"id":"bedd076f02a160fc","fromNode":"da4028ee369d2987","fromSide":"right","toNode":"58205ecec0e25c9b","toSide":"left"},
 		{"id":"4a775de7dd62a725","fromNode":"da4028ee369d2987","fromSide":"right","toNode":"0fe324d663eb37ea","toSide":"left"},
 		{"id":"98ea694e12e25778","fromNode":"da4028ee369d2987","fromSide":"right","toNode":"51ff629002fbf2dd","toSide":"left"},
-		{"id":"c01484a19a6ce5a1","fromNode":"6654a09dec6dbd76","fromSide":"right","toNode":"730149faa5cccf22","toSide":"left"}
+		{"id":"c01484a19a6ce5a1","fromNode":"6654a09dec6dbd76","fromSide":"right","toNode":"730149faa5cccf22","toSide":"left"},
+		{"id":"8a7491ae52ce5ea8","fromNode":"6654a09dec6dbd76","fromSide":"right","toNode":"ef1e80bc37216a49","toSide":"left"}
 	]
 }
