@@ -11,17 +11,14 @@
             "id": "25f33a82c32afc20",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
-                "viewState": {
-                  "x": -1000.955232321601,
-                  "y": 3617.6710686584256,
-                  "zoom": 1.1102230246251565e-16
-                }
+                "file": "База знаний/Статьи/История зарождения любви к психологии.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Alexey Project"
+              "icon": "lucide-file",
+              "title": "История зарождения любви к психологии"
             }
           }
         ]
@@ -186,10 +183,16 @@
   },
   "active": "25f33a82c32afc20",
   "lastOpenFiles": [
+    "База знаний/Статьи/Моментные ощущения после первой работы.md",
+    "База знаний/Статьи/Мотивация 21 века.md",
+    "База знаний/Статьи/Мысли за пару дней до отъезда из дома в Москву.md",
+    "База знаний/Статьи/Проблема отца с алкоголем.md",
+    "База знаний/Статьи/Польза психологии.md",
+    "База знаний/Статьи/История зарождения любви к психологии.md",
+    "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
     "Days/2025-09-20.md",
     "conflict-files-obsidian-git.md",
     "Days/2025-09-19.md",
-    "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
     "Days/2025-09-18.md",
     "Декомпозиция работы/AlexeyProject/Без названия.canvas",
     "Days/2025-09-17.md",
@@ -210,14 +213,8 @@
     "Tasks/Спортивные тренировки/Отжимания на плечи.md",
     "Tasks/Спортивные тренировки/Качать икры.md",
     "Tasks/Спортивные тренировки/Выход на две.md",
-    "Tasks/Спортивные тренировки/Качать пресс.md",
     "Декомпозиция работы/Alexey Project.canvas",
     "Templates/Decomposition programm.canvas",
-    "Templates/Templates.md",
-    "Days/2025-08-24.md",
-    "Days/2025-09-03.md",
-    "Декомпозиция работы/Work decomposition.md",
-    "Obsidian Web.md",
     "Достижения/Спортивные показатели/Untitled",
     "Достижения/Спортивные показатели",
     "Достижения",
