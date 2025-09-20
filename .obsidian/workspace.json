@@ -11,14 +11,17 @@
             "id": "25f33a82c32afc20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Days/2025-09-20.md",
-                "mode": "source",
-                "source": false
+                "file": "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
+                "viewState": {
+                  "x": 193.6509355509353,
+                  "y": 2970.7392931392937,
+                  "zoom": -3.0601049243160054
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-09-20"
+              "icon": "lucide-layout-dashboard",
+              "title": "Alexey Project"
             }
           }
         ]
@@ -181,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0818b71d227befe7",
+  "active": "25f33a82c32afc20",
   "lastOpenFiles": [
     "Days/2025-09-20.md",
     "conflict-files-obsidian-git.md",
