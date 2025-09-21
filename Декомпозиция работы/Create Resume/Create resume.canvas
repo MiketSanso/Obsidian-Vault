@@ -12,8 +12,10 @@
 		{"id":"85fd24dd9db0f76a","x":1422,"y":1175,"width":250,"height":60,"type":"text","text":"Проект 3"},
 		{"id":"70ea43198fcd033b","x":1037,"y":1029,"width":250,"height":97,"type":"text","text":"Выбрать проекты и описать задачи на каждом из проектов."},
 		{"id":"b519056060d99cf4","x":1044,"y":460,"width":250,"height":60,"type":"text","text":"Выбрать место работы, года работы."},
-		{"id":"b52ea5865c615d38","x":1428,"y":558,"width":250,"height":60,"type":"text","text":"Сколько человек? "},
-		{"id":"a1ca0fd78c13fc64","x":1433,"y":639,"width":250,"height":60,"type":"text","text":""}
+		{"id":"b52ea5865c615d38","x":1433,"y":490,"width":250,"height":60,"type":"text","text":"Сколько человек в команде? +- в конторе?  "},
+		{"id":"a1ca0fd78c13fc64","x":1433,"y":573,"width":250,"height":60,"type":"text","text":"Как проходил коннект с тестерами?"},
+		{"id":"ad5149de8fb617e6","x":1433,"y":663,"width":250,"height":60,"type":"text","text":"Как проходил коннект с художниками?"},
+		{"id":"2a674ccc71d07a6f","x":1420,"y":750,"width":250,"height":60,"type":"text","text":"Как проходил коннект с бэкендер"}
 	],
 	"edges":[
 		{"id":"f8c50c4d04a2df75","fromNode":"31100f929096a3db","fromSide":"right","toNode":"c77c0348ccabbe88","toSide":"left"},
@@ -28,6 +30,8 @@
 		{"id":"b202a2a3a52252fb","fromNode":"70ea43198fcd033b","fromSide":"right","toNode":"9722ac121531e45a","toSide":"left"},
 		{"id":"c1f05de991de84e3","fromNode":"70ea43198fcd033b","fromSide":"right","toNode":"85fd24dd9db0f76a","toSide":"left"},
 		{"id":"d79a48c70f10dba3","fromNode":"10cb4d6a37a8c4f6","fromSide":"right","toNode":"b52ea5865c615d38","toSide":"left"},
-		{"id":"64ef355868ee312d","fromNode":"10cb4d6a37a8c4f6","fromSide":"right","toNode":"a1ca0fd78c13fc64","toSide":"left"}
+		{"id":"64ef355868ee312d","fromNode":"10cb4d6a37a8c4f6","fromSide":"right","toNode":"a1ca0fd78c13fc64","toSide":"left"},
+		{"id":"69adf808b29035f4","fromNode":"10cb4d6a37a8c4f6","fromSide":"right","toNode":"ad5149de8fb617e6","toSide":"left"},
+		{"id":"282bb5c49427c8ed","fromNode":"10cb4d6a37a8c4f6","fromSide":"right","toNode":"2a674ccc71d07a6f","toSide":"left"}
 	]
 }
