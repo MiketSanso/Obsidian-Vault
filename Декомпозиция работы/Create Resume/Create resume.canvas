@@ -1,11 +1,23 @@
 {
 	"nodes":[
 		{"id":"31100f929096a3db","x":-210,"y":45,"width":250,"height":135,"color":"1","type":"text","text":"# Create resume"},
-		{"id":"c77c0348ccabbe88","x":201,"y":77,"width":250,"height":60,"type":"text","text":"Create work desrctiption"},
-		{"id":"f10d0435d3d8644e","x":597,"y":-33,"width":250,"height":60,"type":"text","text":""}
+		{"id":"c77c0348ccabbe88","x":201,"y":77,"width":250,"height":60,"type":"text","text":"Прошлое место работы"},
+		{"id":"b227c59191b068c2","x":597,"y":300,"width":250,"height":60,"type":"text","text":"Midcore "},
+		{"id":"f10d0435d3d8644e","x":597,"y":-160,"width":250,"height":60,"type":"text","text":"Hybrid casual"},
+		{"id":"6a73d06fd9c4146a","x":919,"y":-274,"width":250,"height":60,"type":"text","text":""},
+		{"id":"b519056060d99cf4","x":933,"y":137,"width":250,"height":60,"type":"text","text":"Выбрать место работы, количество "},
+		{"id":"70ea43198fcd033b","x":919,"y":460,"width":250,"height":60,"type":"text","text":""},
+		{"id":"10cb4d6a37a8c4f6","x":1058,"y":240,"width":250,"height":60,"type":"text","text":""},
+		{"id":"617a0f39d09bfc23","x":1051,"y":372,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"f8c50c4d04a2df75","fromNode":"31100f929096a3db","fromSide":"right","toNode":"c77c0348ccabbe88","toSide":"left"},
-		{"id":"5a295d6d86329bed","fromNode":"c77c0348ccabbe88","fromSide":"right","toNode":"f10d0435d3d8644e","toSide":"left"}
+		{"id":"5a295d6d86329bed","fromNode":"c77c0348ccabbe88","fromSide":"right","toNode":"f10d0435d3d8644e","toSide":"left"},
+		{"id":"46dc6b9e3f13a3d0","fromNode":"c77c0348ccabbe88","fromSide":"right","toNode":"b227c59191b068c2","toSide":"left"},
+		{"id":"8468d0ef07bcf689","fromNode":"f10d0435d3d8644e","fromSide":"right","toNode":"6a73d06fd9c4146a","toSide":"left"},
+		{"id":"532ef1cf761f75b4","fromNode":"b227c59191b068c2","fromSide":"right","toNode":"b519056060d99cf4","toSide":"left"},
+		{"id":"bef6926bdab58d60","fromNode":"b227c59191b068c2","fromSide":"right","toNode":"70ea43198fcd033b","toSide":"left"},
+		{"id":"abf6a25d89b15618","fromNode":"b227c59191b068c2","fromSide":"right","toNode":"10cb4d6a37a8c4f6","toSide":"left"},
+		{"id":"8f97407a37f5ce84","fromNode":"b227c59191b068c2","fromSide":"right","toNode":"617a0f39d09bfc23","toSide":"left"}
 	]
 }
