@@ -84,7 +84,9 @@
 		{"id":"c77c0348ccabbe88","type":"text","text":"## Прошлое место работы","x":-160,"y":-605,"width":250,"height":100,"color":"6"},
 		{"id":"04c98e1ce93e7a7f","x":-160,"y":-920,"width":250,"height":60,"color":"6","type":"text","text":"## О себе\n"},
 		{"id":"72f5102fcbf33b5d","x":-146,"y":-1189,"width":250,"height":60,"type":"text","text":"Стек"},
-		{"id":"49611ccb26946f93","x":54,"y":-1163,"width":250,"height":60,"type":"text","text":"Указать телеграм "}
+		{"id":"49611ccb26946f93","x":160,"y":-1189,"width":250,"height":60,"type":"text","text":"Указать телеграмм для связи"},
+		{"id":"a08059f008b38fbe","x":-440,"y":-1203,"width":250,"height":88,"type":"text","text":"Описание, какие задачи в команде выполнял (сочное с цифрами)"},
+		{"id":"a95d07b25f5d6a55","x":-720,"y":-1266,"width":250,"height":151,"type":"text","text":"Краткое описание, сколько разрабатываю, сколько челов в команде, удаленно или нет, какой опыт с какими играми есть."}
 	],
 	"edges":[
 		{"id":"46dc6b9e3f13a3d0","fromNode":"c77c0348ccabbe88","fromSide":"right","toNode":"b227c59191b068c2","toSide":"left"},
@@ -170,6 +172,8 @@
 		{"id":"445a182850e0d1dc","fromNode":"f10d0435d3d8644e","fromSide":"left","toNode":"cd2316fa86fa0018","toSide":"right"},
 		{"id":"96e7bc8875a58b26","fromNode":"31100f929096a3db","fromSide":"top","toNode":"04c98e1ce93e7a7f","toSide":"bottom"},
 		{"id":"584a66517ddeb82c","fromNode":"04c98e1ce93e7a7f","fromSide":"top","toNode":"72f5102fcbf33b5d","toSide":"bottom"},
-		{"id":"a4fa8d5df57c2aec","fromNode":"04c98e1ce93e7a7f","fromSide":"top","toNode":"49611ccb26946f93","toSide":"bottom"}
+		{"id":"a4fa8d5df57c2aec","fromNode":"04c98e1ce93e7a7f","fromSide":"top","toNode":"49611ccb26946f93","toSide":"bottom"},
+		{"id":"e5569de5a2924812","fromNode":"04c98e1ce93e7a7f","fromSide":"top","toNode":"a08059f008b38fbe","toSide":"bottom"},
+		{"id":"fd87a61535ebeef4","fromNode":"04c98e1ce93e7a7f","fromSide":"top","toNode":"a95d07b25f5d6a55","toSide":"bottom"}
 	]
 }
