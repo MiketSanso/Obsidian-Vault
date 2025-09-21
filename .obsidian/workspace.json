@@ -11,17 +11,14 @@
             "id": "25f33a82c32afc20",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
-                "viewState": {
-                  "x": -582,
-                  "y": 2457,
-                  "zoom": -3.0719239011831894
-                }
+                "file": "Декомпозиция работы/Create Resume/Create resume.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Alexey Project"
+              "icon": "lucide-file",
+              "title": "Create resume"
             }
           }
         ]
@@ -186,6 +183,10 @@
   },
   "active": "25f33a82c32afc20",
   "lastOpenFiles": [
+    "Декомпозиция работы/Create Resume/Create resume.canvas",
+    "Декомпозиция работы/Create Resume/Create resume.md",
+    "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
+    "Декомпозиция работы/Create Resume",
     "Days/2025-09-21.md",
     "Days/2025-09-20.md",
     "Days/2025-09-18.md",
@@ -195,8 +196,7 @@
     "Days/2025-09-16.md",
     "Days/2025-09-17.md",
     "Days/2025-09-19.md",
-    "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
-    "Декомпозиция работы/AlexeyProject/Alexey Project.md",
+    "Декомпозиция работы/Alexey Project/Alexey Project.md",
     "База знаний/Статьи/Подробная автобиография.md",
     "База знаний/Статьи/История зарождения любви к психологии.md",
     "База знаний/Статьи/Моментные ощущения после первой работы.md",
@@ -209,12 +209,11 @@
     "Tasks/Готовка/Приготовить еду.md",
     "Untitled.base",
     "Декомпозиция работы/Work Decomposition.md",
-    "Декомпозиция работы/AlexeyProject",
+    "Декомпозиция работы/Alexey Project",
     "Days/2025-09-10.md",
     "Days/2025-09-11.md",
     "Days/2025-09-12.md",
     "Days/2025-09-09.md",
-    "Tasks/Спортивные тренировки/Ходьба больше 10к шагов.md",
     "Декомпозиция работы/Alexey Project.canvas",
     "Templates/Decomposition programm.canvas",
     "Достижения/Спортивные показатели/Untitled",
@@ -225,7 +224,6 @@
     "База знаний/Recipes",
     "База знаний/Технические определения для собеседований/Unity",
     "База знаний/Технические определения для собеседований",
-    "База знаний/Статьи",
     "Без названия.canvas",
     "Obsidian Vault/Без названия.canvas"
   ]
