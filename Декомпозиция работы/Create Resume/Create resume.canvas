@@ -1,1 +1,6 @@
-{}
+{
+	"nodes":[
+		{"id":"31100f929096a3db","x":-210,"y":45,"width":270,"height":155,"type":"text","text":"# Create resume"}
+	],
+	"edges":[]
+}

@@ -11,13 +11,16 @@
             "id": "25f33a82c32afc20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Декомпозиция работы/Create Resume/Create resume.md",
-                "mode": "source",
-                "source": false
+                "file": "Декомпозиция работы/Create Resume/Create resume.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
+              "icon": "lucide-layout-dashboard",
               "title": "Create resume"
             }
           }
@@ -183,8 +186,9 @@
   },
   "active": "25f33a82c32afc20",
   "lastOpenFiles": [
-    "Декомпозиция работы/Create Resume/Create resume.canvas",
     "Декомпозиция работы/Create Resume/Create resume.md",
+    "Декомпозиция работы/Create Resume/Create resume.canvas",
+    "Декомпозиция работы/Work Decomposition.md",
     "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
     "Декомпозиция работы/Create Resume",
     "Days/2025-09-21.md",
@@ -208,7 +212,6 @@
     "Декомпозиция работы/AlexeyProject/Без названия.canvas",
     "Tasks/Готовка/Приготовить еду.md",
     "Untitled.base",
-    "Декомпозиция работы/Work Decomposition.md",
     "Декомпозиция работы/Alexey Project",
     "Days/2025-09-10.md",
     "Days/2025-09-11.md",
