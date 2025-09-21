@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"31100f929096a3db","x":-210,"y":45,"width":250,"height":135,"color":"1","type":"text","text":"# Create resume"}
+		{"id":"31100f929096a3db","x":-210,"y":45,"width":250,"height":135,"color":"1","type":"text","text":"# Create resume"},
+		{"id":"c77c0348ccabbe88","x":201,"y":77,"width":250,"height":60,"type":"text","text":"Create work desrctiption"},
+		{"id":"f10d0435d3d8644e","x":597,"y":-33,"width":250,"height":60,"type":"text","text":""}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"f8c50c4d04a2df75","fromNode":"31100f929096a3db","fromSide":"right","toNode":"c77c0348ccabbe88","toSide":"left"},
+		{"id":"5a295d6d86329bed","fromNode":"c77c0348ccabbe88","fromSide":"right","toNode":"f10d0435d3d8644e","toSide":"left"}
+	]
 }
