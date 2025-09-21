@@ -80,13 +80,14 @@
 		{"id":"1b2dc2a632b6b58f","type":"text","text":"Почему ушел/ищешь новое место? ","x":-1398,"y":1238,"width":250,"height":60,"color":"1"},
 		{"id":"e74b16d3ad29ab51","type":"text","text":"Каков твой стек разработки?","x":-1398,"y":1358,"width":250,"height":60,"color":"1"},
 		{"id":"7838460368803f84","type":"text","text":"Почему выбрал геймдев? (Сказку про любовь с детства)","x":-1398,"y":1478,"width":250,"height":98,"color":"1"},
-		{"id":"31100f929096a3db","type":"text","text":"# Create resume","x":-160,"y":-800,"width":250,"height":135,"color":"1"},
+		{"id":"31100f929096a3db","type":"text","text":"# Create resume","x":-160,"y":-762,"width":250,"height":97,"color":"1"},
 		{"id":"c77c0348ccabbe88","type":"text","text":"## Прошлое место работы","x":-160,"y":-605,"width":250,"height":100,"color":"6"},
-		{"id":"04c98e1ce93e7a7f","x":-160,"y":-920,"width":250,"height":60,"color":"6","type":"text","text":"## О себе\n"},
-		{"id":"72f5102fcbf33b5d","x":-146,"y":-1189,"width":250,"height":60,"type":"text","text":"Стек"},
-		{"id":"49611ccb26946f93","x":160,"y":-1189,"width":250,"height":60,"type":"text","text":"Указать телеграмм для связи"},
-		{"id":"a08059f008b38fbe","x":-440,"y":-1203,"width":250,"height":88,"type":"text","text":"Описание, какие задачи в команде выполнял (сочное с цифрами)"},
-		{"id":"a95d07b25f5d6a55","x":-720,"y":-1266,"width":250,"height":151,"type":"text","text":"Краткое описание, сколько разрабатываю, сколько челов в команде, удаленно или нет, какой опыт с какими играми есть."}
+		{"id":"04c98e1ce93e7a7f","x":-635,"y":-762,"width":250,"height":60,"color":"6","type":"text","text":"## О себе\n"},
+		{"id":"a95d07b25f5d6a55","x":-1110,"y":-1080,"width":250,"height":151,"color":"1","type":"text","text":"Краткое описание, сколько разрабатываю, сколько челов в команде, удаленно или нет, какой опыт с какими играми есть."},
+		{"id":"a08059f008b38fbe","x":-800,"y":-1048,"width":250,"height":88,"color":"1","type":"text","text":"Описание, какие задачи в команде выполнял (сочное с цифрами)"},
+		{"id":"72f5102fcbf33b5d","x":-510,"y":-1034,"width":250,"height":60,"color":"1","type":"text","text":"Стек"},
+		{"id":"49611ccb26946f93","x":-230,"y":-1034,"width":250,"height":60,"color":"1","type":"text","text":"Указать телеграмм для связи"},
+		{"id":"2bd7034f3b57636d","x":355,"y":-731,"width":250,"height":111,"type":"text","text":"## Проверка заполненности резюме"}
 	],
 	"edges":[
 		{"id":"46dc6b9e3f13a3d0","fromNode":"c77c0348ccabbe88","fromSide":"right","toNode":"b227c59191b068c2","toSide":"left"},
@@ -170,10 +171,11 @@
 		{"id":"d9f2ec5aa42a2005","fromNode":"f10d0435d3d8644e","fromSide":"left","toNode":"e74b16d3ad29ab51","toSide":"right"},
 		{"id":"42f24e0c9d1fe49f","fromNode":"f10d0435d3d8644e","fromSide":"left","toNode":"7838460368803f84","toSide":"right"},
 		{"id":"445a182850e0d1dc","fromNode":"f10d0435d3d8644e","fromSide":"left","toNode":"cd2316fa86fa0018","toSide":"right"},
-		{"id":"96e7bc8875a58b26","fromNode":"31100f929096a3db","fromSide":"top","toNode":"04c98e1ce93e7a7f","toSide":"bottom"},
 		{"id":"584a66517ddeb82c","fromNode":"04c98e1ce93e7a7f","fromSide":"top","toNode":"72f5102fcbf33b5d","toSide":"bottom"},
 		{"id":"a4fa8d5df57c2aec","fromNode":"04c98e1ce93e7a7f","fromSide":"top","toNode":"49611ccb26946f93","toSide":"bottom"},
 		{"id":"e5569de5a2924812","fromNode":"04c98e1ce93e7a7f","fromSide":"top","toNode":"a08059f008b38fbe","toSide":"bottom"},
-		{"id":"fd87a61535ebeef4","fromNode":"04c98e1ce93e7a7f","fromSide":"top","toNode":"a95d07b25f5d6a55","toSide":"bottom"}
+		{"id":"fd87a61535ebeef4","fromNode":"04c98e1ce93e7a7f","fromSide":"top","toNode":"a95d07b25f5d6a55","toSide":"bottom"},
+		{"id":"c6039ea71b885287","fromNode":"31100f929096a3db","fromSide":"left","toNode":"04c98e1ce93e7a7f","toSide":"right"},
+		{"id":"d2e314b1449228ea","fromNode":"31100f929096a3db","fromSide":"right","toNode":"2bd7034f3b57636d","toSide":"left"}
 	]
 }
