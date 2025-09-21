@@ -58,9 +58,6 @@
 		{"id":"cb0d6583fd7d1c85","type":"text","text":"Иметь возможность сохранять изменения на самой картинке","x":-2349,"y":895,"width":250,"height":85,"color":"1"},
 		{"id":"f40ba099576b425f","type":"text","text":"Иметь возможность сохранять технические изменения и загружать их.","x":-2306,"y":640,"width":250,"height":88,"color":"1"},
 		{"id":"aa91dbad66b6c927","type":"text","text":"Иметь возможность делать постоянные калибровочные линии для каждой картинки.","x":-2349,"y":754,"width":250,"height":106,"color":"4"},
-		{"id":"3bd9f8bab046a125","type":"text","text":"### ModesData\n1) (int) CountModes\n","x":-2820,"y":4173,"width":250,"height":110,"color":"4"},
-		{"id":"42d15725412d928c","type":"text","text":"### DataSaveSize\n\n1) int CountLines \n2) int CountCorners  \n3) int CountReferenceLines","x":-3119,"y":4144,"width":250,"height":168,"color":"4"},
-		{"id":"37f68f8aa36cbb49","type":"text","text":"### SceneNumbersData\n\n1) (int) Menu\n2) (int) Workplace","x":-2869,"y":4400,"width":250,"height":120,"color":"4"},
 		{"id":"89cf64e4a24ca2fe","type":"text","text":"### TechImagesModel\n\n1) (const int) COUNT_LINES = 25;  \n2) (int) countImages = -1;  \n3) (int) numberImage;  \n4) (int) numberLine;","x":-1360,"y":5934,"width":300,"height":200,"color":"4"},
 		{"id":"6c304184139342e5","type":"text","text":"### ReferenceSegmentsModel\n\n1) (Vector2[,,]) PointReferencePositions\n\n\n","x":-1270,"y":5740,"width":327,"height":120,"color":"4"},
 		{"id":"bdf011ea412e000a","type":"text","text":"### ModeModel\n\n1) (ModesData) modesData\n2) (int) ModeNumber","x":-1270,"y":5524,"width":250,"height":140,"color":"4"},
@@ -88,7 +85,10 @@
 		{"id":"cf13b170c78dd2ea","type":"text","text":"Сделать сохранение segments, углов и correctSegments в techFile.","x":860,"y":1645,"width":250,"height":119,"color":"1"},
 		{"id":"ae7730c75c5ec2f7","type":"text","text":"Сделать выгрузку углов как 25-30","x":864,"y":1400,"width":250,"height":60,"color":"4"},
 		{"id":"a4432716016d9c61","type":"text","text":"Сверстать главный рабочий экран","x":-1900,"y":-75,"width":250,"height":60,"color":"4"},
-		{"id":"413738719fcb5fe2","type":"text","text":"Сверстать Bootstrap","x":-1900,"y":-200,"width":250,"height":65,"color":"4"}
+		{"id":"413738719fcb5fe2","type":"text","text":"Сверстать Bootstrap","x":-1900,"y":-200,"width":250,"height":65,"color":"4"},
+		{"id":"42d15725412d928c","type":"text","text":"### DataSaveSize\n\n1) int CountLines \n2) int CountCorners  \n3) int CountReferenceLines","x":-2640,"y":4144,"width":250,"height":168,"color":"4"},
+		{"id":"3bd9f8bab046a125","type":"text","text":"### ModesData\n1) (int) CountModes\n","x":-2341,"y":4173,"width":250,"height":110,"color":"4"},
+		{"id":"37f68f8aa36cbb49","type":"text","text":"### SceneNumbersData\n\n1) (int) Menu\n2) (int) Workplace","x":-2390,"y":4400,"width":250,"height":120,"color":"4"}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
