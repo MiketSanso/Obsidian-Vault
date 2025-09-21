@@ -11,17 +11,14 @@
             "id": "25f33a82c32afc20",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/Create Resume/Create resume.canvas",
-                "viewState": {
-                  "x": -504.88213186775886,
-                  "y": -304.3039499209474,
-                  "zoom": -3.3333333333333335
-                }
+                "file": "Days/2025-09-22.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Create resume"
+              "icon": "lucide-file",
+              "title": "2025-09-22"
             }
           }
         ]
@@ -186,8 +183,9 @@
   },
   "active": "25f33a82c32afc20",
   "lastOpenFiles": [
-    "Декомпозиция работы/Create Resume/Create resume.md",
     "Декомпозиция работы/Create Resume/Create resume.canvas",
+    "Days/2025-09-22.md",
+    "Декомпозиция работы/Create Resume/Create resume.md",
     "Декомпозиция работы/Work Decomposition.md",
     "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
     "Декомпозиция работы/Create Resume",
@@ -216,7 +214,6 @@
     "Days/2025-09-10.md",
     "Days/2025-09-11.md",
     "Days/2025-09-12.md",
-    "Days/2025-09-09.md",
     "Декомпозиция работы/Alexey Project.canvas",
     "Templates/Decomposition programm.canvas",
     "Достижения/Спортивные показатели/Untitled",
