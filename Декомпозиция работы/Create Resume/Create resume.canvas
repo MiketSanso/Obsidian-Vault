@@ -25,7 +25,10 @@
 		{"id":"b145582a45d24ab3","x":1820,"y":1286,"width":250,"height":60,"type":"text","text":"Общение"},
 		{"id":"602231f5560a8222","x":1820,"y":1349,"width":250,"height":60,"type":"text","text":"Таск трекер"},
 		{"id":"0c2ae5829130f3c7","x":1820,"y":1471,"width":250,"height":60,"type":"text","text":"Вывод/получение денег (если не по ТК)"},
-		{"id":"8617895379ccccba","x":1820,"y":1411,"width":250,"height":60,"type":"text","text":""}
+		{"id":"8617895379ccccba","x":1820,"y":1411,"width":250,"height":60,"type":"text","text":"Созвоны были где?"},
+		{"id":"5d01c6406b44f805","x":2070,"y":1286,"width":250,"height":60,"type":"text","text":"Визуализация на ретро?"},
+		{"id":"b888bb5742958058","x":2070,"y":1352,"width":250,"height":60,"type":"text","text":"Для разработки интерфейсов было что?"},
+		{"id":"e3270bdf573d4572","x":2070,"y":1411,"width":250,"height":60,"type":"text","text":"Где велась документация?"}
 	],
 	"edges":[
 		{"id":"46dc6b9e3f13a3d0","fromNode":"c77c0348ccabbe88","fromSide":"right","toNode":"b227c59191b068c2","toSide":"left"},
@@ -52,6 +55,9 @@
 		{"id":"2acfb644bf3cc4e0","fromNode":"f3d53884e867dbc6","fromSide":"right","toNode":"d0826d50ee45e785","toSide":"left"},
 		{"id":"f8569364b2f0e96a","fromNode":"58afe484b15e87ff","fromSide":"right","toNode":"0c2ae5829130f3c7","toSide":"left"},
 		{"id":"079d0386ef3da530","fromNode":"58afe484b15e87ff","fromSide":"right","toNode":"602231f5560a8222","toSide":"left"},
-		{"id":"4725f2f2da9ed9c7","fromNode":"58afe484b15e87ff","fromSide":"right","toNode":"8617895379ccccba","toSide":"left"}
+		{"id":"4725f2f2da9ed9c7","fromNode":"58afe484b15e87ff","fromSide":"right","toNode":"8617895379ccccba","toSide":"left"},
+		{"id":"d24a08a0ce5cb5ec","fromNode":"58afe484b15e87ff","fromSide":"right","toNode":"5d01c6406b44f805","toSide":"left"},
+		{"id":"fb046a36eb16a4e7","fromNode":"58afe484b15e87ff","fromSide":"right","toNode":"b888bb5742958058","toSide":"left"},
+		{"id":"884fb42612fa9933","fromNode":"58afe484b15e87ff","fromSide":"right","toNode":"e3270bdf573d4572","toSide":"left"}
 	]
 }
