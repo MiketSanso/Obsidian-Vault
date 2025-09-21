@@ -1,9 +1,6 @@
 {
 	"nodes":[
 		{"id":"31100f929096a3db","x":-210,"y":45,"width":250,"height":135,"color":"1","type":"text","text":"# Create resume"},
-		{"id":"c77c0348ccabbe88","x":201,"y":77,"width":250,"height":60,"type":"text","text":"Прошлое место работы"},
-		{"id":"f10d0435d3d8644e","x":597,"y":-160,"width":250,"height":60,"type":"text","text":"Hybrid casual"},
-		{"id":"6a73d06fd9c4146a","x":919,"y":-274,"width":250,"height":60,"type":"text","text":""},
 		{"id":"b227c59191b068c2","x":583,"y":663,"width":250,"height":60,"type":"text","text":"Midcore "},
 		{"id":"10cb4d6a37a8c4f6","x":1044,"y":603,"width":250,"height":60,"type":"text","text":"Описать команду и взаимодействие с ними"},
 		{"id":"617a0f39d09bfc23","x":1037,"y":735,"width":250,"height":60,"type":"text","text":"Описать задачи, которые выполнял **В целом**."},
@@ -17,14 +14,16 @@
 		{"id":"ad5149de8fb617e6","x":1505,"y":550,"width":250,"height":60,"type":"text","text":"Как проходил коннект с художниками?"},
 		{"id":"2a674ccc71d07a6f","x":1505,"y":637,"width":250,"height":60,"type":"text","text":"Как проходил коннект с бэкендерами? "},
 		{"id":"aafcdbc7b8c74ceb","x":1500,"y":719,"width":250,"height":60,"type":"text","text":"Как общался с программистами?"},
-		{"id":"2cbc35ded9c27821","type":"text","text":"Каким образом была устроена ","x":1120,"y":1500,"width":250,"height":85},
-		{"id":"2f02a889c6c83ec5","x":1505,"y":795,"width":250,"height":85,"type":"text","text":"Каким образом пилились задачи, кем? Как выдавались? "}
+		{"id":"2f02a889c6c83ec5","x":1505,"y":795,"width":250,"height":85,"type":"text","text":"Каким образом пилились задачи, кем? Как выдавались? "},
+		{"id":"2cbc35ded9c27821","type":"text","text":"Каким образом была устроена система в гите? ","x":1037,"y":1235,"width":250,"height":85},
+		{"id":"58afe484b15e87ff","x":1037,"y":1420,"width":250,"height":107,"type":"text","text":"Какие мессенджеры/программы для чего использовал? "},
+		{"id":"b145582a45d24ab3","x":1453,"y":1410,"width":250,"height":60,"type":"text","text":"Общение"},
+		{"id":"7805b821e25e0479","x":1009,"y":1648,"width":250,"height":60,"type":"text","text":""},
+		{"id":"c77c0348ccabbe88","x":-210,"y":240,"width":250,"height":63,"type":"text","text":"Прошлое место работы"},
+		{"id":"f10d0435d3d8644e","x":-720,"y":680,"width":250,"height":63,"type":"text","text":"Hybrid casual"}
 	],
 	"edges":[
-		{"id":"f8c50c4d04a2df75","fromNode":"31100f929096a3db","fromSide":"right","toNode":"c77c0348ccabbe88","toSide":"left"},
-		{"id":"5a295d6d86329bed","fromNode":"c77c0348ccabbe88","fromSide":"right","toNode":"f10d0435d3d8644e","toSide":"left"},
 		{"id":"46dc6b9e3f13a3d0","fromNode":"c77c0348ccabbe88","fromSide":"right","toNode":"b227c59191b068c2","toSide":"left"},
-		{"id":"8468d0ef07bcf689","fromNode":"f10d0435d3d8644e","fromSide":"right","toNode":"6a73d06fd9c4146a","toSide":"left"},
 		{"id":"532ef1cf761f75b4","fromNode":"b227c59191b068c2","fromSide":"right","toNode":"b519056060d99cf4","toSide":"left"},
 		{"id":"bef6926bdab58d60","fromNode":"b227c59191b068c2","fromSide":"right","toNode":"70ea43198fcd033b","toSide":"left"},
 		{"id":"abf6a25d89b15618","fromNode":"b227c59191b068c2","fromSide":"right","toNode":"10cb4d6a37a8c4f6","toSide":"left"},
@@ -37,6 +36,12 @@
 		{"id":"69adf808b29035f4","fromNode":"10cb4d6a37a8c4f6","fromSide":"right","toNode":"ad5149de8fb617e6","toSide":"left"},
 		{"id":"282bb5c49427c8ed","fromNode":"10cb4d6a37a8c4f6","fromSide":"right","toNode":"2a674ccc71d07a6f","toSide":"left"},
 		{"id":"a6da006d58372687","fromNode":"10cb4d6a37a8c4f6","fromSide":"right","toNode":"aafcdbc7b8c74ceb","toSide":"left"},
-		{"id":"dbc02a131e0bb279","fromNode":"10cb4d6a37a8c4f6","fromSide":"right","toNode":"2f02a889c6c83ec5","toSide":"left"}
+		{"id":"dbc02a131e0bb279","fromNode":"10cb4d6a37a8c4f6","fromSide":"right","toNode":"2f02a889c6c83ec5","toSide":"left"},
+		{"id":"4027d0eed71b6218","fromNode":"b227c59191b068c2","fromSide":"right","toNode":"2cbc35ded9c27821","toSide":"left"},
+		{"id":"dec83d5b37103403","fromNode":"b227c59191b068c2","fromSide":"right","toNode":"58afe484b15e87ff","toSide":"left"},
+		{"id":"645fe6088e7f4415","fromNode":"58afe484b15e87ff","fromSide":"right","toNode":"b145582a45d24ab3","toSide":"left"},
+		{"id":"a39c09d0457fe8d6","fromNode":"b227c59191b068c2","fromSide":"right","toNode":"7805b821e25e0479","toSide":"left"},
+		{"id":"6c66eb1111b7f7d4","fromNode":"31100f929096a3db","fromSide":"bottom","toNode":"c77c0348ccabbe88","toSide":"top"},
+		{"id":"6f07d3d0f5400e7d","fromNode":"c77c0348ccabbe88","fromSide":"left","toNode":"f10d0435d3d8644e","toSide":"right"}
 	]
 }
