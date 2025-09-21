@@ -11,17 +11,14 @@
             "id": "25f33a82c32afc20",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
-                "viewState": {
-                  "x": -60.75202649231716,
-                  "y": 3283.9755930620386,
-                  "zoom": -3.7385905678498568
-                }
+                "file": "Days/2025-09-21.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Alexey Project"
+              "icon": "lucide-file",
+              "title": "2025-09-21"
             }
           }
         ]
@@ -186,6 +183,14 @@
   },
   "active": "25f33a82c32afc20",
   "lastOpenFiles": [
+    "Days/2025-09-20.md",
+    "Days/2025-09-18.md",
+    "Days/2025-09-13.md",
+    "Days/2025-09-14.md",
+    "Days/2025-09-15.md",
+    "Days/2025-09-16.md",
+    "Days/2025-09-17.md",
+    "Days/2025-09-19.md",
     "Days/2025-09-21.md",
     "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
     "Декомпозиция работы/AlexeyProject/Alexey Project.md",
@@ -196,20 +201,12 @@
     "База знаний/Статьи/Мысли за пару дней до отъезда из дома в Москву.md",
     "База знаний/Статьи/Проблема отца с алкоголем.md",
     "База знаний/Статьи/Польза психологии.md",
-    "Days/2025-09-20.md",
     "conflict-files-obsidian-git.md",
-    "Days/2025-09-19.md",
-    "Days/2025-09-18.md",
     "Декомпозиция работы/AlexeyProject/Без названия.canvas",
-    "Days/2025-09-17.md",
     "Tasks/Готовка/Приготовить еду.md",
     "Untitled.base",
-    "Days/2025-09-15.md",
-    "Days/2025-09-16.md",
     "Декомпозиция работы/Work Decomposition.md",
     "Декомпозиция работы/AlexeyProject",
-    "Days/2025-09-14.md",
-    "Days/2025-09-13.md",
     "Days/2025-09-10.md",
     "Days/2025-09-11.md",
     "Days/2025-09-12.md",
