@@ -11,14 +11,17 @@
             "id": "25f33a82c32afc20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Days/2025-09-21.md",
-                "mode": "source",
-                "source": false
+                "file": "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
+                "viewState": {
+                  "x": 263.75727062850547,
+                  "y": 2838.6695159761666,
+                  "zoom": -3.07192390118319
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-09-21"
+              "icon": "lucide-layout-dashboard",
+              "title": "Alexey Project"
             }
           }
         ]
@@ -183,8 +186,8 @@
   },
   "active": "25f33a82c32afc20",
   "lastOpenFiles": [
-    "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
     "Days/2025-09-21.md",
+    "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
     "Декомпозиция работы/AlexeyProject/Alexey Project.md",
     "База знаний/Статьи/Подробная автобиография.md",
     "База знаний/Статьи/История зарождения любви к психологии.md",
