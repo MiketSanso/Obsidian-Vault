@@ -11,14 +11,17 @@
             "id": "25f33a82c32afc20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Days/2025-09-21.md",
-                "mode": "source",
-                "source": false
+                "file": "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
+                "viewState": {
+                  "x": 1651.8966563226297,
+                  "y": 4973.772846055383,
+                  "zoom": -0.1576247908579077
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-09-21"
+              "icon": "lucide-layout-dashboard",
+              "title": "Alexey Project"
             }
           }
         ]
@@ -183,10 +186,10 @@
   },
   "active": "25f33a82c32afc20",
   "lastOpenFiles": [
+    "Days/2025-09-21.md",
     "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
     "Декомпозиция работы/AlexeyProject/Alexey Project.md",
     "База знаний/Статьи/Подробная автобиография.md",
-    "Days/2025-09-21.md",
     "База знаний/Статьи/История зарождения любви к психологии.md",
     "База знаний/Статьи/Моментные ощущения после первой работы.md",
     "База знаний/Статьи/Мотивация 21 века.md",
