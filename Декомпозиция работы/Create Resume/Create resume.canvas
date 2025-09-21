@@ -30,9 +30,9 @@
 		{"id":"b888bb5742958058","x":2070,"y":1352,"width":250,"height":60,"type":"text","text":"Для разработки интерфейсов было что?"},
 		{"id":"e3270bdf573d4572","x":2070,"y":1411,"width":250,"height":60,"type":"text","text":"Где велась документация?"},
 		{"id":"2959b81e58d899d4","x":1400,"y":1700,"width":250,"height":60,"type":"text","text":"Под какие платформы выпускали?"},
-		{"id":"cba0e82676433172","x":1068,"y":880,"width":250,"height":60,"type":"text","text":"Каков твой стек разработки?"},
-		{"id":"9752ccf3a0e2263d","x":1057,"y":1120,"width":250,"height":98,"type":"text","text":"Почему выбрал геймдев? (Сказку про любовь с детства)"},
-		{"id":"0db59b88b8a208b3","x":-210,"y":1200,"width":250,"height":60,"type":"text","text":"Почему ищешь новое место? "}
+		{"id":"cba0e82676433172","x":1068,"y":980,"width":250,"height":60,"type":"text","text":"Каков твой стек разработки?"},
+		{"id":"0db59b88b8a208b3","x":1068,"y":820,"width":250,"height":60,"type":"text","text":"Почему ушел/ищешь новое место? "},
+		{"id":"9752ccf3a0e2263d","x":1068,"y":1120,"width":250,"height":98,"type":"text","text":"Почему выбрал геймдев? (Сказку про любовь с детства)"}
 	],
 	"edges":[
 		{"id":"46dc6b9e3f13a3d0","fromNode":"c77c0348ccabbe88","fromSide":"right","toNode":"b227c59191b068c2","toSide":"left"},
@@ -66,7 +66,6 @@
 		{"id":"52d14f14ff3cc6a3","fromNode":"f3d53884e867dbc6","fromSide":"right","toNode":"2959b81e58d899d4","toSide":"left"},
 		{"id":"e83908aeba99b073","fromNode":"b227c59191b068c2","fromSide":"right","toNode":"cba0e82676433172","toSide":"left"},
 		{"id":"ba27fdb074208597","fromNode":"b227c59191b068c2","fromSide":"right","toNode":"9752ccf3a0e2263d","toSide":"left"},
-		{"id":"e015319a9dffd53a","fromNode":"b227c59191b068c2","fromSide":"left","toNode":"0db59b88b8a208b3","toSide":"right"},
-		{"id":"e87cd0e69345d2c6","fromNode":"f10d0435d3d8644e","fromSide":"right","toNode":"0db59b88b8a208b3","toSide":"left"}
+		{"id":"36a689fb15479b72","fromNode":"b227c59191b068c2","fromSide":"right","toNode":"0db59b88b8a208b3","toSide":"left"}
 	]
 }
