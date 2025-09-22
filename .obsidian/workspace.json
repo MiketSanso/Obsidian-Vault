@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Декомпозиция работы/Create Resume/Create resume.canvas",
+                "file": "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
                 "viewState": {
-                  "x": 1246.83397306446,
-                  "y": 236.73029244129054,
-                  "zoom": -0.0007496466995843276
+                  "x": 890.7911381132726,
+                  "y": 1440.4785881414734,
+                  "zoom": -0.6666666666666663
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Create resume"
+              "title": "Alexey Project"
             }
           }
         ]
@@ -186,12 +186,12 @@
   },
   "active": "25f33a82c32afc20",
   "lastOpenFiles": [
+    "Декомпозиция работы/Create Resume/Create resume.canvas",
     "База знаний/Технические определения для собеседований/Unity/Инфа о втором месте работы.md",
     "Days/2025-09-22.md",
     "conflict-files-obsidian-git.md",
     "База знаний/Технические определения для собеседований/Unity/Резюме.md",
     "Days/2025-09-21.md",
-    "Декомпозиция работы/Create Resume/Create resume.canvas",
     "Декомпозиция работы/Create Resume/Create resume.md",
     "Декомпозиция работы/Work Decomposition.md",
     "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
@@ -217,7 +217,6 @@
     "Untitled.base",
     "Декомпозиция работы/Alexey Project",
     "Days/2025-09-10.md",
-    "Days/2025-09-11.md",
     "Декомпозиция работы/Alexey Project.canvas",
     "Templates/Decomposition programm.canvas",
     "Достижения/Спортивные показатели/Untitled",
