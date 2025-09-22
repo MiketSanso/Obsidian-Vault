@@ -25,17 +25,14 @@
             "id": "67031c10cf5ce57f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
-                "viewState": {
-                  "x": -1340.1114709886347,
-                  "y": 4390.752546114736,
-                  "zoom": -0.333333333333333
-                }
+                "file": "Days/2025-09-22.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Alexey Project"
+              "icon": "lucide-file",
+              "title": "2025-09-22"
             }
           }
         ],
@@ -201,10 +198,11 @@
   },
   "active": "67031c10cf5ce57f",
   "lastOpenFiles": [
+    "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
+    "Days/2025-09-22.md",
     "Декомпозиция работы/AlexeyProject/Alexey Project.md",
     "Days/2025-09-19.md",
     "conflict-files-obsidian-git.md",
-    "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
     "База знаний/Предметы (КОЛЛЕДЖ)/История.md",
     "Days/2025-09-18.md",
     "Days/2025-09-17.md",
@@ -229,7 +227,6 @@
     "База знаний/Технические определения для собеседований/Unity/C шарп.md",
     "Tasks/Спортивные тренировки/Ходьба больше 10к шагов.md",
     "Достижения/Work.md",
-    "Достижения/Completed games.md",
     "Достижения",
     "Декомпозиция работы/Mentor Task.canvas",
     "База знаний/Recipes",
