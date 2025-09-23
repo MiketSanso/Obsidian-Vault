@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"e987f4cc3430b20f","type":"text","text":"# **Vampires**\n","x":-600,"y":218,"width":270,"height":165,"color":"1"},
 		{"id":"dc4b073b5c035bbf","type":"text","text":"## Выбор архитектурного пулла","x":-590,"y":-33,"width":250,"height":113,"color":"6"},
-		{"id":"81c92ff170d84a64","type":"text","text":"### Верстка","x":-1510,"y":-135,"width":250,"height":60,"color":"6"},
+		{"id":"81c92ff170d84a64","type":"text","text":"### Верстка/префабы","x":-1510,"y":-135,"width":250,"height":60,"color":"6"},
 		{"id":"f67e37a07c754908","type":"text","text":"## Модули дизайна","x":-1120,"y":274,"width":250,"height":60,"color":"6"},
 		{"id":"5e742ab3552d3e61","type":"text","text":"## Модули программирования","x":40,"y":230,"width":250,"height":140,"color":"6"},
 		{"id":"8897649fed01c690","type":"text","text":"### Отображение данных","x":440,"y":390,"width":250,"height":81,"color":"6"},
@@ -24,13 +24,15 @@
 		{"id":"c087f1c2982a290b","x":-1147,"y":-700,"width":125,"height":60,"color":"5","type":"text","text":"R3"},
 		{"id":"3e1e6eec363ef967","x":-1210,"y":-840,"width":105,"height":60,"color":"5","type":"text","text":"UniTask"},
 		{"id":"7ccdea87fd9dc742","x":-1460,"y":-700,"width":150,"height":60,"color":"5","type":"text","text":"Photon Fusion"},
-		{"id":"8eefb3c80cf2de43","x":-1879,"y":-27,"width":250,"height":60,"color":"1","type":"text","text":"Основная панель игры"},
-		{"id":"e7f5cd47f653f19e","x":-2200,"y":-135,"width":250,"height":276,"color":"1","type":"text","text":"UI:\n- Хп бар (сужающийся как в скайриме)\n- Шкала опыта (такой же как в скайриме сужающийся)\n- Панель улучшений (при достижении  нового уровня)"},
 		{"id":"702a8b67a007f28a","type":"text","text":"### Минимальный смысл/функционал","x":-1510,"y":440,"width":250,"height":102,"color":"6"},
 		{"id":"43bc2972fa30459b","type":"text","text":"### Дополнительный функционал (после основной разработки)","x":-1920,"y":960,"width":250,"height":159,"color":"6"},
-		{"id":"96f6d3e2a89f75ae","x":-1720,"y":81,"width":250,"height":60,"color":"1","type":"text","text":"Локация с ограничениями по ходьбе/спавну врагов."},
-		{"id":"78fa9da422ce122b","x":-1754,"y":200,"width":250,"height":60,"type":"text","text":"Игрок-болванчик."},
-		{"id":"50f52c340f9b5b5c","x":-2059,"y":252,"width":250,"height":60,"type":"text","text":""}
+		{"id":"78fa9da422ce122b","x":-1916,"y":304,"width":250,"height":60,"color":"1","type":"text","text":"Игрок-болванчик."},
+		{"id":"8eefb3c80cf2de43","x":-2075,"y":85,"width":250,"height":60,"color":"1","type":"text","text":"Основная панель игры"},
+		{"id":"e7f5cd47f653f19e","x":-2396,"y":-23,"width":250,"height":276,"color":"1","type":"text","text":"UI:\n- Хп бар (сужающийся как в скайриме)\n- Шкала опыта (такой же как в скайриме сужающийся)\n- Панель улучшений (при достижении  нового уровня)"},
+		{"id":"50f52c340f9b5b5c","x":-2255,"y":364,"width":250,"height":60,"color":"1","type":"text","text":"Снаряды для игроков и врагов"},
+		{"id":"96f6d3e2a89f75ae","x":-1754,"y":145,"width":250,"height":60,"color":"1","type":"text","text":"Локация с ограничениями по ходьбе/спавну врагов."},
+		{"id":"9a96aa8143a4b984","x":-1972,"y":-34,"width":250,"height":60,"color":"1","type":"text","text":"Кристаллы повышения опыта"},
+		{"id":"463752044f31687f","x":-2200,"y":-105,"width":250,"height":60,"color":"1","type":"text","text":"Зелья лечения из врагов"}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -62,6 +64,8 @@
 		{"id":"9b03f76010995e59","fromNode":"8eefb3c80cf2de43","fromSide":"bottom","toNode":"96f6d3e2a89f75ae","toSide":"top"},
 		{"id":"048c670e70fbf207","fromNode":"a823c271b5e8d22a","fromSide":"top","toNode":"3e1e6eec363ef967","toSide":"bottom"},
 		{"id":"022caefc17d9739b","fromNode":"8eefb3c80cf2de43","fromSide":"bottom","toNode":"78fa9da422ce122b","toSide":"top"},
-		{"id":"d7ac84059bf7458d","fromNode":"8eefb3c80cf2de43","fromSide":"bottom","toNode":"50f52c340f9b5b5c","toSide":"top"}
+		{"id":"d7ac84059bf7458d","fromNode":"8eefb3c80cf2de43","fromSide":"bottom","toNode":"50f52c340f9b5b5c","toSide":"top"},
+		{"id":"a849f1f48b42c1fa","fromNode":"8eefb3c80cf2de43","fromSide":"top","toNode":"463752044f31687f","toSide":"bottom"},
+		{"id":"ddd2aa59a8c5b6bc","fromNode":"8eefb3c80cf2de43","fromSide":"top","toNode":"9a96aa8143a4b984","toSide":"bottom"}
 	]
 }
