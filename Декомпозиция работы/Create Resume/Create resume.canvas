@@ -20,7 +20,7 @@
 		{"id":"5b141e4a67edffdd","type":"text","text":"Задача 2","x":1951,"y":1075,"width":250,"height":60,"color":"1"},
 		{"id":"bf8beb2bee32efc0","type":"text","text":"Задача 3","x":1951,"y":1135,"width":250,"height":53,"color":"1"},
 		{"id":"8ec4378c7be5736e","type":"text","text":"Проект 1","x":1648,"y":700,"width":133,"height":60,"color":"1"},
-		{"id":"70ea43198fcd033b","type":"text","text":"Выбрать проекты и описать ключевые задачи","x":1271,"y":809,"width":250,"height":97,"color":"1"},
+		{"id":"70ea43198fcd033b","type":"text","text":"Выбрать проекты и описать ключевые задачи\n(И ИХ ОПИСАНИЕ!)","x":1271,"y":809,"width":250,"height":97,"color":"1"},
 		{"id":"9722ac121531e45a","type":"text","text":"Проект 2","x":1652,"y":828,"width":129,"height":60,"color":"1"},
 		{"id":"85fd24dd9db0f76a","type":"text","text":"Проект 3","x":1656,"y":955,"width":125,"height":60,"color":"1"},
 		{"id":"2cbc35ded9c27821","type":"text","text":"Каким образом была устроена система в гите? ","x":1465,"y":1606,"width":250,"height":85,"color":"1"},
@@ -88,7 +88,11 @@
 		{"id":"a95d07b25f5d6a55","type":"text","text":"Краткое описание, сколько разрабатываю, сколько челов в команде, удаленно или нет, какой опыт с какими играми есть.","x":-1148,"y":-640,"width":250,"height":151,"color":"1"},
 		{"id":"a08059f008b38fbe","type":"text","text":"Описание, какие задачи в команде выполнял (сочное с цифрами)","x":-1200,"y":-790,"width":250,"height":88,"color":"1"},
 		{"id":"72f5102fcbf33b5d","type":"text","text":"Стек","x":-1023,"y":-1034,"width":250,"height":60,"color":"1"},
-		{"id":"49611ccb26946f93","type":"text","text":"Указать телеграмм для связи","x":-720,"y":-1160,"width":250,"height":60,"color":"1"}
+		{"id":"49611ccb26946f93","type":"text","text":"Указать телеграмм для связи","x":-720,"y":-1160,"width":250,"height":60,"color":"1"},
+		{"id":"8502d25977cfff66","x":2300,"y":501,"width":250,"height":60,"type":"text","text":"Жанр, об игре, геймплей"},
+		{"id":"b541d704ebfbb4c8","x":2332,"y":778,"width":250,"height":60,"type":"text","text":"Жанр, об игре, геймплей"},
+		{"id":"7793a3c0b3bc2be0","type":"text","text":"Жанр, об игре, геймплей","x":2300,"y":1045,"width":250,"height":60},
+		{"id":"938721bc2a733bea","x":2263,"y":602,"width":250,"height":60,"type":"text","text":"Среднестат. задача 1"}
 	],
 	"edges":[
 		{"id":"46dc6b9e3f13a3d0","fromNode":"c77c0348ccabbe88","fromSide":"right","toNode":"b227c59191b068c2","toSide":"left"},
@@ -178,6 +182,10 @@
 		{"id":"d2e314b1449228ea","fromNode":"31100f929096a3db","fromSide":"right","toNode":"2bd7034f3b57636d","toSide":"left"},
 		{"id":"75e96fb42655a100","fromNode":"31100f929096a3db","fromSide":"top","toNode":"e2a2a8bfa640ddbb","toSide":"bottom"},
 		{"id":"d1f0d0246c593981","fromNode":"04c98e1ce93e7a7f","fromSide":"left","toNode":"a95d07b25f5d6a55","toSide":"right"},
-		{"id":"9a19da92defdd4f4","fromNode":"04c98e1ce93e7a7f","fromSide":"left","toNode":"a08059f008b38fbe","toSide":"right"}
+		{"id":"9a19da92defdd4f4","fromNode":"04c98e1ce93e7a7f","fromSide":"left","toNode":"a08059f008b38fbe","toSide":"right"},
+		{"id":"5e740bd806c91a64","fromNode":"8ec4378c7be5736e","fromSide":"right","toNode":"8502d25977cfff66","toSide":"left"},
+		{"id":"0ff2c5cb8c4d32a4","fromNode":"9722ac121531e45a","fromSide":"right","toNode":"b541d704ebfbb4c8","toSide":"left"},
+		{"id":"839afcec50167c02","fromNode":"85fd24dd9db0f76a","fromSide":"right","toNode":"7793a3c0b3bc2be0","toSide":"left"},
+		{"id":"c9bf20763cb56381","fromNode":"8ec4378c7be5736e","fromSide":"right","toNode":"938721bc2a733bea","toSide":"left"}
 	]
 }
