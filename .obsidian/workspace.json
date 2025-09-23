@@ -31,14 +31,17 @@
             "id": "25f33a82c32afc20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "База знаний/Технические определения для собеседований/Unity/Подготовка к собесу.md",
-                "mode": "source",
-                "source": false
+                "file": "Декомпозиция работы/Create Resume/Create resume.canvas",
+                "viewState": {
+                  "x": 1827.9769647696476,
+                  "y": 957.70054200542,
+                  "zoom": -2.8948506179141615
+                }
               },
-              "icon": "lucide-file",
-              "title": "Подготовка к собесу"
+              "icon": "lucide-layout-dashboard",
+              "title": "Create resume"
             }
           }
         ]
@@ -203,10 +206,10 @@
   },
   "active": "25f33a82c32afc20",
   "lastOpenFiles": [
-    "Декомпозиция работы/Create Resume/Create resume.canvas",
-    "База знаний/Технические определения для собеседований/Unity/Подготовка к собесу.md",
     "База знаний/Технические определения для собеседований/Unity/Инфа о втором месте работы.md",
+    "База знаний/Технические определения для собеседований/Unity/Подготовка к собесу.md",
     "База знаний/Технические определения для собеседований/Unity/C шарп.md",
+    "Декомпозиция работы/Create Resume/Create resume.canvas",
     "Days/2025-09-23.md",
     "Days/2025-09-22.md",
     "Days/2025-09-21.md",
