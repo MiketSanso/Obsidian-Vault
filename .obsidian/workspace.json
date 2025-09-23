@@ -45,14 +45,17 @@
             "id": "25f33a82c32afc20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "База знаний/Технические определения для собеседований/Unity/Инфа о втором месте работы.md",
-                "mode": "source",
-                "source": false
+                "file": "Декомпозиция работы/Create Resume/Create resume.canvas",
+                "viewState": {
+                  "x": 1300.297492685316,
+                  "y": 435.11205414638414,
+                  "zoom": -0.8948506179141615
+                }
               },
-              "icon": "lucide-file",
-              "title": "Инфа о втором месте работы"
+              "icon": "lucide-layout-dashboard",
+              "title": "Create resume"
             }
           }
         ]
@@ -217,6 +220,8 @@
   },
   "active": "abe4f36d8c3ea1ee",
   "lastOpenFiles": [
+    "Декомпозиция работы/Create Resume/Create resume.canvas",
+    "База знаний/Технические определения для собеседований/Unity/Инфа о втором месте работы.md",
     "База знаний/Технические определения для собеседований/Unity/Подготовка к собесу.md",
     "Days/2025-09-23.md",
     "Days/2025-08-22.md",
@@ -224,8 +229,6 @@
     "Obsidian Web.md",
     "Templates/Category task.md",
     "Days/Daily reports.md",
-    "База знаний/Технические определения для собеседований/Unity/Инфа о втором месте работы.md",
-    "Декомпозиция работы/Create Resume/Create resume.canvas",
     "База знаний/Технические определения для собеседований/Unity/C шарп.md",
     "Days/2025-09-22.md",
     "Days/2025-09-21.md",
@@ -245,7 +248,6 @@
     "Days/2025-09-17.md",
     "Days/2025-09-19.md",
     "Декомпозиция работы/Alexey Project/Alexey Project.md",
-    "База знаний/Статьи/Подробная автобиография.md",
     "Декомпозиция работы/AlexeyProject/Без названия.canvas",
     "Untitled.base",
     "Декомпозиция работы/Alexey Project",
