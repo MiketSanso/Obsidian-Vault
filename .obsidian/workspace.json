@@ -11,10 +11,14 @@
             "id": "abe4f36d8c3ea1ee",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Web.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian Web"
             }
           },
           {
@@ -213,6 +217,8 @@
   },
   "active": "abe4f36d8c3ea1ee",
   "lastOpenFiles": [
+    "Templates/Category task.md",
+    "Days/Daily reports.md",
     "База знаний/Технические определения для собеседований/Unity/Инфа о втором месте работы.md",
     "База знаний/Технические определения для собеседований/Unity/Подготовка к собесу.md",
     "Days/2025-09-23.md",
@@ -240,7 +246,6 @@
     "База знаний/Статьи/История зарождения любви к психологии.md",
     "База знаний/Статьи/Моментные ощущения после первой работы.md",
     "База знаний/Статьи/Мотивация 21 века.md",
-    "База знаний/Статьи/Мысли за пару дней до отъезда из дома в Москву.md",
     "Декомпозиция работы/AlexeyProject/Без названия.canvas",
     "Untitled.base",
     "Декомпозиция работы/Alexey Project",
