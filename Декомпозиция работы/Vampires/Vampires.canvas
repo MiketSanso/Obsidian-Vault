@@ -18,7 +18,11 @@
 		{"id":"43bc2972fa30459b","type":"text","text":"### Дополнительный функционал (после основной разработки)","x":-1900,"y":780,"width":250,"height":159,"color":"6"},
 		{"id":"eec3e1fc7925b1d3","type":"text","text":"### Обработка данных\n","x":440,"y":-267,"width":250,"height":60,"color":"6"},
 		{"id":"69cb768df7743cdb","type":"text","text":"### Загрузка данных","x":440,"y":-1100,"width":250,"height":60,"color":"6"},
-		{"id":"2e3237d1fdcf66b4","type":"text","text":"### Выгрузка данных","x":440,"y":1405,"width":250,"height":50,"color":"6"}
+		{"id":"2e3237d1fdcf66b4","type":"text","text":"### Выгрузка данных","x":440,"y":1405,"width":250,"height":50,"color":"6"},
+		{"id":"c087f1c2982a290b","x":-1200,"y":-780,"width":250,"height":60,"type":"text","text":"R3"},
+		{"id":"7ccdea87fd9dc742","x":-1450,"y":-700,"width":250,"height":60,"type":"text","text":"Photon Fusion"},
+		{"id":"d8573a8b8a4bf6a3","x":-880,"y":-780,"width":250,"height":60,"type":"text","text":"MVVM"},
+		{"id":"8a33afa29bbb4a1b","x":-1460,"y":-810,"width":250,"height":60,"type":"text","text":"Zenject"}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -38,6 +42,10 @@
 		{"id":"5effc6790c4acb5e","fromNode":"1578b8e1ccdd9b0e","fromSide":"left","toNode":"40c2eee7e33b683b","toSide":"top"},
 		{"id":"7b29641ae74595d6","fromNode":"1578b8e1ccdd9b0e","fromSide":"right","toNode":"247713e7a8cf9622","toSide":"right"},
 		{"id":"9ca2b971360d5c99","fromNode":"1578b8e1ccdd9b0e","fromSide":"right","toNode":"b3d5d80d5b26a851","toSide":"right"},
-		{"id":"1ae1ffe63f295de8","fromNode":"1578b8e1ccdd9b0e","fromSide":"left","toNode":"da4028ee369d2987","toSide":"top"}
+		{"id":"1ae1ffe63f295de8","fromNode":"1578b8e1ccdd9b0e","fromSide":"left","toNode":"da4028ee369d2987","toSide":"top"},
+		{"id":"61bb3814ac8c7512","fromNode":"a823c271b5e8d22a","fromSide":"top","toNode":"7ccdea87fd9dc742","toSide":"bottom"},
+		{"id":"a8ed44fc6cd6ffdc","fromNode":"a823c271b5e8d22a","fromSide":"top","toNode":"8a33afa29bbb4a1b","toSide":"bottom"},
+		{"id":"bd915a8c3a7191cd","fromNode":"a823c271b5e8d22a","fromSide":"top","toNode":"c087f1c2982a290b","toSide":"bottom"},
+		{"id":"e149f377879a23ef","fromNode":"821356bf9e51818a","fromSide":"top","toNode":"d8573a8b8a4bf6a3","toSide":"bottom"}
 	]
 }
