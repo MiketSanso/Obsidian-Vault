@@ -13,16 +13,16 @@
 		{"id":"da4028ee369d2987","type":"text","text":"## Data","x":-3219,"y":4956,"width":100,"height":60,"color":"6"},
 		{"id":"247713e7a8cf9622","type":"text","text":"## Presenters","x":864,"y":3265,"width":173,"height":50,"color":"6"},
 		{"id":"d449d9b2a77dd295","type":"text","text":"### Общая система\n","x":-334,"y":-580,"width":250,"height":60,"color":"6"},
-		{"id":"a823c271b5e8d22a","type":"text","text":"### SDK/Frameworks","x":-1260,"y":-580,"width":250,"height":60,"color":"6"},
 		{"id":"821356bf9e51818a","type":"text","text":"### UI паттерны проектирования","x":-880,"y":-640,"width":250,"height":120,"color":"6"},
 		{"id":"43bc2972fa30459b","type":"text","text":"### Дополнительный функционал (после основной разработки)","x":-1900,"y":780,"width":250,"height":159,"color":"6"},
 		{"id":"eec3e1fc7925b1d3","type":"text","text":"### Обработка данных\n","x":440,"y":-267,"width":250,"height":60,"color":"6"},
 		{"id":"69cb768df7743cdb","type":"text","text":"### Загрузка данных","x":440,"y":-1100,"width":250,"height":60,"color":"6"},
 		{"id":"2e3237d1fdcf66b4","type":"text","text":"### Выгрузка данных","x":440,"y":1405,"width":250,"height":50,"color":"6"},
-		{"id":"c087f1c2982a290b","x":-1200,"y":-780,"width":250,"height":60,"type":"text","text":"R3"},
-		{"id":"7ccdea87fd9dc742","x":-1450,"y":-700,"width":250,"height":60,"type":"text","text":"Photon Fusion"},
-		{"id":"d8573a8b8a4bf6a3","x":-880,"y":-780,"width":250,"height":60,"type":"text","text":"MVVM"},
-		{"id":"8a33afa29bbb4a1b","x":-1460,"y":-810,"width":250,"height":60,"type":"text","text":"Zenject"}
+		{"id":"7ccdea87fd9dc742","x":-1450,"y":-700,"width":150,"height":60,"color":"5","type":"text","text":"Photon Fusion"},
+		{"id":"d8573a8b8a4bf6a3","x":-880,"y":-780,"width":250,"height":60,"color":"5","type":"text","text":"MVVM"},
+		{"id":"a823c271b5e8d22a","type":"text","text":"### SDK/Frameworks","x":-1335,"y":-580,"width":250,"height":60,"color":"6"},
+		{"id":"8a33afa29bbb4a1b","x":-1277,"y":-780,"width":135,"height":60,"color":"5","type":"text","text":"Zenject"},
+		{"id":"c087f1c2982a290b","x":-1085,"y":-700,"width":125,"height":60,"color":"5","type":"text","text":"R3"}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
