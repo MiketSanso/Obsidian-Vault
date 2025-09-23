@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "25f33a82c32afc20",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Декомпозиция работы/Create Resume/Create resume.canvas",
-                "viewState": {
-                  "x": -7.5,
-                  "y": 385,
-                  "zoom": -3.311958183672761
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Create resume"
-            }
-          },
-          {
             "id": "abe4f36d8c3ea1ee",
             "type": "leaf",
             "state": {
@@ -38,8 +21,30 @@
               "title": "Инфа о втором месте работы"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "865b264081dc259a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25f33a82c32afc20",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Декомпозиция работы/Create Resume/Create resume.canvas",
+                "viewState": {
+                  "x": 1598.6065321079097,
+                  "y": 282.8765709042331,
+                  "zoom": -0.6452915170060944
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Create resume"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,10 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abe4f36d8c3ea1ee",
+  "active": "25f33a82c32afc20",
   "lastOpenFiles": [
-    "Декомпозиция работы/Create Resume/Create resume.canvas",
     "База знаний/Технические определения для собеседований/Unity/Инфа о втором месте работы.md",
+    "Декомпозиция работы/Create Resume/Create resume.canvas",
     "База знаний/Технические определения для собеседований/Unity/C шарп.md",
     "Days/2025-09-23.md",
     "Days/2025-09-22.md",
