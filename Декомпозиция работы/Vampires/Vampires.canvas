@@ -26,7 +26,7 @@
 		{"id":"8eefb3c80cf2de43","x":-1879,"y":20,"width":250,"height":60,"type":"text","text":"Основная панель игры"},
 		{"id":"e8d621b8cca0cd3d","x":-1879,"y":-280,"width":250,"height":60,"type":"text","text":"Сверстать лобби"},
 		{"id":"c01482a3c460c59d","x":-2200,"y":-280,"width":250,"height":60,"type":"text","text":"Кнопка \"Присоединиться\"\nКнопка \"Создать комнату\""},
-		{"id":"e7f5cd47f653f19e","x":-2251,"y":-36,"width":250,"height":60,"type":"text","text":""}
+		{"id":"e7f5cd47f653f19e","x":-2251,"y":-36,"width":250,"height":60,"type":"text","text":"UI:\n- Хп бар (сужающийся как в скайриме)\n- Шкала опыта (такой же как в скайриме сужающийся)\n- Панель улучшений (при достижении максим)"}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
