@@ -35,9 +35,10 @@
 		{"id":"8ab7d80615aae00f","x":-1950,"y":510,"width":250,"height":60,"color":"1","type":"text","text":"Враг-болванчик"},
 		{"id":"96f6d3e2a89f75ae","x":-1740,"y":390,"width":250,"height":60,"color":"1","type":"text","text":"Локация с ограничениями по ходьбе/спавну врагов."},
 		{"id":"7ca112c7d7026656","x":-2234,"y":570,"width":250,"height":60,"color":"1","type":"text","text":"UI хп бар для игрока и врагов"},
-		{"id":"acacee2e1e21111b","x":-1900,"y":914,"width":250,"height":60,"type":"text","text":"Враги спавнятся и бегут на игрока"},
-		{"id":"c392982ed2e4867c","x":-1950,"y":1022,"width":250,"height":60,"type":"text","text":"Игрок ходит за счёт джойстика"},
-		{"id":"01e9cf3ae4a17dbf","x":-1955,"y":1146,"width":250,"height":60,"type":"text","text":""}
+		{"id":"acacee2e1e21111b","x":-1934,"y":850,"width":250,"height":60,"color":"1","type":"text","text":"Враги спавнятся и бегут на игрока"},
+		{"id":"c392982ed2e4867c","x":-1984,"y":958,"width":250,"height":60,"color":"1","type":"text","text":"Игрок ходит за счёт джойстика"},
+		{"id":"01e9cf3ae4a17dbf","x":-1989,"y":1082,"width":250,"height":60,"color":"1","type":"text","text":"Игрок может убивать врагов как и враги игрока. \n"},
+		{"id":"a3de08d14dfb2d04","x":-1960,"y":1200,"width":250,"height":200,"color":"1","type":"text","text":"Игрок может апать уровень и улучшаться по 4 направлениям:\n- Урон\n- Хп\n- Скорость атаки\n- Скорость ходьбы"}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -76,6 +77,7 @@
 		{"id":"1421cf94ceede08b","fromNode":"8eefb3c80cf2de43","fromSide":"bottom","toNode":"7ca112c7d7026656","toSide":"top"},
 		{"id":"9d6eb386a2024e31","fromNode":"702a8b67a007f28a","fromSide":"left","toNode":"acacee2e1e21111b","toSide":"right"},
 		{"id":"73d0d6f7530222b5","fromNode":"702a8b67a007f28a","fromSide":"left","toNode":"c392982ed2e4867c","toSide":"right"},
-		{"id":"d0db239079b6cb31","fromNode":"702a8b67a007f28a","fromSide":"left","toNode":"01e9cf3ae4a17dbf","toSide":"right"}
+		{"id":"d0db239079b6cb31","fromNode":"702a8b67a007f28a","fromSide":"left","toNode":"01e9cf3ae4a17dbf","toSide":"right"},
+		{"id":"56bbf7317f7715b1","fromNode":"702a8b67a007f28a","fromSide":"left","toNode":"a3de08d14dfb2d04","toSide":"right"}
 	]
 }
