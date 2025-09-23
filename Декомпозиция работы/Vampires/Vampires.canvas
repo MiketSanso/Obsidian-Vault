@@ -33,7 +33,8 @@
 		{"id":"9a96aa8143a4b984","x":-2484,"y":300,"width":250,"height":60,"color":"1","type":"text","text":"Кристаллы повышения опыта"},
 		{"id":"78fa9da422ce122b","x":-2200,"y":450,"width":250,"height":60,"color":"1","type":"text","text":"Игрок-болванчик."},
 		{"id":"8ab7d80615aae00f","x":-1950,"y":510,"width":250,"height":60,"color":"1","type":"text","text":"Враг-болванчик"},
-		{"id":"96f6d3e2a89f75ae","x":-1740,"y":390,"width":250,"height":60,"color":"1","type":"text","text":"Локация с ограничениями по ходьбе/спавну врагов."}
+		{"id":"96f6d3e2a89f75ae","x":-1740,"y":390,"width":250,"height":60,"color":"1","type":"text","text":"Локация с ограничениями по ходьбе/спавну врагов."},
+		{"id":"7ca112c7d7026656","x":-2234,"y":570,"width":250,"height":60,"color":"1","type":"text","text":"UI хп бар для игрока и врагов"}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -68,6 +69,7 @@
 		{"id":"87ce009140ded28a","fromNode":"8eefb3c80cf2de43","fromSide":"bottom","toNode":"8ab7d80615aae00f","toSide":"top"},
 		{"id":"e5414872914c0470","fromNode":"8eefb3c80cf2de43","fromSide":"left","toNode":"50f52c340f9b5b5c","toSide":"right"},
 		{"id":"b56a227be80ca79e","fromNode":"8eefb3c80cf2de43","fromSide":"left","toNode":"463752044f31687f","toSide":"right"},
-		{"id":"543952d3605b5c88","fromNode":"8eefb3c80cf2de43","fromSide":"left","toNode":"9a96aa8143a4b984","toSide":"right"}
+		{"id":"543952d3605b5c88","fromNode":"8eefb3c80cf2de43","fromSide":"left","toNode":"9a96aa8143a4b984","toSide":"right"},
+		{"id":"1421cf94ceede08b","fromNode":"8eefb3c80cf2de43","fromSide":"bottom","toNode":"7ca112c7d7026656","toSide":"top"}
 	]
 }
