@@ -92,15 +92,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
+                "file": "Декомпозиция работы/Vampires/Vampires.canvas",
                 "viewState": {
-                  "x": -582,
-                  "y": 2457,
+                  "x": 216.84927234927216,
+                  "y": 691.1226611226605,
                   "zoom": -3.0719239011831894
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Alexey Project"
+              "title": "Vampires"
             }
           }
         ],
@@ -266,11 +266,11 @@
   },
   "active": "cd2cb679ca40e4d1",
   "lastOpenFiles": [
+    "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
     "Декомпозиция работы/Alexey Project/Alexey Project.md",
     "Декомпозиция работы/Vampires/Vampires.md",
     "Декомпозиция работы/Vampires/Vampires.canvas",
     "Декомпозиция работы/Work Decomposition.md",
-    "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
     "Декомпозиция работы/Create Resume/Create resume.canvas",
     "Декомпозиция работы/Vampires",
     "База знаний/Технические определения для собеседований/Unity/Инфа о втором месте работы.md",
