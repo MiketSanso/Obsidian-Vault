@@ -81,7 +81,6 @@
 		{"id":"617a0f39d09bfc23","type":"text","text":"Описать задачи, которые выполнял **В целом**.","x":1113,"y":293,"width":250,"height":60,"color":"1"},
 		{"id":"b519056060d99cf4","type":"text","text":"Выбрать место работы, года работы.","x":1120,"y":18,"width":250,"height":60,"color":"4"},
 		{"id":"10cb4d6a37a8c4f6","type":"text","text":"Описать команду и взаимодействие с ними","x":1120,"y":161,"width":250,"height":60,"color":"4"},
-		{"id":"16877d46d7f5e935","x":1711,"y":1105,"width":115,"height":60,"type":"text","text":"Проект 4"},
 		{"id":"b541d704ebfbb4c8","type":"text","text":"Жанр, об игре, геймплей","x":2385,"y":658,"width":250,"height":60,"color":"1"},
 		{"id":"a791a47358baf408","type":"text","text":"Среднестат. задача 1","x":2385,"y":718,"width":250,"height":60,"color":"1"},
 		{"id":"53f275809859d735","type":"text","text":"Среднестат. задача 2","x":2385,"y":778,"width":250,"height":60,"color":"1"},
@@ -99,17 +98,18 @@
 		{"id":"b0d4ddbdb12b7bbc","type":"text","text":"Задача 1","x":1996,"y":955,"width":250,"height":60,"color":"1"},
 		{"id":"5b141e4a67edffdd","type":"text","text":"Задача 2","x":1996,"y":1015,"width":250,"height":60,"color":"1"},
 		{"id":"bf8beb2bee32efc0","type":"text","text":"Задача 3","x":1996,"y":1075,"width":250,"height":53,"color":"1"},
-		{"id":"5ed125a83d09f927","type":"text","text":"Жанр, об игре, геймплей","x":2345,"y":1310,"width":250,"height":60,"color":"1"},
-		{"id":"55d988b0b0c0619e","type":"text","text":"Среднестат. задача 1","x":2345,"y":1370,"width":250,"height":60,"color":"1"},
-		{"id":"53dbf17520ce2c36","type":"text","text":"Среднестат. задача 2","x":2345,"y":1430,"width":250,"height":60,"color":"1"},
-		{"id":"d3b848d1c1f769df","type":"text","text":"Среднестат. задача 3","x":2345,"y":1490,"width":250,"height":60,"color":"1"},
-		{"id":"74e95912afe115a0","type":"text","text":"Задача 1","x":1996,"y":1280,"width":250,"height":60,"color":"1"},
-		{"id":"a258b6b700f2483e","type":"text","text":"Задача 2","x":1996,"y":1340,"width":250,"height":60,"color":"1"},
-		{"id":"71e1cada3bac326c","type":"text","text":"Задача 3","x":1996,"y":1400,"width":250,"height":53,"color":"1"},
 		{"id":"7793a3c0b3bc2be0","type":"text","text":"Жанр, об игре, геймплей","x":2385,"y":948,"width":250,"height":60,"color":"1"},
 		{"id":"8fcb118958808ede","type":"text","text":"Среднестат. задача 1","x":2385,"y":1008,"width":250,"height":60,"color":"1"},
 		{"id":"60db9e60b7ec7bd7","type":"text","text":"Среднестат. задача 2","x":2385,"y":1068,"width":250,"height":60,"color":"1"},
-		{"id":"5e6837039cacaa77","type":"text","text":"Среднестат. задача 3","x":2385,"y":1128,"width":250,"height":60,"color":"1"}
+		{"id":"5e6837039cacaa77","type":"text","text":"Среднестат. задача 3","x":2385,"y":1128,"width":250,"height":60,"color":"1"},
+		{"id":"5ed125a83d09f927","type":"text","text":"Жанр, об игре, геймплей","x":2345,"y":1253,"width":250,"height":60,"color":"1"},
+		{"id":"55d988b0b0c0619e","type":"text","text":"Среднестат. задача 1","x":2345,"y":1313,"width":250,"height":60,"color":"1"},
+		{"id":"53dbf17520ce2c36","type":"text","text":"Среднестат. задача 2","x":2345,"y":1373,"width":250,"height":60,"color":"1"},
+		{"id":"d3b848d1c1f769df","type":"text","text":"Среднестат. задача 3","x":2345,"y":1433,"width":250,"height":60,"color":"1"},
+		{"id":"74e95912afe115a0","type":"text","text":"Задача 1","x":1996,"y":1223,"width":250,"height":60,"color":"1"},
+		{"id":"a258b6b700f2483e","type":"text","text":"Задача 2","x":1996,"y":1283,"width":250,"height":60,"color":"1"},
+		{"id":"71e1cada3bac326c","type":"text","text":"Задача 3","x":1996,"y":1343,"width":250,"height":53,"color":"1"},
+		{"id":"16877d46d7f5e935","x":1706,"y":1098,"width":115,"height":60,"color":"1","type":"text","text":"Проект 4"}
 	],
 	"edges":[
 		{"id":"46dc6b9e3f13a3d0","fromNode":"c77c0348ccabbe88","fromSide":"right","toNode":"b227c59191b068c2","toSide":"left"},
@@ -213,6 +213,13 @@
 		{"id":"defa10e446165e69","fromNode":"85fd24dd9db0f76a","fromSide":"right","toNode":"60db9e60b7ec7bd7","toSide":"left"},
 		{"id":"c9ad51c27c0cec50","fromNode":"85fd24dd9db0f76a","fromSide":"right","toNode":"5e6837039cacaa77","toSide":"left"},
 		{"id":"f39a86efc2398c77","fromNode":"0db59b88b8a208b3","fromSide":"right","toNode":"059b5c7e9702376e","toSide":"left"},
-		{"id":"5cf766f3956c22fd","fromNode":"70ea43198fcd033b","fromSide":"right","toNode":"16877d46d7f5e935","toSide":"left"}
+		{"id":"5cf766f3956c22fd","fromNode":"70ea43198fcd033b","fromSide":"right","toNode":"16877d46d7f5e935","toSide":"left"},
+		{"id":"6e890c63334c1535","fromNode":"16877d46d7f5e935","fromSide":"right","toNode":"74e95912afe115a0","toSide":"left"},
+		{"id":"5860200876c41c0b","fromNode":"16877d46d7f5e935","fromSide":"right","toNode":"a258b6b700f2483e","toSide":"left"},
+		{"id":"44f31540154c8461","fromNode":"16877d46d7f5e935","fromSide":"right","toNode":"71e1cada3bac326c","toSide":"left"},
+		{"id":"534259bf2531e3a9","fromNode":"16877d46d7f5e935","fromSide":"right","toNode":"5ed125a83d09f927","toSide":"left"},
+		{"id":"51452a7d129f2b9e","fromNode":"16877d46d7f5e935","fromSide":"right","toNode":"55d988b0b0c0619e","toSide":"left"},
+		{"id":"c80ef260cac799ce","fromNode":"16877d46d7f5e935","fromSide":"right","toNode":"53dbf17520ce2c36","toSide":"left"},
+		{"id":"5b77c5d3d9cab19b","fromNode":"16877d46d7f5e935","fromSide":"right","toNode":"d3b848d1c1f769df","toSide":"left"}
 	]
 }
