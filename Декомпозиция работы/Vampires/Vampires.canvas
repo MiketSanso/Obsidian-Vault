@@ -27,12 +27,13 @@
 		{"id":"8eefb3c80cf2de43","x":-2075,"y":85,"width":250,"height":60,"color":"1","type":"text","text":"Основная панель игры"},
 		{"id":"e7f5cd47f653f19e","x":-2505,"y":-142,"width":250,"height":276,"color":"1","type":"text","text":"UI:\n- Хп бар (сужающийся как в скайриме)\n- Шкала опыта (такой же как в скайриме сужающийся)\n- Панель улучшений (при достижении  нового уровня)"},
 		{"id":"463752044f31687f","x":-2505,"y":205,"width":250,"height":60,"color":"1","type":"text","text":"Зелья лечения из врагов"},
-		{"id":"50f52c340f9b5b5c","x":-2340,"y":364,"width":250,"height":60,"color":"1","type":"text","text":"Снаряды для игроков и врагов"},
 		{"id":"78fa9da422ce122b","x":-2129,"y":460,"width":250,"height":60,"color":"1","type":"text","text":"Игрок-болванчик."},
 		{"id":"96f6d3e2a89f75ae","x":-1847,"y":380,"width":250,"height":60,"color":"1","type":"text","text":"Локация с ограничениями по ходьбе/спавну врагов."},
 		{"id":"9a96aa8143a4b984","x":-2200,"y":-105,"width":250,"height":60,"color":"1","type":"text","text":"Кристаллы повышения опыта"},
 		{"id":"43bc2972fa30459b","type":"text","text":"### Дополнительный функционал (после основной разработки)","x":-1900,"y":1500,"width":250,"height":159,"color":"6"},
-		{"id":"702a8b67a007f28a","type":"text","text":"### Минимальный смысл/функционал","x":-1490,"y":980,"width":250,"height":102,"color":"6"}
+		{"id":"702a8b67a007f28a","type":"text","text":"### Минимальный смысл/функционал","x":-1490,"y":980,"width":250,"height":102,"color":"6"},
+		{"id":"8ab7d80615aae00f","x":-2129,"y":560,"width":250,"height":60,"type":"text","text":"Враг-болванчик"},
+		{"id":"50f52c340f9b5b5c","x":-2480,"y":320,"width":250,"height":60,"color":"1","type":"text","text":"Снаряды для игроков и врагов"}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -64,8 +65,9 @@
 		{"id":"9b03f76010995e59","fromNode":"8eefb3c80cf2de43","fromSide":"bottom","toNode":"96f6d3e2a89f75ae","toSide":"top"},
 		{"id":"048c670e70fbf207","fromNode":"a823c271b5e8d22a","fromSide":"top","toNode":"3e1e6eec363ef967","toSide":"bottom"},
 		{"id":"022caefc17d9739b","fromNode":"8eefb3c80cf2de43","fromSide":"bottom","toNode":"78fa9da422ce122b","toSide":"top"},
-		{"id":"d7ac84059bf7458d","fromNode":"8eefb3c80cf2de43","fromSide":"bottom","toNode":"50f52c340f9b5b5c","toSide":"top"},
 		{"id":"ddd2aa59a8c5b6bc","fromNode":"8eefb3c80cf2de43","fromSide":"top","toNode":"9a96aa8143a4b984","toSide":"bottom"},
-		{"id":"b88197f98913deac","fromNode":"8eefb3c80cf2de43","fromSide":"left","toNode":"463752044f31687f","toSide":"right"}
+		{"id":"87ce009140ded28a","fromNode":"8eefb3c80cf2de43","fromSide":"bottom","toNode":"8ab7d80615aae00f","toSide":"top"},
+		{"id":"d94f0438fa0f7e3e","fromNode":"8eefb3c80cf2de43","fromSide":"left","toNode":"463752044f31687f","toSide":"right"},
+		{"id":"e5414872914c0470","fromNode":"8eefb3c80cf2de43","fromSide":"left","toNode":"50f52c340f9b5b5c","toSide":"right"}
 	]
 }
