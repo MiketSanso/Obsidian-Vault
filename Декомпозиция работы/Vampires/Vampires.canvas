@@ -22,7 +22,6 @@
 		{"id":"c01482a3c460c59d","x":-2200,"y":-280,"width":250,"height":60,"color":"1","type":"text","text":"Кнопка \"Присоединиться\"\nКнопка \"Создать комнату\""},
 		{"id":"8a33afa29bbb4a1b","x":-1395,"y":-840,"width":135,"height":60,"color":"5","type":"text","text":"Zenject"},
 		{"id":"c087f1c2982a290b","x":-1147,"y":-700,"width":125,"height":60,"color":"5","type":"text","text":"R3"},
-		{"id":"3e1e6eec363ef967","x":-1210,"y":-840,"width":105,"height":60,"color":"5","type":"text","text":"UniTask"},
 		{"id":"7ccdea87fd9dc742","x":-1460,"y":-700,"width":150,"height":60,"color":"5","type":"text","text":"Photon Fusion"},
 		{"id":"8eefb3c80cf2de43","x":-2075,"y":85,"width":250,"height":75,"color":"1","type":"text","text":"#### Основная панель игры"},
 		{"id":"e7f5cd47f653f19e","x":-2505,"y":-142,"width":250,"height":276,"color":"1","type":"text","text":"UI:\n- Хп бар (сужающийся как в скайриме)\n- Шкала опыта (такой же как в скайриме сужающийся)\n- Панель улучшений (при достижении  нового уровня)"},
@@ -39,7 +38,12 @@
 		{"id":"c392982ed2e4867c","x":-1984,"y":958,"width":250,"height":60,"color":"1","type":"text","text":"Игрок ходит за счёт джойстика"},
 		{"id":"01e9cf3ae4a17dbf","x":-1989,"y":1082,"width":250,"height":60,"color":"1","type":"text","text":"Игрок может убивать врагов как и враги игрока. \n"},
 		{"id":"a3de08d14dfb2d04","x":-1960,"y":1200,"width":250,"height":240,"color":"1","type":"text","text":"Игрок может апать уровень и улучшаться по 4 направлениям:\n- Урон\n- Хп\n- Скорость атаки\n- Скорость ходьбы"},
-		{"id":"aa06c1710803835d","x":-1525,"y":1210,"width":250,"height":110,"color":"1","type":"text","text":"Онлайн (несколько игроков могут быть в 1 катке, PTP)"}
+		{"id":"aa06c1710803835d","x":-1525,"y":1210,"width":250,"height":110,"color":"1","type":"text","text":"Онлайн (несколько игроков могут быть в 1 катке, PTP)"},
+		{"id":"35de15a6a48db11b","x":-144,"y":-710,"width":250,"height":60,"color":"5","type":"text","text":"ООП"},
+		{"id":"2a42752052b6baca","x":-209,"y":-840,"width":250,"height":60,"color":"5","type":"text","text":"Object pool"},
+		{"id":"24aeaf59b222c615","x":-500,"y":-840,"width":250,"height":60,"color":"5","type":"text","text":"GRASP"},
+		{"id":"2acc7f10ab1d5735","x":-540,"y":-700,"width":250,"height":60,"color":"5","type":"text","text":"SOLID"},
+		{"id":"3e1e6eec363ef967","x":-1189,"y":-840,"width":105,"height":60,"color":"5","type":"text","text":"UniTask"}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -80,6 +84,10 @@
 		{"id":"73d0d6f7530222b5","fromNode":"702a8b67a007f28a","fromSide":"left","toNode":"c392982ed2e4867c","toSide":"right"},
 		{"id":"d0db239079b6cb31","fromNode":"702a8b67a007f28a","fromSide":"left","toNode":"01e9cf3ae4a17dbf","toSide":"right"},
 		{"id":"56bbf7317f7715b1","fromNode":"702a8b67a007f28a","fromSide":"left","toNode":"a3de08d14dfb2d04","toSide":"right"},
-		{"id":"c67364fa872072b7","fromNode":"702a8b67a007f28a","fromSide":"bottom","toNode":"aa06c1710803835d","toSide":"top"}
+		{"id":"c67364fa872072b7","fromNode":"702a8b67a007f28a","fromSide":"bottom","toNode":"aa06c1710803835d","toSide":"top"},
+		{"id":"86cbc2f8ad837fc8","fromNode":"d449d9b2a77dd295","fromSide":"top","toNode":"2a42752052b6baca","toSide":"bottom"},
+		{"id":"d74bb3b081e32cb0","fromNode":"d449d9b2a77dd295","fromSide":"top","toNode":"35de15a6a48db11b","toSide":"bottom"},
+		{"id":"c55cc44f4010b4aa","fromNode":"d449d9b2a77dd295","fromSide":"top","toNode":"2acc7f10ab1d5735","toSide":"bottom"},
+		{"id":"dc7fdd8850ecc679","fromNode":"d449d9b2a77dd295","fromSide":"top","toNode":"24aeaf59b222c615","toSide":"bottom"}
 	]
 }
