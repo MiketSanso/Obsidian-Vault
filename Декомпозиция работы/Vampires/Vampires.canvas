@@ -10,7 +10,7 @@
 		{"id":"40c2eee7e33b683b","type":"text","text":"## UI","x":-1806,"y":3050,"width":74,"height":60,"color":"6"},
 		{"id":"b3d5d80d5b26a851","type":"text","text":"## Service","x":1919,"y":5113,"width":136,"height":50,"color":"6"},
 		{"id":"da4028ee369d2987","type":"text","text":"## Data","x":-3219,"y":4956,"width":100,"height":60,"color":"6"},
-		{"id":"247713e7a8cf9622","type":"text","text":"## Presenters","x":864,"y":3265,"width":173,"height":50,"color":"6"},
+		{"id":"247713e7a8cf9622","type":"text","text":"## ModelViews","x":840,"y":3265,"width":197,"height":50,"color":"6"},
 		{"id":"d449d9b2a77dd295","type":"text","text":"### Общая система\n","x":-334,"y":-580,"width":250,"height":60,"color":"6"},
 		{"id":"821356bf9e51818a","type":"text","text":"### UI паттерны проектирования","x":-880,"y":-640,"width":250,"height":120,"color":"6"},
 		{"id":"eec3e1fc7925b1d3","type":"text","text":"### Обработка данных\n","x":440,"y":-267,"width":250,"height":60,"color":"6"},
