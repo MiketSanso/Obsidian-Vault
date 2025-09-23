@@ -100,7 +100,8 @@
 		{"id":"332b443b9f1095a0","type":"text","text":"Среднестат. задача 3","x":2340,"y":910,"width":250,"height":60,"color":"1"},
 		{"id":"8fcb118958808ede","type":"text","text":"Среднестат. задача 1","x":2300,"y":1105,"width":250,"height":60,"color":"1"},
 		{"id":"60db9e60b7ec7bd7","type":"text","text":"Среднестат. задача 2","x":2300,"y":1165,"width":250,"height":60,"color":"1"},
-		{"id":"5e6837039cacaa77","type":"text","text":"Среднестат. задача 3","x":2300,"y":1225,"width":250,"height":60,"color":"1"}
+		{"id":"5e6837039cacaa77","type":"text","text":"Среднестат. задача 3","x":2300,"y":1225,"width":250,"height":60,"color":"1"},
+		{"id":"059b5c7e9702376e","x":1436,"y":1255,"width":250,"height":118,"color":"1","type":"text","text":"А почему так произошло? Разговаривал ли с командой? Что говорит начальство? "}
 	],
 	"edges":[
 		{"id":"46dc6b9e3f13a3d0","fromNode":"c77c0348ccabbe88","fromSide":"right","toNode":"b227c59191b068c2","toSide":"left"},
@@ -202,6 +203,7 @@
 		{"id":"6f40ca22572ad1d9","fromNode":"9722ac121531e45a","fromSide":"right","toNode":"332b443b9f1095a0","toSide":"left"},
 		{"id":"4ce010fb4689a5db","fromNode":"85fd24dd9db0f76a","fromSide":"right","toNode":"8fcb118958808ede","toSide":"left"},
 		{"id":"defa10e446165e69","fromNode":"85fd24dd9db0f76a","fromSide":"right","toNode":"60db9e60b7ec7bd7","toSide":"left"},
-		{"id":"c9ad51c27c0cec50","fromNode":"85fd24dd9db0f76a","fromSide":"right","toNode":"5e6837039cacaa77","toSide":"left"}
+		{"id":"c9ad51c27c0cec50","fromNode":"85fd24dd9db0f76a","fromSide":"right","toNode":"5e6837039cacaa77","toSide":"left"},
+		{"id":"f39a86efc2398c77","fromNode":"0db59b88b8a208b3","fromSide":"right","toNode":"059b5c7e9702376e","toSide":"left"}
 	]
 }
