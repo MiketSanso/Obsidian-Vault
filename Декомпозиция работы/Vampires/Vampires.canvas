@@ -23,9 +23,10 @@
 		{"id":"a823c271b5e8d22a","type":"text","text":"### SDK/Frameworks","x":-1335,"y":-580,"width":250,"height":60,"color":"6"},
 		{"id":"8a33afa29bbb4a1b","x":-1277,"y":-780,"width":135,"height":60,"color":"5","type":"text","text":"Zenject"},
 		{"id":"c087f1c2982a290b","x":-1085,"y":-700,"width":125,"height":60,"color":"5","type":"text","text":"R3"},
-		{"id":"e8d621b8cca0cd3d","x":-1879,"y":-190,"width":250,"height":60,"type":"text","text":"Сверстать лобби"},
-		{"id":"8eefb3c80cf2de43","x":-1927,"y":-26,"width":250,"height":60,"type":"text","text":""},
-		{"id":"c01482a3c460c59d","x":-2200,"y":-190,"width":250,"height":60,"type":"text","text":"Кнопка \"Присоединиться\"\nКнопка \"Создать комнату\""}
+		{"id":"8eefb3c80cf2de43","x":-1879,"y":20,"width":250,"height":60,"type":"text","text":"Основная панель игры"},
+		{"id":"e8d621b8cca0cd3d","x":-1879,"y":-280,"width":250,"height":60,"type":"text","text":"Сверстать лобби"},
+		{"id":"c01482a3c460c59d","x":-2200,"y":-280,"width":250,"height":60,"type":"text","text":"Кнопка \"Присоединиться\"\nКнопка \"Создать комнату\""},
+		{"id":"e7f5cd47f653f19e","x":-2251,"y":-36,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -52,6 +53,7 @@
 		{"id":"e149f377879a23ef","fromNode":"821356bf9e51818a","fromSide":"top","toNode":"d8573a8b8a4bf6a3","toSide":"bottom"},
 		{"id":"8ef0a9b048e7bedf","fromNode":"81c92ff170d84a64","fromSide":"left","toNode":"e8d621b8cca0cd3d","toSide":"right"},
 		{"id":"ad979ab9fd0ea1d2","fromNode":"81c92ff170d84a64","fromSide":"left","toNode":"8eefb3c80cf2de43","toSide":"right"},
-		{"id":"7cab8e23c12125ee","fromNode":"e8d621b8cca0cd3d","fromSide":"left","toNode":"c01482a3c460c59d","toSide":"right"}
+		{"id":"7cab8e23c12125ee","fromNode":"e8d621b8cca0cd3d","fromSide":"left","toNode":"c01482a3c460c59d","toSide":"right"},
+		{"id":"9f60448c2738ead8","fromNode":"8eefb3c80cf2de43","fromSide":"left","toNode":"e7f5cd47f653f19e","toSide":"right"}
 	]
 }
