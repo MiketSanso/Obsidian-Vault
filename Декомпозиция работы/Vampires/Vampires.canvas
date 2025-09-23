@@ -1,34 +1,24 @@
 {
 	"nodes":[
-		{"id":"e987f4cc3430b20f","type":"text","text":"# **Alexey Project**\n","x":-600,"y":218,"width":270,"height":165,"color":"3"},
+		{"id":"e987f4cc3430b20f","type":"text","text":"# **Vampires**\n","x":-600,"y":218,"width":270,"height":165,"color":"1"},
 		{"id":"dc4b073b5c035bbf","type":"text","text":"## Выбор архитектурного пулла","x":-590,"y":-33,"width":250,"height":113,"color":"6"},
 		{"id":"81c92ff170d84a64","type":"text","text":"### Верстка","x":-1510,"y":-135,"width":250,"height":60,"color":"6"},
 		{"id":"702a8b67a007f28a","type":"text","text":"### Минимальный смысл/функционал","x":-1510,"y":253,"width":250,"height":102,"color":"6"},
 		{"id":"f67e37a07c754908","type":"text","text":"## Модули дизайна","x":-1120,"y":274,"width":250,"height":60,"color":"6"},
 		{"id":"5e742ab3552d3e61","type":"text","text":"## Модули программирования","x":40,"y":230,"width":250,"height":140,"color":"6"},
 		{"id":"8897649fed01c690","type":"text","text":"### Отображение данных","x":440,"y":390,"width":250,"height":81,"color":"6"},
-		{"id":"6d53f681cfddbf1f","type":"text","text":"Сделать 3 режима:\n1) Режим обычных линий\n2) Режим корректирующих линий. \n3) Режим вымерки углов.","x":900,"y":920,"width":250,"height":200,"color":"4"},
 		{"id":"1578b8e1ccdd9b0e","type":"text","text":"## Архитектура скриптов","x":-635,"y":1125,"width":315,"height":75,"color":"6"},
 		{"id":"40c2eee7e33b683b","type":"text","text":"## UI","x":-1806,"y":3050,"width":74,"height":60,"color":"6"},
 		{"id":"b3d5d80d5b26a851","type":"text","text":"## Service","x":1919,"y":5113,"width":136,"height":50,"color":"6"},
 		{"id":"da4028ee369d2987","type":"text","text":"## Data","x":-3219,"y":4956,"width":100,"height":60,"color":"6"},
 		{"id":"247713e7a8cf9622","type":"text","text":"## Presenters","x":864,"y":3265,"width":173,"height":50,"color":"6"},
-		{"id":"29de459602188f6b","type":"text","text":"Сделать переход в режим углов","x":1518,"y":716,"width":250,"height":60,"color":"4"},
-		{"id":"e49fe120a233feb5","type":"text","text":"Сделать видимость построения углов по трём точкам меньше 180 градусов","x":1660,"y":800,"width":250,"height":90,"color":"4"},
-		{"id":"ae6fb92c9be83049","type":"text","text":"При выборе какой-то определённой калибровочной линии (если она уже была нарисована) выделить её другим цветом.","x":1725,"y":900,"width":250,"height":180,"color":"4"},
-		{"id":"17778b7b74fc10a7","type":"text","text":"Сделать переход в режим обычных линий","x":1620,"y":1100,"width":250,"height":60,"color":"4"},
-		{"id":"7ad77e10f756df6f","type":"text","text":"Добавить кнопку смены режима","x":1518,"y":1180,"width":250,"height":60,"color":"4"},
-		{"id":"5ee7b03b61d457e0","type":"text","text":"Сделать переход в режим корректирующих линий","x":1360,"y":1260,"width":250,"height":68,"color":"4"},
 		{"id":"d449d9b2a77dd295","type":"text","text":"### Общая система\n","x":-334,"y":-580,"width":250,"height":60,"color":"6"},
 		{"id":"a823c271b5e8d22a","type":"text","text":"### SDK/Frameworks","x":-1260,"y":-580,"width":250,"height":60,"color":"6"},
 		{"id":"821356bf9e51818a","type":"text","text":"### UI паттерны проектирования","x":-880,"y":-640,"width":250,"height":120,"color":"6"},
 		{"id":"43bc2972fa30459b","type":"text","text":"### Дополнительный функционал (после основной разработки)","x":-1900,"y":780,"width":250,"height":159,"color":"6"},
 		{"id":"eec3e1fc7925b1d3","type":"text","text":"### Обработка данных\n","x":440,"y":-267,"width":250,"height":60,"color":"6"},
 		{"id":"69cb768df7743cdb","type":"text","text":"### Загрузка данных","x":440,"y":-1100,"width":250,"height":60,"color":"6"},
-		{"id":"2e3237d1fdcf66b4","type":"text","text":"### Выгрузка данных","x":440,"y":1405,"width":250,"height":50,"color":"6"},
-		{"id":"87ab339079729045","type":"text","text":"Сделать сохранение segments, углов и correctSegments на картинке.","x":860,"y":1485,"width":250,"height":119,"color":"1"},
-		{"id":"cf13b170c78dd2ea","type":"text","text":"Сделать сохранение segments, углов и correctSegments в techFile.","x":860,"y":1645,"width":250,"height":119,"color":"1"},
-		{"id":"ae7730c75c5ec2f7","type":"text","text":"Сделать выгрузку углов как 25-30","x":864,"y":1400,"width":250,"height":60,"color":"4"}
+		{"id":"2e3237d1fdcf66b4","type":"text","text":"### Выгрузка данных","x":440,"y":1405,"width":250,"height":50,"color":"6"}
 	],
 	"edges":[
 		{"id":"24acb08c6eb6b5e4","fromNode":"5e742ab3552d3e61","fromSide":"right","toNode":"69cb768df7743cdb","toSide":"left"},
@@ -44,20 +34,10 @@
 		{"id":"bf9d2a04a43f2a93","fromNode":"dc4b073b5c035bbf","fromSide":"top","toNode":"a823c271b5e8d22a","toSide":"bottom"},
 		{"id":"9590749313f42d65","fromNode":"dc4b073b5c035bbf","fromSide":"top","toNode":"d449d9b2a77dd295","toSide":"bottom"},
 		{"id":"ea71e08dbc8ba4a6","fromNode":"dc4b073b5c035bbf","fromSide":"top","toNode":"821356bf9e51818a","toSide":"bottom"},
-		{"id":"ce575ac93e90d353","fromNode":"8897649fed01c690","fromSide":"right","toNode":"6d53f681cfddbf1f","toSide":"left"},
-		{"id":"8805003a85955619","fromNode":"6d53f681cfddbf1f","fromSide":"right","toNode":"29de459602188f6b","toSide":"left"},
-		{"id":"4abbee65d2b89d0f","fromNode":"6d53f681cfddbf1f","fromSide":"right","toNode":"5ee7b03b61d457e0","toSide":"left"},
-		{"id":"45c11f70f2bb6870","fromNode":"2e3237d1fdcf66b4","fromSide":"right","toNode":"ae7730c75c5ec2f7","toSide":"left"},
-		{"id":"e4bb7831f9c7f914","fromNode":"2e3237d1fdcf66b4","fromSide":"right","toNode":"87ab339079729045","toSide":"left"},
-		{"id":"4b76a0c6ce95ae72","fromNode":"6d53f681cfddbf1f","fromSide":"right","toNode":"17778b7b74fc10a7","toSide":"left"},
-		{"id":"43ecb4d68d866964","fromNode":"2e3237d1fdcf66b4","fromSide":"right","toNode":"cf13b170c78dd2ea","toSide":"left"},
-		{"id":"dc96ffcb151bb239","fromNode":"6d53f681cfddbf1f","fromSide":"right","toNode":"7ad77e10f756df6f","toSide":"left"},
 		{"id":"a8823161ac58a42a","fromNode":"e987f4cc3430b20f","fromSide":"bottom","toNode":"1578b8e1ccdd9b0e","toSide":"top"},
 		{"id":"5effc6790c4acb5e","fromNode":"1578b8e1ccdd9b0e","fromSide":"left","toNode":"40c2eee7e33b683b","toSide":"top"},
 		{"id":"7b29641ae74595d6","fromNode":"1578b8e1ccdd9b0e","fromSide":"right","toNode":"247713e7a8cf9622","toSide":"right"},
 		{"id":"9ca2b971360d5c99","fromNode":"1578b8e1ccdd9b0e","fromSide":"right","toNode":"b3d5d80d5b26a851","toSide":"right"},
-		{"id":"1ae1ffe63f295de8","fromNode":"1578b8e1ccdd9b0e","fromSide":"left","toNode":"da4028ee369d2987","toSide":"top"},
-		{"id":"c9c447e2c8ddd77d","fromNode":"6d53f681cfddbf1f","fromSide":"right","toNode":"e49fe120a233feb5","toSide":"left"},
-		{"id":"df71ef26e716ba0b","fromNode":"6d53f681cfddbf1f","fromSide":"right","toNode":"ae6fb92c9be83049","toSide":"left"}
+		{"id":"1ae1ffe63f295de8","fromNode":"1578b8e1ccdd9b0e","fromSide":"left","toNode":"da4028ee369d2987","toSide":"top"}
 	]
 }
