@@ -25,17 +25,14 @@
             "id": "67031c10cf5ce57f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
-                "viewState": {
-                  "x": -1110.6234641444526,
-                  "y": -98.58775200742588,
-                  "zoom": -1.0401316719413527
-                }
+                "file": "База знаний/Технические определения для собеседований/Unity/Инфа о втором месте работы.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Alexey Project"
+              "icon": "lucide-file",
+              "title": "Инфа о втором месте работы"
             }
           }
         ],
@@ -201,6 +198,7 @@
   },
   "active": "67031c10cf5ce57f",
   "lastOpenFiles": [
+    "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
     "База знаний/Технические определения для собеседований/Unity/Инфа о втором месте работы.md",
     "Декомпозиция работы/Vampires/Vampires.md",
     "Декомпозиция работы/Vampires/Vampires.canvas",
@@ -209,7 +207,6 @@
     "Days/2025-09-24.md",
     "Days/2025-09-23.md",
     "База знаний/Технические определения для собеседований/Unity/C шарп.md",
-    "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
     "Days/2025-09-22.md",
     "conflict-files-obsidian-git.md",
     "Декомпозиция работы/Create Resume/Create resume.md",
@@ -236,7 +233,6 @@
     "Days/2025-09-09.md",
     "Days/2025-09-10.md",
     "Days/2025-09-11.md",
-    "Days/2025-09-12.md",
     "Достижения",
     "Декомпозиция работы/Mentor Task.canvas",
     "База знаний/Recipes",
