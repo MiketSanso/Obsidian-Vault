@@ -39,17 +39,14 @@
             "id": "cd2cb679ca40e4d1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/Create Resume/Create resume.canvas",
-                "viewState": {
-                  "x": 1786.047642346993,
-                  "y": 1041.0551234487675,
-                  "zoom": -1.0007496466995842
-                }
+                "file": "База знаний/Технические определения для собеседований/Unity/ММОРПГ, и как они были устроены у нас под капотом..md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Create resume"
+              "icon": "lucide-file",
+              "title": "ММОРПГ, и как они были устроены у нас под капотом."
             }
           }
         ],
@@ -215,9 +212,9 @@
   },
   "active": "cd2cb679ca40e4d1",
   "lastOpenFiles": [
+    "Декомпозиция работы/Create Resume/Create resume.canvas",
     "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
     "База знаний/Технические определения для собеседований/Unity/ММОРПГ, и как они были устроены у нас под капотом..md",
-    "Декомпозиция работы/Create Resume/Create resume.canvas",
     "База знаний/Технические определения для собеседований/Unity/Инфа о втором месте работы.md",
     "Days/2025-09-24.md",
     "Days/2025-09-22.md",
