@@ -780,7 +780,7 @@ Addressables - это система управления ассетами по�
 ShaderLab =>
 
 HLSL
-CgFX (Самый старый от NVII)
+CgFX (Самый старый от NVIDIA, от него идут HLSL и GLSL)
 GLSL
 
 
