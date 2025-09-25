@@ -777,7 +777,7 @@ Addressables - это система управления ассетами по�
 
 **Шейдеры - какие бывают? На каких языках пишутся**
 
-ShaderLab =>
+ShaderLab =>CgFX, GLSL
 
 HLSL
 CgFX (Самый старый от NVIDIA, от него идут HLSL и GLSL)
