@@ -802,8 +802,6 @@ GLSL (OpenGL)
 
 Для чего: Генерация текстур, физика, массовые вычисления на GPU.
 
-(2) CG (C for Graphics)
-
 (3) GLSL (OpenGL Shading Language)
 
 Unity автоматически транслирует HLSL → GLSL.
