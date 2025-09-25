@@ -777,11 +777,13 @@ Addressables - это система управления ассетами по�
 
 **Шейдеры - какие бывают? На каких языках пишутся**
 
-**ShaderLab => CgFX, GLSL**
+**ShaderLab (“типа” язык (то, на чём пишутся), Язык описания шейдеров (не сам шейдерный код!).
+
+Определяет свойства, субшейдеры, пассы.)=> CgFX, GLSL**
 
 **Все языки:**
 CgFX (Самый старый от NVIDIA, от него идут HLSL и GLSL) =>
-HLSL (High-Level Shading Language)** (DirectX, Основной язык для шейдеров в Unity.)
+HLSL **(High-Level Shading Language)** (DirectX, Основной язык для шейдеров в Unity.)
 GLSL (OpenGL)
 
 **CgFX** => 
