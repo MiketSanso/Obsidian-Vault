@@ -53,17 +53,14 @@
             "id": "2722a0557c6a9f1f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/Learn English/Plan for learning english.canvas",
-                "viewState": {
-                  "x": 25.140477586098967,
-                  "y": -3584.313779496393,
-                  "zoom": -0.3333333333333334
-                }
+                "file": "Days/2025-09-27.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Plan for learning english"
+              "icon": "lucide-file",
+              "title": "2025-09-27"
             }
           }
         ],
@@ -229,9 +226,10 @@
   },
   "active": "2722a0557c6a9f1f",
   "lastOpenFiles": [
+    "Декомпозиция работы/Learn English/Plan for learning english.canvas",
+    "Days/2025-09-27.md",
     "Декомпозиция работы/Create Resume/Create resume.canvas",
     "Декомпозиция работы/Create Resume/Create resume.md",
-    "Декомпозиция работы/Learn English/Plan for learning english.canvas",
     "Декомпозиция работы/Learn English",
     "База знаний/English/Plan for learning english.md",
     "База знаний/English/English.md",
@@ -260,7 +258,6 @@
     "Декомпозиция работы/Work Decomposition.md",
     "Декомпозиция работы/Vampires",
     "Days/2025-08-22.md",
-    "Days/2025-08-16.md",
     "Декомпозиция работы/Create Resume",
     "Декомпозиция работы/AlexeyProject/Без названия.canvas",
     "Untitled.base",
