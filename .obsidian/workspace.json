@@ -62,9 +62,26 @@
               "icon": "lucide-file",
               "title": "2025-09-27"
             }
+          },
+          {
+            "id": "dd58b449374b40f8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
+                "viewState": {
+                  "x": -582,
+                  "y": 2457,
+                  "zoom": -3.0719239011831894
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Alexey Project"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -224,10 +241,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2722a0557c6a9f1f",
+  "active": "dd58b449374b40f8",
   "lastOpenFiles": [
-    "Декомпозиция работы/Learn English/Plan for learning english.canvas",
+    "conflict-files-obsidian-git.md",
     "Days/2025-09-27.md",
+    "Декомпозиция работы/Learn English/Plan for learning english.canvas",
     "Декомпозиция работы/Create Resume/Create resume.canvas",
     "Декомпозиция работы/Create Resume/Create resume.md",
     "Декомпозиция работы/Learn English",
@@ -235,7 +253,6 @@
     "База знаний/English/English.md",
     "База знаний/Технические определения для собеседований/Unity/ММОРПГ, и как они были устроены у нас под капотом..md",
     "База знаний/English",
-    "conflict-files-obsidian-git.md",
     "Days/2025-09-26.md",
     "База знаний/Технические определения для собеседований/Unity/C шарп.md",
     "Days/2025-09-25.md",
