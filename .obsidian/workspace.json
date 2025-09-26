@@ -39,14 +39,17 @@
             "id": "cd2cb679ca40e4d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "База знаний/English/Plan to learn english.md",
-                "mode": "source",
-                "source": false
+                "file": "База знаний/English/Plan for learning english.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Plan to learn english"
+              "icon": "lucide-layout-dashboard",
+              "title": "Plan for learning english"
             }
           }
         ],
@@ -212,8 +215,9 @@
   },
   "active": "cd2cb679ca40e4d1",
   "lastOpenFiles": [
+    "База знаний/English/Plan for learning english.md",
+    "База знаний/English/Plan for learning english.canvas",
     "База знаний/English/English.md",
-    "База знаний/English/Plan to learn english.md",
     "База знаний/Технические определения для собеседований/Unity/ММОРПГ, и как они были устроены у нас под капотом..md",
     "База знаний/English",
     "conflict-files-obsidian-git.md",
@@ -242,7 +246,6 @@
     "Days/2025-08-22.md",
     "Days/2025-08-16.md",
     "Obsidian Web.md",
-    "Templates/Category task.md",
     "Декомпозиция работы/Create Resume",
     "Декомпозиция работы/AlexeyProject/Без названия.canvas",
     "Untitled.base",
