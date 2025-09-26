@@ -11,7 +11,7 @@
 		{"id":"0f2bdf83917763c3","x":1915,"y":-1474,"width":250,"height":60,"color":"6","type":"text","text":"## Times"},
 		{"id":"1e60a60664d95a7d","x":1395,"y":-2491,"width":291,"height":131,"type":"text","text":"### Про факты, привычки, регулярные действия"},
 		{"id":"f1c95e1d1a5be16c","x":1760,"y":-2520,"width":810,"height":280,"type":"text","text":"\n\n| Тип предложения | Структура (подлежащее + сказуемое)                                                                       | Примеры с местом (place)                                   |\n| --------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |\n| **Утверждение** | **I / You / We / They** + V (глагол в начальной форме)  <br>**He / She / It** + V**s** (глагол + -s/-es) | I **work** in an office.  <br>She **work`s** in an office. |\n| **Отрицание**   | **I / You / We / They** + **do not (don't)** + V  <br>**He / She / It** + **does not (doesn't)** + V     | They **don't work** here.  <br>He **doesn't work** here.   |\n| **Вопрос**      | **Do** + **I / you / we / they** + V?  <br>**Does** + **he / she / it** + V?                             | **Do** you **work** here?  <br>**Does** she **work** here? |\n"},
-		{"id":"50bd3483ff28d980","x":1288,"y":-2122,"width":250,"height":60,"type":"text","text":"Модальные глаголы (Не поддаются правилу типов предл)"}
+		{"id":"50bd3483ff28d980","x":1288,"y":-2122,"width":512,"height":142,"type":"text","text":"Модальные глаголы (Не поддаются правилу типов предложения:)"}
 	],
 	"edges":[
 		{"id":"b077c09ce2470c30","fromNode":"53df5df1bc278634","fromSide":"top","toNode":"0c2fcb7d442e771a","toSide":"bottom"},
