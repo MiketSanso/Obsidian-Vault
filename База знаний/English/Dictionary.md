@@ -4,3 +4,5 @@ way - путь
 become - становиться
 such - такой, подобный
 since - после 
+requirement - требование 
+which - который
