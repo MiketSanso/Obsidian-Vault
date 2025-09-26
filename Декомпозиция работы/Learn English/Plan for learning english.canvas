@@ -9,7 +9,8 @@
 		{"id":"2b309d1ed60b5e74","x":1710,"y":-1880,"width":250,"height":60,"color":"6","type":"text","text":"## Present Simple\n"},
 		{"id":"265039f4e1d97cc8","x":2051,"y":-1880,"width":279,"height":60,"color":"6","type":"text","text":"## Present Continuous "},
 		{"id":"0f2bdf83917763c3","x":1915,"y":-1474,"width":250,"height":60,"color":"6","type":"text","text":"## Times"},
-		{"id":"1e60a60664d95a7d","x":1669,"y":-2091,"width":291,"height":91,"type":"text","text":"про факты, привычки, регулярные действия"}
+		{"id":"1e60a60664d95a7d","x":1669,"y":-2091,"width":291,"height":131,"type":"text","text":"### про факты, привычки, регулярные действия"},
+		{"id":"f1c95e1d1a5be16c","x":2080,"y":-2240,"width":920,"height":320,"type":"text","text":"#\n\n| Тип предложения | Структура (подлежащее + сказуемое)                                                                       | Примеры с местом (place)                                   |\n| --------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |\n| **Утверждение** | **I / You / We / They** + V (глагол в начальной форме)  <br>**He / She / It** + V**s** (глагол + -s/-es) | I **work** in an office.  <br>She **work`s** in an office. |\n| **Отрицание**   | **I / You / We / They** + **do not (don't)** + V  <br>**He / She / It** + **does not (doesn't)** + V     | They **don't work** here.  <br>He **doesn't work** here.   |\n| **Вопрос**      | **Do** + **I / you / we / they** + V?  <br>**Does** + **he / she / it** + V?                             | **Do** you **work** here?  <br>**Does** she **work** here? |"}
 	],
 	"edges":[
 		{"id":"b077c09ce2470c30","fromNode":"53df5df1bc278634","fromSide":"top","toNode":"0c2fcb7d442e771a","toSide":"bottom"},
@@ -20,6 +21,7 @@
 		{"id":"2a06a6d1b2e24ae7","fromNode":"0f2bdf83917763c3","fromSide":"top","toNode":"265039f4e1d97cc8","toSide":"bottom"},
 		{"id":"05b89335b5a0be4a","fromNode":"0f2bdf83917763c3","fromSide":"top","toNode":"6a740c0b6fd508df","toSide":"bottom"},
 		{"id":"7d9c37bdf986fbde","fromNode":"0f2bdf83917763c3","fromSide":"top","toNode":"11266cb3286b6709","toSide":"bottom"},
-		{"id":"df6adacaaf6bb7fd","fromNode":"2b309d1ed60b5e74","fromSide":"top","toNode":"1e60a60664d95a7d","toSide":"bottom"}
+		{"id":"df6adacaaf6bb7fd","fromNode":"2b309d1ed60b5e74","fromSide":"top","toNode":"1e60a60664d95a7d","toSide":"bottom"},
+		{"id":"8752fcb95fcd97e2","fromNode":"2b309d1ed60b5e74","fromSide":"top","toNode":"f1c95e1d1a5be16c","toSide":"bottom"}
 	]
 }
