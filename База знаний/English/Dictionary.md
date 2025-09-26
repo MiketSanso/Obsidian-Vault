@@ -9,3 +9,5 @@ which - который
 bake - печь, запекать
 Instead - вместо
 overruled  - отменено
+defined - определённый
+hold - держать
