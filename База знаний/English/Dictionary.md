@@ -8,3 +8,4 @@ requirement - требование
 which - который
 bake - печь, запекать
 Instead - вместо
+overruled  - отменено
