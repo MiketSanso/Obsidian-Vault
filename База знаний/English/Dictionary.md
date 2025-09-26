@@ -12,3 +12,4 @@ overruled  - отменено
 defined - определённый
 hold - держать
 predicted - предсказанный 
+indeed - действительно 
