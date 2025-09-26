@@ -25,14 +25,17 @@
             "id": "67031c10cf5ce57f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "База знаний/Технические определения для собеседований/Unity/C шарп.md",
-                "mode": "source",
-                "source": false
+                "file": "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
+                "viewState": {
+                  "x": -555.9250919272281,
+                  "y": 212.9684677981264,
+                  "zoom": -1.2360430484991953
+                }
               },
-              "icon": "lucide-file",
-              "title": "C шарп"
+              "icon": "lucide-layout-dashboard",
+              "title": "Alexey Project"
             }
           }
         ],
@@ -198,6 +201,7 @@
   },
   "active": "67031c10cf5ce57f",
   "lastOpenFiles": [
+    "База знаний/Технические определения для собеседований/Unity/C шарп.md",
     "Декомпозиция работы/Learn English/Plan for learning english.canvas",
     "Декомпозиция работы/Learn English",
     "База знаний/English/Plan for learning english.md",
@@ -213,7 +217,6 @@
     "Days/2025-09-25.md",
     "База знаний/Технические определения для собеседований/Unity/Инфа о втором месте работы.md",
     "База знаний/Технические определения для собеседований/Unity/Подготовка к собесу.md",
-    "База знаний/Технические определения для собеседований/Unity/C шарп.md",
     "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
     "Декомпозиция работы/Vampires/Vampires.md",
     "Декомпозиция работы/Vampires/Vampires.canvas",
@@ -242,7 +245,6 @@
     "База знаний/Recipes",
     "Декомпозиция работы/Untitled.canvas",
     "Templates/Decomposition programm.canvas",
-    "Без названия.canvas",
-    "Obsidian Vault/Без названия.canvas"
+    "Без названия.canvas"
   ]
 }
