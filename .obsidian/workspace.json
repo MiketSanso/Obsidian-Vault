@@ -39,17 +39,14 @@
             "id": "cd2cb679ca40e4d1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "База знаний/English/Plan for learning english.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Декомпозиция работы/Create Resume/Create resume.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Plan for learning english"
+              "icon": "lucide-file",
+              "title": "Create resume"
             }
           }
         ],
@@ -215,8 +212,9 @@
   },
   "active": "cd2cb679ca40e4d1",
   "lastOpenFiles": [
+    "Декомпозиция работы/Learn English/Plan for learning english.canvas",
+    "Декомпозиция работы/Learn English",
     "База знаний/English/Plan for learning english.md",
-    "База знаний/English/Plan for learning english.canvas",
     "База знаний/English/English.md",
     "База знаний/Технические определения для собеседований/Unity/ММОРПГ, и как они были устроены у нас под капотом..md",
     "База знаний/English",
@@ -257,7 +255,6 @@
     "Achivenments",
     "База знаний/Films",
     "Декомпозиция работы/Mentor Task.canvas",
-    "База знаний/Recipes",
     "Без названия.canvas",
     "Obsidian Vault/Без названия.canvas"
   ]
