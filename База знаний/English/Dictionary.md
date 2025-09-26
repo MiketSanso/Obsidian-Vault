@@ -7,3 +7,4 @@ since - после
 requirement - требование 
 which - который
 bake - печь, запекать
+Instead - вместо
