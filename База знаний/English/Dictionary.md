@@ -34,3 +34,4 @@ that - тот
 which - который
 us - нам
 Well - что ж
+though [ðəʊ] - хотя
