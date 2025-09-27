@@ -15,3 +15,4 @@ predicted - предсказанный
 indeed - действительно 
 embarking - погружающийся, приступающий
 journey - путешествие 
+demanded/required - требуемый
