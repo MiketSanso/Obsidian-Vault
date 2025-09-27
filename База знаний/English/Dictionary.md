@@ -25,12 +25,15 @@ fill - заполнить
 (god-) awful - ужасный/отвратительный
 Vore - вор
 entirely - полностью 
+reconvalescence - выз
 
 2)
 bit - немного
 
 
 3)
+illness/ill - болезнь/болен
+still - все ещё
 weak - слабый
 that - тот
 which - который
