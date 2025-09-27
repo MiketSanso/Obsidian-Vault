@@ -18,3 +18,4 @@ journey - путешествие
 demanded/required - требуемый
 ruthlessly [ˈruːθlɪslɪ] - безжалостно
 that - тот
+stranded - скрученный, переплетённый
