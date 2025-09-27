@@ -43,3 +43,4 @@ Well - что ж
 though [ðəʊ] - хотя
 so - 
 By the way - между прочим
+per - по/в
