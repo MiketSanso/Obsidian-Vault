@@ -42,3 +42,4 @@ us - нам
 Well - что ж
 though [ðəʊ] - хотя
 so - 
+By the way - между прочим
