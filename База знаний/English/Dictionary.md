@@ -17,3 +17,4 @@ embarking - погружающийся, приступающий
 journey - путешествие 
 demanded/required - требуемый
 ruthlessly [ˈruːθlɪslɪ] - безжалостно
+that - тот
