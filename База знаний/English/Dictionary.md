@@ -27,11 +27,14 @@ Vore - вор
 entirely - полностью 
 
 2)
+bit - немного
 
 
 3)
+weak - слабый
 that - тот
 which - который
 us - нам
 Well - что ж
 though [ðəʊ] - хотя
+so - 
