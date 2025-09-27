@@ -1,3 +1,5 @@
+
+1)
 presence - присутствие 
 each - каждый
 way - путь
@@ -5,7 +7,6 @@ become - становиться
 such - такой, подобный
 since - после 
 requirement - требование 
-which - который
 bake - печь, запекать
 Instead - вместо
 overruled  - отменено
@@ -17,9 +18,15 @@ embarking - погружающийся, приступающий
 journey - путешествие 
 demanded/required - требуемый
 ruthlessly [ˈruːθlɪslɪ] - безжалостно
-that - тот
 stranded - скрученный, переплетённый
 seemingly - по-видимому
 brim - край (полный до краёв)
 fill - заполнить 
 (god-) awful - ужасный/отвратительный
+
+2)
+
+
+3)
+that - тот
+which - который
