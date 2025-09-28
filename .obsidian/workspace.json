@@ -67,14 +67,17 @@
             "id": "dd58b449374b40f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "База знаний/Статьи/Лень.md",
-                "mode": "source",
-                "source": false
+                "file": "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
+                "viewState": {
+                  "x": -582,
+                  "y": 2457,
+                  "zoom": -3.0719239011831894
+                }
               },
-              "icon": "lucide-file",
-              "title": "Лень"
+              "icon": "lucide-layout-dashboard",
+              "title": "Alexey Project"
             }
           }
         ],
@@ -170,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний/Статьи/Лень.md",
+                "file": "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Лень"
+              "title": "Outgoing links from Alexey Project"
             }
           },
           {
@@ -240,8 +243,9 @@
   },
   "active": "dd58b449374b40f8",
   "lastOpenFiles": [
-    "База знаний/Статьи/Мотивация 21 века.md",
+    "Декомпозиция работы/Alexey Project/Alexey Project.md",
     "База знаний/Статьи/Лень.md",
+    "База знаний/Статьи/Мотивация 21 века.md",
     "Days/2025-09-28.md",
     "База знаний/English/Dictionary.md",
     "Days/2025-09-27.md",
@@ -270,7 +274,6 @@
     "Декомпозиция работы/Create Resume/Create resume.md",
     "Декомпозиция работы/Learn English",
     "База знаний/English",
-    "База знаний/Технические определения для собеседований/Unity/C шарп.md",
     "Декомпозиция работы/Vampires/Vampires.canvas",
     "Декомпозиция работы/Vampires",
     "Декомпозиция работы/Create Resume",
