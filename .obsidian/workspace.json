@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Days/2025-09-28.md",
+                "file": "База знаний/Статьи/Лень.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-28"
+              "title": "Лень"
             }
           }
         ],
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Days/2025-09-28.md",
+                "file": "База знаний/Статьи/Лень.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-09-28"
+              "title": "Outgoing links from Лень"
             }
           },
           {
@@ -240,8 +240,10 @@
   },
   "active": "dd58b449374b40f8",
   "lastOpenFiles": [
-    "База знаний/English/Dictionary.md",
+    "База знаний/Статьи/Мотивация 21 века.md",
+    "База знаний/Статьи/Лень.md",
     "Days/2025-09-28.md",
+    "База знаний/English/Dictionary.md",
     "Days/2025-09-27.md",
     "Days/2025-09-26.md",
     "Days/2025-09-24.md",
@@ -269,8 +271,6 @@
     "Декомпозиция работы/Learn English",
     "База знаний/English",
     "База знаний/Технические определения для собеседований/Unity/C шарп.md",
-    "Days/2025-09-25.md",
-    "Days/2025-09-22.md",
     "Декомпозиция работы/Vampires/Vampires.canvas",
     "Декомпозиция работы/Vampires",
     "Декомпозиция работы/Create Resume",
