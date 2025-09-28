@@ -32,6 +32,7 @@ bit - немного
 
 
 3)
+Observable - наблюдаемый
 illness/ill - болезнь/болен
 still - все ещё
 weak - слабый
