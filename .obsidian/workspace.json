@@ -142,11 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Декомпозиция работы/Create Resume/Create resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Create resume"
             }
           },
           {
