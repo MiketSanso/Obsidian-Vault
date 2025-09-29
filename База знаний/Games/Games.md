@@ -1,3 +1,0 @@
-
-[[Stalker]]
-[[In the plans]]
