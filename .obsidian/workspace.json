@@ -27,15 +27,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Без названия.canvas",
+                "file": "Декомпозиция работы/Learn English/Plan for learning english.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 178.6877909166756,
+                  "y": -3573.83396040453,
+                  "zoom": -0.556979682615162
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Без названия"
+              "title": "Plan for learning english"
             }
           }
         ],
@@ -201,10 +201,11 @@
   },
   "active": "67031c10cf5ce57f",
   "lastOpenFiles": [
-    "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
-    "Без названия.canvas",
-    "Декомпозиция работы/Alexey Project/Alexey Project.md",
+    "База знаний/English/Dictionary.md",
     "Декомпозиция работы/Learn English/Plan for learning english.canvas",
+    "Без названия.canvas",
+    "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
+    "Декомпозиция работы/Alexey Project/Alexey Project.md",
     "Декомпозиция работы/Create Resume/Create resume.canvas",
     "Декомпозиция работы/Create Resume/Create resume.md",
     "База знаний/Технические определения для собеседований/Unity/Инфа о втором месте работы.md",
@@ -213,7 +214,6 @@
     "conflict-files-obsidian-git.md",
     "Tasks",
     "База знаний/Статьи/Лень.md",
-    "База знаний/English/Dictionary.md",
     "База знаний/Технические определения для собеседований/Unity/C шарп.md",
     "Декомпозиция работы/Learn English",
     "База знаний/English/Plan for learning english.md",
