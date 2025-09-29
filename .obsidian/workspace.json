@@ -27,15 +27,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
+                "file": "Без названия.canvas",
                 "viewState": {
-                  "x": -800.8989628932702,
-                  "y": 1694.2016352750172,
-                  "zoom": -2.867409738593018
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Alexey Project"
+              "title": "Без названия"
             }
           }
         ],
@@ -201,8 +201,9 @@
   },
   "active": "67031c10cf5ce57f",
   "lastOpenFiles": [
-    "Декомпозиция работы/Alexey Project/Alexey Project.md",
     "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
+    "Без названия.canvas",
+    "Декомпозиция работы/Alexey Project/Alexey Project.md",
     "Декомпозиция работы/Learn English/Plan for learning english.canvas",
     "Декомпозиция работы/Create Resume/Create resume.canvas",
     "Декомпозиция работы/Create Resume/Create resume.md",
@@ -244,7 +245,6 @@
     "Достижения",
     "Декомпозиция работы/Mentor Task.canvas",
     "Декомпозиция работы/Untitled.canvas",
-    "Templates/Decomposition programm.canvas",
-    "Без названия.canvas"
+    "Templates/Decomposition programm.canvas"
   ]
 }
