@@ -142,12 +142,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Декомпозиция работы/Create Resume/Create resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Create resume"
+              "title": "Outgoing links"
             }
           },
           {
@@ -191,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -210,8 +209,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f65b398fdbc8ece",
+  "active": "0818b71d227befe7",
   "lastOpenFiles": [
+    "Декомпозиция работы/Create Resume/Create resume.md",
+    "conflict-files-obsidian-git.md",
+    "Без названия.canvas",
+    "Tasks",
+    "Days/2025-09-29.md",
+    "Days",
     "База знаний/Games/Stalker/Mods.md",
     "Tasks/Готовка/Приготовить Мясо по-Французски.md",
     "Tasks/Готовка/Приготовить плов.md",
@@ -236,10 +241,7 @@
     "База знаний/Заметки/Список покупок.md",
     "База знаний/Заметки/Нерасформированные задачи (По убыванию важности).md",
     "База знаний/Технические определения для собеседований/Unity/Инфа о втором месте работы.md",
-    "База знаний/Технические определения для собеседований/Unity/ММОРПГ, и как они были устроены у нас под капотом..md",
-    "Декомпозиция работы/Work Decomposition.md",
     "Декомпозиция работы/Learn English/Plan for learning english.canvas",
-    "База знаний/English/Plan for learning english.md",
     "Декомпозиция работы/Create Resume/Create resume.canvas",
     "Декомпозиция работы/Learn English",
     "База знаний/English",
@@ -253,10 +255,7 @@
     "Templates/Decomposition programm.canvas",
     "Достижения/Спортивные показатели/Untitled",
     "Достижения/Спортивные показатели",
-    "Achivenments",
-    "База знаний/Films",
     "Декомпозиция работы/Mentor Task.canvas",
-    "Без названия.canvas",
     "Obsidian Vault/Без названия.canvas"
   ]
 }
