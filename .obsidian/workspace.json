@@ -25,17 +25,14 @@
             "id": "67031c10cf5ce57f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/Create Resume/Create resume.canvas",
-                "viewState": {
-                  "x": 97.5,
-                  "y": 385,
-                  "zoom": -1.8962954803693195
-                }
+                "file": "Days/2025-09-29.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Create resume"
+              "icon": "lucide-file",
+              "title": "2025-09-29"
             }
           }
         ],
@@ -201,9 +198,10 @@
   },
   "active": "67031c10cf5ce57f",
   "lastOpenFiles": [
+    "Декомпозиция работы/Create Resume/Create resume.canvas",
+    "Days/2025-09-29.md",
     "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
     "Декомпозиция работы/Learn English/Plan for learning english.canvas",
-    "Декомпозиция работы/Create Resume/Create resume.canvas",
     "База знаний/Технические определения для собеседований/Unity/C шарп.md",
     "Декомпозиция работы/Learn English",
     "База знаний/English/Plan for learning english.md",
@@ -236,7 +234,6 @@
     "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
     "Декомпозиция работы/AlexeyProject/Alexey Project.md",
     "Days/2025-09-19.md",
-    "База знаний/Предметы (КОЛЛЕДЖ)/История.md",
     "Untitled.base",
     "Декомпозиция работы/AlexeyProject/Без названия.canvas",
     "Декомпозиция работы/AlexeyProject",
