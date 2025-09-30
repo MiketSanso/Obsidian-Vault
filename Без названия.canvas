@@ -6,13 +6,15 @@
 		{"id":"297bf35120c93b7c","x":-460,"y":-37,"width":250,"height":151,"type":"text","text":"Изучить новые исследования о питательной ценности доступных кормовых добавок."},
 		{"id":"45bc85578333c3cb","x":-85,"y":200,"width":250,"height":116,"type":"text","text":"Внести все эти данные в единую таблицу-шаблон для последующего моделирования."},
 		{"id":"b4f0270c347d8b89","x":356,"y":-200,"width":250,"height":83,"type":"text","text":"Рассчитать экономию по новому плану"},
-		{"id":"e3dc7290787fbf27","x":-710,"y":-330,"width":250,"height":293,"color":"5","type":"text","text":"Backlog:\n\n- Сменить приложение для планирования.\n- Обратиться к Савёлову по поводу документов на новый сарай.\n- Интегрировать в работу новые инструменты от Романова."}
+		{"id":"e3dc7290787fbf27","x":-710,"y":-580,"width":250,"height":303,"color":"5","type":"text","text":"**BACKLOG:**\n\n- Сменить приложение для планирования.\n- Обратиться к Савёлову по поводу документов на новый сарай.\n- Интегрировать в работу новые инструменты от Романова."},
+		{"id":"828f72e152036df1","x":7,"y":-408,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"6ba8a36ed0fa45ff","fromNode":"94676c0ee85e09cc","fromSide":"top","toNode":"2a8ce68ff5557182","toSide":"bottom"},
 		{"id":"a997745cd94a3442","fromNode":"94676c0ee85e09cc","fromSide":"right","toNode":"094bf119478245a5","toSide":"left"},
 		{"id":"839aba7f760c88fd","fromNode":"94676c0ee85e09cc","fromSide":"left","toNode":"297bf35120c93b7c","toSide":"right"},
 		{"id":"3da4590238fda426","fromNode":"94676c0ee85e09cc","fromSide":"bottom","toNode":"45bc85578333c3cb","toSide":"top"},
-		{"id":"63f7d67ad5d2e985","fromNode":"094bf119478245a5","fromSide":"top","toNode":"b4f0270c347d8b89","toSide":"bottom"}
+		{"id":"63f7d67ad5d2e985","fromNode":"094bf119478245a5","fromSide":"top","toNode":"b4f0270c347d8b89","toSide":"bottom"},
+		{"id":"35d221f0b1c90233","fromNode":"2a8ce68ff5557182","fromSide":"top","toNode":"828f72e152036df1","toSide":"bottom"}
 	]
 }
