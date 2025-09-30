@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"94676c0ee85e09cc","type":"text","text":"# Оптимизировать рацион","x":-80,"y":-20,"width":240,"height":116,"color":"3"},
 		{"id":"2a8ce68ff5557182","type":"text","text":"Собрать последние данные по надоям и привесам из базы данных.","x":-85,"y":-220,"width":250,"height":100,"color":"6"},
-		{"id":"297bf35120c93b7c","x":-460,"y":-37,"width":250,"height":151,"type":"text","text":"Изучить новые исследования о питательной ценности доступных кормовых добавок."},
+		{"id":"297bf35120c93b7c","x":-460,"y":-37,"width":250,"height":151,"color":"6","type":"text","text":"Изучить новые исследования о питательной ценности доступных кормовых добавок."},
 		{"id":"45bc85578333c3cb","x":-85,"y":200,"width":250,"height":116,"color":"6","type":"text","text":"Внести все эти данные в единую таблицу-шаблон для последующего моделирования."},
 		{"id":"e3dc7290787fbf27","x":-710,"y":-580,"width":250,"height":303,"color":"5","type":"text","text":"**BACKLOG:**\n\n- Сменить приложение для планирования.\n- Обратиться к Савёлову по поводу документов на новый сарай.\n- Интегрировать в работу новые инструменты от Романова."},
 		{"id":"828f72e152036df1","x":107,"y":-376,"width":173,"height":60,"color":"3","type":"text","text":"Собрать данные по надоям"},
@@ -11,7 +11,9 @@
 		{"id":"ca86688eb83c4e14","x":340,"y":200,"width":250,"height":89,"color":"4","type":"text","text":"Сравнить экономическую выгоду в сравнении с другими кормами"},
 		{"id":"b4f0270c347d8b89","x":360,"y":-253,"width":250,"height":83,"color":"4","type":"text","text":"Рассчитать экономию по новому плану"},
 		{"id":"094bf119478245a5","x":235,"y":-6,"width":250,"height":89,"color":"6","type":"text","text":"Проанализировать текущую себестоимость кормовой смеси."},
-		{"id":"d5c1dba35657cb78","x":540,"y":-29,"width":210,"height":143,"color":"3","type":"text","text":"Выстроить план перехода на наиболее выгодную кормовую смесь и его стоимость"}
+		{"id":"d5c1dba35657cb78","x":540,"y":-29,"width":210,"height":143,"color":"3","type":"text","text":"Выстроить план перехода на наиболее выгодную кормовую смесь и его стоимость"},
+		{"id":"b9cefbbe5ac20b02","x":-299,"y":355,"width":250,"height":60,"color":"4","type":"text","text":"Поменять шаблон"},
+		{"id":"0bdb3b7d7eb65fc9","x":120,"y":355,"width":250,"height":60,"color":"1","type":"text","text":"Внести данные в новую таблицу"}
 	],
 	"edges":[
 		{"id":"6ba8a36ed0fa45ff","fromNode":"94676c0ee85e09cc","fromSide":"top","toNode":"2a8ce68ff5557182","toSide":"bottom"},
@@ -23,6 +25,8 @@
 		{"id":"909f10f4673ea8f5","fromNode":"2a8ce68ff5557182","fromSide":"top","toNode":"6c26f603bc28babc","toSide":"bottom"},
 		{"id":"e7b30035c3fa7541","fromNode":"2a8ce68ff5557182","fromSide":"top","toNode":"9150bf74bf8bd1d9","toSide":"bottom"},
 		{"id":"e989b706e85728e6","fromNode":"094bf119478245a5","fromSide":"bottom","toNode":"ca86688eb83c4e14","toSide":"top"},
-		{"id":"4fcaad46c1549127","fromNode":"094bf119478245a5","fromSide":"right","toNode":"d5c1dba35657cb78","toSide":"left"}
+		{"id":"4fcaad46c1549127","fromNode":"094bf119478245a5","fromSide":"right","toNode":"d5c1dba35657cb78","toSide":"left"},
+		{"id":"17c5934b454783f4","fromNode":"45bc85578333c3cb","fromSide":"bottom","toNode":"b9cefbbe5ac20b02","toSide":"top"},
+		{"id":"36f2db844b734373","fromNode":"45bc85578333c3cb","fromSide":"bottom","toNode":"0bdb3b7d7eb65fc9","toSide":"top"}
 	]
 }
