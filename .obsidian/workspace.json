@@ -41,15 +41,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Декомпозиция работы/Learn English/Plan for learning english.canvas",
+                "file": "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
                 "viewState": {
-                  "x": -593.9251361271021,
-                  "y": -521.0864093368136,
-                  "zoom": -0.6243388546017361
+                  "x": 757.4352420368982,
+                  "y": 127.17999342931529,
+                  "zoom": -1.0719239011831891
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Plan for learning english"
+              "title": "Alexey Project"
             }
           }
         ],
@@ -214,8 +214,9 @@
   },
   "active": "cd2cb679ca40e4d1",
   "lastOpenFiles": [
-    "База знаний/English/Dictionary.md",
+    "База знаний/Статьи/История зарождения любви к психологии.md",
     "Декомпозиция работы/Learn English/Plan for learning english.canvas",
+    "База знаний/English/Dictionary.md",
     "База знаний/English/Plan for learning english.md",
     "База знаний/English/English.md",
     "Days/2025-09-30.md",
