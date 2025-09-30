@@ -19,10 +19,10 @@
 		{"id":"265039f4e1d97cc8","type":"text","text":"## Present Continuous ","x":3120,"y":-3591,"width":279,"height":60,"color":"6"},
 		{"id":"11266cb3286b6709","type":"text","text":"## Future Continuous","x":3380,"y":-1590,"width":260,"height":60,"color":"6"},
 		{"id":"6a740c0b6fd508df","type":"text","text":"## Future Simple\n","x":3640,"y":-2411,"width":250,"height":50,"color":"6"},
-		{"id":"6046879c1d98d84a","type":"text","text":"Moods","x":-434,"y":-690,"width":250,"height":60,"color":"6"},
+		{"id":"6046879c1d98d84a","type":"text","text":"### Moods","x":-434,"y":-690,"width":250,"height":60,"color":"6"},
 		{"id":"ad871b2a26b90bf9","type":"text","text":"1. **Скрытое подлежащее:** В предложении с императивом **всегда подразумевается подлежащее \"you\"** (ты/вы), но оно никогда не ставится.\n    \n    - _(You) Close the door._ → **Close** the door.\n        \n2. **Усилитель \"do\":** Для большей вежливости или эмоциональности в утвердительной форме иногда ставят `do`.\n    \n    - **Do have** some more tea. (Ну, попей еще чаю.) — Усиленное, теплое приглашение.\n        \n3. **Обращение через запятую:** Если вы называете человека по имени, имя отделяется запятой.\n    \n    - **John, come** here. (Джон, иди сюда.)\n        \n    - **Please, don't cry.** (Пожалуйста, не плачь.)","x":-1440,"y":-1120,"width":710,"height":300,"color":"4"},
 		{"id":"a06634d4591012ce","type":"text","text":"Форма императива очень проста: это просто **глагол в его основной форме (инфинитив без частицы \"to\")**.\n\n- **Infinitiv (to be)** → **Imperative (Be)** -> **Be** careful! (Будь осторожен!)\n    \n- **Infinitiv (to go)** → **Imperative (Go)** -> **Go** away! (Уходи!)\n    \n\n**Отрицательная форма** образуется с помощью **Don't**:\n\n- **Don't go** there. (Не ходи туда.)\n    \n- **Don't be** silly. (Не будь глупым.)","x":-1385,"y":-559,"width":595,"height":260,"color":"4"},
-		{"id":"774015714899487f","type":"text","text":"**Imperative**","x":-1212,"y":-690,"width":250,"height":60,"color":"6"}
+		{"id":"774015714899487f","type":"text","text":"#### **Imperative**","x":-1212,"y":-690,"width":250,"height":60,"color":"6"}
 	],
 	"edges":[
 		{"id":"b077c09ce2470c30","fromNode":"53df5df1bc278634","fromSide":"top","toNode":"0c2fcb7d442e771a","toSide":"bottom"},
