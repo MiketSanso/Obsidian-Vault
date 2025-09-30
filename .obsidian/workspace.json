@@ -29,8 +29,8 @@
               "state": {
                 "file": "Без названия.canvas",
                 "viewState": {
-                  "x": -30,
-                  "y": -61.5,
+                  "x": 51,
+                  "y": -49.5,
                   "zoom": 0
                 }
               },
@@ -184,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
