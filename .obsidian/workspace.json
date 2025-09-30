@@ -4,53 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "3d6e48500d2da1f2",
+        "id": "b67feab2fca0ec91",
         "type": "tabs",
         "children": [
           {
-            "id": "abe4f36d8c3ea1ee",
+            "id": "d52b4acc38e47e15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Технические определения для собеседований/Unity/Инфа о втором месте работы.md",
+                "file": "Obsidian Web.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Инфа о втором месте работы"
+              "title": "Obsidian Web"
             }
           },
           {
-            "id": "6d28afab8ff298ee",
+            "id": "67031c10cf5ce57f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "База знаний/Технические определения для собеседований/Unity/Подготовка к собесу.md",
-                "mode": "source",
-                "source": false
+                "file": "Декомпозиция работы/Learn English/Plan for learning english.canvas",
+                "viewState": {
+                  "x": -4.651411779059313,
+                  "y": -3530.051464238387,
+                  "zoom": -0.556979682615162
+                }
               },
-              "icon": "lucide-file",
-              "title": "Подготовка к собесу"
-            }
-          },
-          {
-            "id": "cd2cb679ca40e4d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Декомпозиция работы/Create Resume/Create resume.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Create resume"
+              "icon": "lucide-layout-dashboard",
+              "title": "Plan for learning english"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +62,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -142,11 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
@@ -198,64 +188,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "bases:Create new base": false,
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0818b71d227befe7",
+  "active": "67031c10cf5ce57f",
   "lastOpenFiles": [
-    "Декомпозиция работы/Create Resume/Create resume.md",
-    "conflict-files-obsidian-git.md",
-    "Без названия.canvas",
-    "Tasks",
-    "Days/2025-09-29.md",
-    "Days",
-    "База знаний/Games/Stalker/Mods.md",
-    "Tasks/Готовка/Приготовить Мясо по-Французски.md",
-    "Tasks/Готовка/Приготовить плов.md",
-    "Декомпозиция работы/Alexey Project/Alexey Project.md",
-    "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
-    "База знаний/Статьи/Лень.md",
-    "База знаний/Статьи/Мотивация 21 века.md",
-    "Days/2025-09-28.md",
     "База знаний/English/Dictionary.md",
-    "Days/2025-09-27.md",
-    "Days/2025-09-26.md",
-    "Days/2025-09-24.md",
-    "Days/2025-09-17.md",
-    "Days/2025-09-13.md",
-    "Days/2025-09-05.md",
-    "Days/2025-08-27.md",
-    "Days/2025-08-24.md",
-    "Days/2025-08-20.md",
-    "Days/2025-08-17.md",
-    "База знаний/English/English.md",
-    "База знаний/Предметы (КОЛЛЕДЖ)/История.md",
-    "База знаний/Заметки/Список покупок.md",
-    "База знаний/Заметки/Нерасформированные задачи (По убыванию важности).md",
-    "База знаний/Технические определения для собеседований/Unity/Инфа о втором месте работы.md",
     "Декомпозиция работы/Learn English/Plan for learning english.canvas",
+    "Без названия.canvas",
+    "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
+    "Декомпозиция работы/Alexey Project/Alexey Project.md",
     "Декомпозиция работы/Create Resume/Create resume.canvas",
+    "Декомпозиция работы/Create Resume/Create resume.md",
+    "База знаний/Технические определения для собеседований/Unity/Инфа о втором месте работы.md",
+    "База знаний/Технические определения для собеседований/Unity/ММОРПГ, и как они были устроены у нас под капотом..md",
+    "Days/2025-09-29.md",
+    "conflict-files-obsidian-git.md",
+    "Tasks",
+    "База знаний/Статьи/Лень.md",
+    "База знаний/Технические определения для собеседований/Unity/C шарп.md",
     "Декомпозиция работы/Learn English",
+    "База знаний/English/Plan for learning english.md",
+    "База знаний/English/English.md",
     "База знаний/English",
+    "Days/2025-09-26.md",
+    "Achivenments/Work.md",
+    "Achivenments/Sport.md",
+    "Achivenments/Completed games.md",
+    "Achivenments/Achievements.md",
+    "Achivenments",
+    "Days/2025-09-25.md",
+    "База знаний/Технические определения для собеседований/Unity/Подготовка к собесу.md",
+    "Декомпозиция работы/Vampires/Vampires.md",
     "Декомпозиция работы/Vampires/Vampires.canvas",
     "Декомпозиция работы/Vampires",
+    "Days/2025-09-24.md",
+    "Days/2025-09-23.md",
+    "Days/2025-09-22.md",
     "Декомпозиция работы/Create Resume",
-    "Декомпозиция работы/AlexeyProject/Без названия.canvas",
-    "Untitled.base",
     "Декомпозиция работы/Alexey Project",
-    "Декомпозиция работы/Alexey Project.canvas",
-    "Templates/Decomposition programm.canvas",
-    "Достижения/Спортивные показатели/Untitled",
-    "Достижения/Спортивные показатели",
+    "База знаний/Статьи/Подробная автобиография.md",
+    "Days/2025-09-21.md",
+    "Days/2025-09-20.md",
+    "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
+    "Untitled.base",
+    "Декомпозиция работы/AlexeyProject/Без названия.canvas",
+    "Декомпозиция работы/AlexeyProject",
+    "Достижения",
     "Декомпозиция работы/Mentor Task.canvas",
-    "Obsidian Vault/Без названия.canvas"
+    "Декомпозиция работы/Untitled.canvas",
+    "Templates/Decomposition programm.canvas"
   ]
 }
