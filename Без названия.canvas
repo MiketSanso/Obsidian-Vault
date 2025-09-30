@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"94676c0ee85e09cc","x":-80,"y":-20,"width":120,"height":80,"type":"text","text":"# АПК"},
-		{"id":"2a8ce68ff5557182","x":-142,"y":-169,"width":250,"height":60,"type":"text","text":""}
-	],
-	"edges":[
-		{"id":"6ba8a36ed0fa45ff","fromNode":"94676c0ee85e09cc","fromSide":"top","toNode":"2a8ce68ff5557182","toSide":"bottom"}
-	]
-}
