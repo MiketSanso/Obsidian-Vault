@@ -27,15 +27,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Декомпозиция работы/Learn English/Plan for learning english.canvas",
+                "file": "Без названия.canvas",
                 "viewState": {
-                  "x": -4.651411779059313,
-                  "y": -3530.051464238387,
-                  "zoom": -0.556979682615162
+                  "x": -17,
+                  "y": -54.5,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Plan for learning english"
+              "title": "Без названия"
             }
           }
         ],
@@ -201,8 +201,8 @@
   },
   "active": "67031c10cf5ce57f",
   "lastOpenFiles": [
-    "База знаний/English/Dictionary.md",
     "Декомпозиция работы/Learn English/Plan for learning english.canvas",
+    "База знаний/English/Dictionary.md",
     "Без названия.canvas",
     "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
     "Декомпозиция работы/Alexey Project/Alexey Project.md",
