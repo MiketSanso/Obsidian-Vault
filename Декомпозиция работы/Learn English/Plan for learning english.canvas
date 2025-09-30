@@ -19,7 +19,8 @@
 		{"id":"1925457e90e9b966","type":"text","text":"#### **Глагол-связка TO BE**\n\nГлагол **to be** (быть) в Present Simple ведет себя особо: он не нуждается в вспомогательных глаголах.\n\n- **Утверждение:** I **am**, He/She/It **is**, You/We/They **are**\n    \n- **Отрицание:** I **am not**, He/She/It **is not (isn't)**, You/We/They **are not (aren't)**\n    \n- **Вопрос:** **Am** I? **Is** he? **Are** you?","x":1640,"y":-3311,"width":607,"height":222,"color":"4"},
 		{"id":"6046879c1d98d84a","x":-434,"y":-500,"width":250,"height":60,"type":"text","text":"Moods"},
 		{"id":"774015714899487f","x":-865,"y":-503,"width":250,"height":60,"type":"text","text":"**Imperative**"},
-		{"id":"ad871b2a26b90bf9","x":-1095,"y":-900,"width":710,"height":300,"type":"text","text":"1. **Скрытое подлежащее:** В предложении с императивом **всегда подразумевается подлежащее \"you\"** (ты/вы), но оно никогда не ставится.\n    \n    - _(You) Close the door._ → **Close** the door.\n        \n2. **Усилитель \"do\":** Для большей вежливости или эмоциональности в утвердительной форме иногда ставят `do`.\n    \n    - **Do have** some more tea. (Ну, попей еще чаю.) — Усиленное, теплое приглашение.\n        \n3. **Обращение через запятую:** Если вы называете человека по имени, имя отделяется запятой.\n    \n    - **John, come** here. (Джон, иди сюда.)\n        \n    - **Please, don't cry.** (Пожалуйста, не плачь.)"}
+		{"id":"ad871b2a26b90bf9","x":-1095,"y":-900,"width":710,"height":300,"type":"text","text":"1. **Скрытое подлежащее:** В предложении с императивом **всегда подразумевается подлежащее \"you\"** (ты/вы), но оно никогда не ставится.\n    \n    - _(You) Close the door._ → **Close** the door.\n        \n2. **Усилитель \"do\":** Для большей вежливости или эмоциональности в утвердительной форме иногда ставят `do`.\n    \n    - **Do have** some more tea. (Ну, попей еще чаю.) — Усиленное, теплое приглашение.\n        \n3. **Обращение через запятую:** Если вы называете человека по имени, имя отделяется запятой.\n    \n    - **John, come** here. (Джон, иди сюда.)\n        \n    - **Please, don't cry.** (Пожалуйста, не плачь.)"},
+		{"id":"a06634d4591012ce","x":-1040,"y":-339,"width":595,"height":260,"type":"text","text":"Форма императива очень проста: это просто **глагол в его основной форме (инфинитив без частицы \"to\")**.\n\n- **Infinitiv (to be)** → **Imperative (Be)** -> **Be** careful! (Будь осторожен!)\n    \n- **Infinitiv (to go)** → **Imperative (Go)** -> **Go** away! (Уходи!)\n    \n\n**Отрицательная форма** образуется с помощью **Don't**:\n\n- **Don't go** there. (Не ходи туда.)\n    \n- **Don't be** silly. (Не будь глупым.)"}
 	],
 	"edges":[
 		{"id":"b077c09ce2470c30","fromNode":"53df5df1bc278634","fromSide":"top","toNode":"0c2fcb7d442e771a","toSide":"bottom"},
@@ -40,6 +41,7 @@
 		{"id":"7b6da17569a15d28","fromNode":"f1c95e1d1a5be16c","fromSide":"right","toNode":"1925457e90e9b966","toSide":"left"},
 		{"id":"79d831945f14b813","fromNode":"0c2fcb7d442e771a","fromSide":"top","toNode":"6046879c1d98d84a","toSide":"bottom"},
 		{"id":"8c78bd1663596875","fromNode":"6046879c1d98d84a","fromSide":"left","toNode":"774015714899487f","toSide":"right"},
-		{"id":"a3981243777251bc","fromNode":"774015714899487f","fromSide":"top","toNode":"ad871b2a26b90bf9","toSide":"bottom"}
+		{"id":"a3981243777251bc","fromNode":"774015714899487f","fromSide":"top","toNode":"ad871b2a26b90bf9","toSide":"bottom"},
+		{"id":"9d9ae07840ea7e39","fromNode":"774015714899487f","fromSide":"bottom","toNode":"a06634d4591012ce","toSide":"top"}
 	]
 }
