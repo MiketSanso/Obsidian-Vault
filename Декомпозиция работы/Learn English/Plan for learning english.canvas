@@ -17,7 +17,9 @@
 		{"id":"6e7b6e2170b3eed7","type":"text","text":"**Когда используется? (Основные случаи)**\n\n1) **Регулярные, повторяющиеся действия (привычки):**\n- I go to the gym three times a week. (Я хожу в спортзал три раза в неделю.)\n- He drinks coffee every morning. (Он пьет кофе каждое утро.)\n\n1) **Факты, общеизвестные истины и законы природы:**\n- The sun rises in the east. (Солнце встает на востоке.)\n- Water boils at 100 degrees Celsius. (Вода кипит при 100 градусах Цельсия.)\n\n1) **Постоянные состояния, характеристики, профессии:**\n- She lives in London. (Она живет в Лондоне.) — это ее постоянное место жительства.\n- He is a doctor. (Он врач.) — это его профессия.\n- Cats like milk. (Коты любят молоко.) — это их характеристика.\n\n1) **Расписания (транспорта, уроков, мероприятий):**\n- The train leaves at 5 PM. (Поезд отправляется в 17:00.)\n- The lesson starts at 9 o'clock. (Урок начинается в 9 часов.)\n\n1) **С глаголами состояния (State Verbs), которые обычно не используются в Continuous:**\n- I understand you. (Я понимаю тебя.)\n- She loves chocolate. (Она обожает шоколад.)\n- This book belongs to me. (Эта книга принадлежит мне.)\n- Common state verbs: know, believe, want, need, like, love, hate, prefer, remember, forget, understand, seem, have (в значении \"иметь\"), belong.","x":730,"y":-4240,"width":810,"height":720,"color":"4"},
 		{"id":"271e162346da5125","type":"text","text":"#### **Важно: правила добавления -s/-es:**\n\n- Большинство глаголов: просто **-s** (work -> works, play -> plays)\n    \n- Окончание **-ch, -sh, -s, -x, -o**: добавляем **-es** (watch -> watches, wash -> washes, go -> goes)\n    \n- Окончание **согласная + y**: **y -> i + es** (study -> studies, try -> tries)\n    \n- Окончание **гласная + y**: просто **-s** (play -> plays, enjoy -> enjoys)","x":1640,"y":-3586,"width":610,"height":213,"color":"4"},
 		{"id":"1925457e90e9b966","type":"text","text":"#### **Глагол-связка TO BE**\n\nГлагол **to be** (быть) в Present Simple ведет себя особо: он не нуждается в вспомогательных глаголах.\n\n- **Утверждение:** I **am**, He/She/It **is**, You/We/They **are**\n    \n- **Отрицание:** I **am not**, He/She/It **is not (isn't)**, You/We/They **are not (aren't)**\n    \n- **Вопрос:** **Am** I? **Is** he? **Are** you?","x":1640,"y":-3311,"width":607,"height":222,"color":"4"},
-		{"id":"6046879c1d98d84a","x":-333,"y":-533,"width":250,"height":60,"type":"text","text":""}
+		{"id":"6046879c1d98d84a","x":-434,"y":-500,"width":250,"height":60,"type":"text","text":"Moods"},
+		{"id":"774015714899487f","x":-865,"y":-503,"width":250,"height":60,"type":"text","text":"**Imperative**"},
+		{"id":"ad871b2a26b90bf9","x":-970,"y":-692,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"b077c09ce2470c30","fromNode":"53df5df1bc278634","fromSide":"top","toNode":"0c2fcb7d442e771a","toSide":"bottom"},
@@ -36,6 +38,8 @@
 		{"id":"5f0bc8b31c832ba2","fromNode":"1e60a60664d95a7d","fromSide":"top","toNode":"6e7b6e2170b3eed7","toSide":"bottom"},
 		{"id":"1560708ebf9191ba","fromNode":"f1c95e1d1a5be16c","fromSide":"right","toNode":"271e162346da5125","toSide":"left"},
 		{"id":"7b6da17569a15d28","fromNode":"f1c95e1d1a5be16c","fromSide":"right","toNode":"1925457e90e9b966","toSide":"left"},
-		{"id":"79d831945f14b813","fromNode":"0c2fcb7d442e771a","fromSide":"top","toNode":"6046879c1d98d84a","toSide":"bottom"}
+		{"id":"79d831945f14b813","fromNode":"0c2fcb7d442e771a","fromSide":"top","toNode":"6046879c1d98d84a","toSide":"bottom"},
+		{"id":"8c78bd1663596875","fromNode":"6046879c1d98d84a","fromSide":"left","toNode":"774015714899487f","toSide":"right"},
+		{"id":"a3981243777251bc","fromNode":"774015714899487f","fromSide":"top","toNode":"ad871b2a26b90bf9","toSide":"bottom"}
 	]
 }
