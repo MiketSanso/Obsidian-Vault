@@ -13,7 +13,11 @@
 		{"id":"094bf119478245a5","x":235,"y":-6,"width":250,"height":89,"color":"6","type":"text","text":"Проанализировать текущую себестоимость кормовой смеси."},
 		{"id":"d5c1dba35657cb78","x":540,"y":-29,"width":210,"height":143,"color":"3","type":"text","text":"Выстроить план перехода на наиболее выгодную кормовую смесь и его стоимость"},
 		{"id":"b9cefbbe5ac20b02","x":-299,"y":355,"width":250,"height":60,"color":"4","type":"text","text":"Поменять шаблон"},
-		{"id":"0bdb3b7d7eb65fc9","x":120,"y":355,"width":250,"height":60,"color":"1","type":"text","text":"Внести данные в новую таблицу"}
+		{"id":"0bdb3b7d7eb65fc9","x":120,"y":355,"width":250,"height":60,"color":"1","type":"text","text":"Внести данные в новую таблицу"},
+		{"id":"30e9b3cc76291626","x":-492,"y":-176,"width":250,"height":60,"type":"text","text":"Сделать мини-выводы из исследований"},
+		{"id":"9ada6e182327a767","x":-430,"y":-280,"width":250,"height":60,"type":"text","text":"Построить план на основе мини-выводов"},
+		{"id":"0ead0f25a7cfa482","x":-585,"y":162,"width":250,"height":60,"type":"text","text":"Попытаться найти новые источники информации."},
+		{"id":"394b5daa0e4e568d","x":-360,"y":185,"width":250,"height":60,"type":"text","text":"Провести исследование."}
 	],
 	"edges":[
 		{"id":"6ba8a36ed0fa45ff","fromNode":"94676c0ee85e09cc","fromSide":"top","toNode":"2a8ce68ff5557182","toSide":"bottom"},
@@ -27,6 +31,10 @@
 		{"id":"e989b706e85728e6","fromNode":"094bf119478245a5","fromSide":"bottom","toNode":"ca86688eb83c4e14","toSide":"top"},
 		{"id":"4fcaad46c1549127","fromNode":"094bf119478245a5","fromSide":"right","toNode":"d5c1dba35657cb78","toSide":"left"},
 		{"id":"17c5934b454783f4","fromNode":"45bc85578333c3cb","fromSide":"bottom","toNode":"b9cefbbe5ac20b02","toSide":"top"},
-		{"id":"36f2db844b734373","fromNode":"45bc85578333c3cb","fromSide":"bottom","toNode":"0bdb3b7d7eb65fc9","toSide":"top"}
+		{"id":"36f2db844b734373","fromNode":"45bc85578333c3cb","fromSide":"bottom","toNode":"0bdb3b7d7eb65fc9","toSide":"top"},
+		{"id":"2e4c271c78386893","fromNode":"297bf35120c93b7c","fromSide":"top","toNode":"30e9b3cc76291626","toSide":"bottom"},
+		{"id":"96e7c7d6a2249113","fromNode":"30e9b3cc76291626","fromSide":"top","toNode":"9ada6e182327a767","toSide":"bottom"},
+		{"id":"0d52cc6ae36cdfb3","fromNode":"297bf35120c93b7c","fromSide":"bottom","toNode":"0ead0f25a7cfa482","toSide":"top"},
+		{"id":"326c67fc846d96fe","fromNode":"297bf35120c93b7c","fromSide":"bottom","toNode":"394b5daa0e4e568d","toSide":"top"}
 	]
 }
