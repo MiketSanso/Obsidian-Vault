@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"id":"94676c0ee85e09cc","x":-80,"y":-20,"width":120,"height":80,"type":"text","text":"# АПК"},
-		{"id":"2a8ce68ff5557182","x":-142,"y":-169,"width":250,"height":60,"type":"text","text":""}
+		{"id":"94676c0ee85e09cc","type":"text","text":"# АПК","x":-80,"y":-20,"width":120,"height":80},
+		{"id":"2a8ce68ff5557182","type":"text","text":"Собрать последние данные по надоям и привесам из базы данных.","x":-145,"y":-240,"width":250,"height":100},
+		{"id":"094bf119478245a5","x":220,"y":-24,"width":250,"height":89,"type":"text","text":"Проанализировать текущую себестоимость кормовой смеси."}
 	],
 	"edges":[
-		{"id":"6ba8a36ed0fa45ff","fromNode":"94676c0ee85e09cc","fromSide":"top","toNode":"2a8ce68ff5557182","toSide":"bottom"}
+		{"id":"6ba8a36ed0fa45ff","fromNode":"94676c0ee85e09cc","fromSide":"top","toNode":"2a8ce68ff5557182","toSide":"bottom"},
+		{"id":"a997745cd94a3442","fromNode":"94676c0ee85e09cc","fromSide":"right","toNode":"094bf119478245a5","toSide":"left"}
 	]
 }
