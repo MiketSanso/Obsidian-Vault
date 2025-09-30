@@ -39,17 +39,14 @@
             "id": "cd2cb679ca40e4d1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
-                "viewState": {
-                  "x": 757.4352420368982,
-                  "y": 127.17999342931529,
-                  "zoom": -1.0719239011831891
-                }
+                "file": "База знаний/English/Dictionary.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Alexey Project"
+              "icon": "lucide-file",
+              "title": "Dictionary"
             }
           }
         ],
@@ -214,11 +211,12 @@
   },
   "active": "cd2cb679ca40e4d1",
   "lastOpenFiles": [
+    "База знаний/English/English.md",
+    "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
     "База знаний/Статьи/История зарождения любви к психологии.md",
     "Декомпозиция работы/Learn English/Plan for learning english.canvas",
     "База знаний/English/Dictionary.md",
     "База знаний/English/Plan for learning english.md",
-    "База знаний/English/English.md",
     "Days/2025-09-30.md",
     "conflict-files-obsidian-git.md",
     "Декомпозиция работы/Create Resume/Create resume.md",
@@ -230,7 +228,6 @@
     "Tasks/Готовка/Приготовить Мясо по-Французски.md",
     "Tasks/Готовка/Приготовить плов.md",
     "Декомпозиция работы/Alexey Project/Alexey Project.md",
-    "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
     "База знаний/Статьи/Лень.md",
     "База знаний/Статьи/Мотивация 21 века.md",
     "Days/2025-09-28.md",
@@ -244,7 +241,6 @@
     "Days/2025-08-24.md",
     "Days/2025-08-20.md",
     "Days/2025-08-17.md",
-    "База знаний/Предметы (КОЛЛЕДЖ)/История.md",
     "Декомпозиция работы/Create Resume/Create resume.canvas",
     "Декомпозиция работы/Learn English",
     "База знаний/English",
