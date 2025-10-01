@@ -29,8 +29,8 @@
               "state": {
                 "file": "Декомпозиция работы/Learn English/Plan for learning english.canvas",
                 "viewState": {
-                  "x": 1512.3838713847217,
-                  "y": -2923.621665065936,
+                  "x": -26.994324341671962,
+                  "y": -3385.607506560531,
                   "zoom": 0.10968698405150457
                 }
               },
@@ -184,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,10 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67031c10cf5ce57f",
+  "active": "0818b71d227befe7",
   "lastOpenFiles": [
-    "Без названия.canvas",
     "Декомпозиция работы/Learn English/Plan for learning english.canvas",
+    "conflict-files-obsidian-git.md",
+    "Days/2025-09-30.md",
+    "Без названия.canvas",
     "База знаний/English/Dictionary.md",
     "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
     "Декомпозиция работы/Alexey Project/Alexey Project.md",
@@ -212,7 +213,6 @@
     "База знаний/Технические определения для собеседований/Unity/Инфа о втором месте работы.md",
     "База знаний/Технические определения для собеседований/Unity/ММОРПГ, и как они были устроены у нас под капотом..md",
     "Days/2025-09-29.md",
-    "conflict-files-obsidian-git.md",
     "Tasks",
     "База знаний/Статьи/Лень.md",
     "База знаний/Технические определения для собеседований/Unity/C шарп.md",
@@ -238,7 +238,6 @@
     "Декомпозиция работы/Alexey Project",
     "База знаний/Статьи/Подробная автобиография.md",
     "Days/2025-09-21.md",
-    "Days/2025-09-20.md",
     "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
     "Untitled.base",
     "Декомпозиция работы/AlexeyProject/Без названия.canvas",
