@@ -38,6 +38,8 @@ bit - немного
 
 
 3)
+keep - держать 
+same - такой же
 everything - всё
 **`affect`** - влиять
 `thought` - мысль
