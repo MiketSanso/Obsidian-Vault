@@ -32,6 +32,7 @@ bit - немного
 
 
 3)
+`thought` - мысль
 You gotta be kidding me? - я не верю в это/шутишь надо мной? 
 Observable - наблюдаемый
 illness/ill - болезнь/болен
