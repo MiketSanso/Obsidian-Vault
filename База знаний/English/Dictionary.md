@@ -52,10 +52,8 @@ Observable - наблюдаемый
 illness/ill - болезнь/болен
 still - все ещё
 weak - слабый
-that - тот
 than - чем
 which - который
-us - нам
 Well - что ж
 though [ðəʊ] - хотя
 so - 
