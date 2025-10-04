@@ -27,6 +27,7 @@ Vore - вор
 entirely - полностью 
 reconvalescence - выздоровление 
 bother - беспокоить
+intended - предназначено 
 
 2)
 bit - немного

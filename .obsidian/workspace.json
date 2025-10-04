@@ -53,17 +53,14 @@
             "id": "d9e63d789ba9beea",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/Learn English/Plan for learning english.canvas",
-                "viewState": {
-                  "x": 3031.801425961624,
-                  "y": -1642.1737467259434,
-                  "zoom": -0.9576721879350694
-                }
+                "file": "База знаний/English/Dictionary.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Plan for learning english"
+              "icon": "lucide-file",
+              "title": "Dictionary"
             }
           }
         ],
@@ -228,13 +225,13 @@
   },
   "active": "d9e63d789ba9beea",
   "lastOpenFiles": [
+    "Декомпозиция работы/Learn English/Plan for learning english.canvas",
     "База знаний/English/Dictionary.md",
     "conflict-files-obsidian-git.md",
     "Days/2025-10-04.md",
     "База знаний/English/English.md",
     "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
     "База знаний/Статьи/История зарождения любви к психологии.md",
-    "Декомпозиция работы/Learn English/Plan for learning english.canvas",
     "База знаний/English/Plan for learning english.md",
     "Days/2025-09-30.md",
     "Декомпозиция работы/Create Resume/Create resume.md",
@@ -258,7 +255,6 @@
     "Days/2025-08-27.md",
     "Days/2025-08-24.md",
     "Days/2025-08-20.md",
-    "Days/2025-08-17.md",
     "Декомпозиция работы/Create Resume/Create resume.canvas",
     "Декомпозиция работы/Learn English",
     "База знаний/English",
