@@ -53,14 +53,17 @@
             "id": "d9e63d789ba9beea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "База знаний/English/Dictionary.md",
-                "mode": "source",
-                "source": false
+                "file": "Декомпозиция работы/Learn English/Plan for learning english.canvas",
+                "viewState": {
+                  "x": 842.9717377976673,
+                  "y": -3368.766109439125,
+                  "zoom": -0.9576721879350694
+                }
               },
-              "icon": "lucide-file",
-              "title": "Dictionary"
+              "icon": "lucide-layout-dashboard",
+              "title": "Plan for learning english"
             }
           }
         ],
@@ -225,8 +228,8 @@
   },
   "active": "d9e63d789ba9beea",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "База знаний/English/Dictionary.md",
+    "conflict-files-obsidian-git.md",
     "Days/2025-10-04.md",
     "База знаний/English/English.md",
     "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
