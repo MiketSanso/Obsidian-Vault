@@ -32,6 +32,7 @@ comprehension  [kɒmprɪˈhenʃn] - понимание
 suppose - предполагать 
 advanced - передовой
 excited - взволнованный
+further - дальнейший 
 
 2)
 bit - немного
@@ -60,7 +61,7 @@ so -
 By the way - между прочим
 per - по/в
 anyway -  в любом случае
-
+might - вероятно
 
 
 
