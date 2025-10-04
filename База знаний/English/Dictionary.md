@@ -64,6 +64,7 @@ By the way - между прочим
 per - по/в
 anyway -  в любом случае
 might - вероятно
+mistake - ошибка
 
 
 
