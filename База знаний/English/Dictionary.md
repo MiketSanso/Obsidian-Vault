@@ -28,6 +28,9 @@ entirely - полностью
 reconvalescence - выздоровление 
 bother - беспокоить
 intended - предназначено 
+comprehension  [kɒmprɪˈhenʃn] - понимание 
+suppose - предполагать 
+advanced - передовой
 
 2)
 bit - немного
