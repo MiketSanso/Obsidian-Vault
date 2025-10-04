@@ -38,6 +38,7 @@ bit - немного
 
 
 3)
+things - вещи
 keep - держать 
 same - такой же
 everything - всё
