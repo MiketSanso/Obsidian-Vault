@@ -169,26 +169,17 @@ per - по/в
 - **something** — что-то
 - **anyone / anybody** — кто-нибудь, любой
 - **anything** — что-нибудь, всё что угодно
-    
 - **no one / nobody** — никто
-    
 - **nothing** — ничто
-    
 - **everyone / everybody** — все, каждый
-    
 - **everything** — всё
-    
 
 ---
 
 ### 7. Отрицательные местоимения (Negative Pronouns)
 
 - **no** — никакой
-    
 - **none** — ни один, никто
-    
 - **no one / nobody** — никто
-    
 - **nothing** — ничто
-    
 - **neither** — ни тот, ни другой
