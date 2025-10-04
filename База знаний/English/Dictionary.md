@@ -31,6 +31,7 @@ intended - предназначено
 comprehension  [kɒmprɪˈhenʃn] - понимание 
 suppose - предполагать 
 advanced - передовой
+excited - взволнованный
 
 2)
 bit - немного
