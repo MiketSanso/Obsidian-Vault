@@ -34,7 +34,7 @@ advanced - передовой
 excited - взволнованный
 further - дальнейший 
 grocery - бакалея
-pupil - учени
+pupil - ученик
 
 2)
 bit - немного
