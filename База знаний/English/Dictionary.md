@@ -38,6 +38,7 @@ bit - немного
 
 
 3)
+_How are **things**_ - как делишки
 things - вещи
 keep - держать 
 same - такой же
