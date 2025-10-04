@@ -33,6 +33,7 @@ suppose - предполагать
 advanced - передовой
 excited - взволнованный
 further - дальнейший 
+grocery - бакалея
 
 2)
 bit - немного
