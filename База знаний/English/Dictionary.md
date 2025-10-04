@@ -26,12 +26,14 @@ fill - заполнить
 Vore - вор
 entirely - полностью 
 reconvalescence - выздоровление 
+bother - беспокоить
 
 2)
 bit - немного
 
 
 3)
+**`affect`** - влиять
 `thought` - мысль
 You gotta be kidding me? - я не верю в это/шутишь надо мной? 
 Observable - наблюдаемый
