@@ -65,6 +65,7 @@ per - по/в
 anyway -  в любом случае
 might - вероятно
 mistake - ошибка
+today - сегодня
 
 
 
