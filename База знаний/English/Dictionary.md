@@ -38,6 +38,7 @@ bit - немного
 
 
 3)
+everything - всё
 **`affect`** - влиять
 `thought` - мысль
 You gotta be kidding me? - я не верю в это/шутишь надо мной? 
