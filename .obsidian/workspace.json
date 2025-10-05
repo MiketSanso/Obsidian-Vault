@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/English/Dictionary.md",
+                "file": "База знаний/English/Irregular Verbs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dictionary"
+              "title": "Irregular Verbs"
             }
           }
         ],
@@ -239,9 +239,10 @@
   },
   "active": "4c60713d86c64ef6",
   "lastOpenFiles": [
+    "База знаний/English/Dictionary.md",
+    "База знаний/English/Irregular Verbs.md",
     "Days/2025-10-05.md",
     "Декомпозиция работы/Learn English/Plan for learning english.canvas",
-    "База знаний/English/Dictionary.md",
     "conflict-files-obsidian-git.md",
     "Days/2025-10-04.md",
     "База знаний/English/English.md",
@@ -269,7 +270,6 @@
     "Days/2025-09-05.md",
     "Days/2025-08-27.md",
     "Days/2025-08-24.md",
-    "Days/2025-08-20.md",
     "Декомпозиция работы/Create Resume/Create resume.canvas",
     "Декомпозиция работы/Learn English",
     "База знаний/English",
