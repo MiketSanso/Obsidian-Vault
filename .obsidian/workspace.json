@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/English/Dictionary.md",
+                "file": "База знаний/English/Prepositions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dictionary"
+              "title": "Prepositions"
             }
           }
         ],
@@ -239,11 +239,12 @@
   },
   "active": "4c60713d86c64ef6",
   "lastOpenFiles": [
+    "База знаний/English/Dictionary.md",
+    "База знаний/English/Prepositions.md",
     "База знаний/English/Pronouns.md",
     "База знаний/English/Plan for learning english.md",
     "База знаний/English/Irregular Verbs.md",
     "Декомпозиция работы/Learn English/Plan for learning english.canvas",
-    "База знаний/English/Dictionary.md",
     "Days/2025-10-05.md",
     "conflict-files-obsidian-git.md",
     "Days/2025-10-04.md",
