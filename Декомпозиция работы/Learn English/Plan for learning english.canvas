@@ -23,7 +23,7 @@
 		{"id":"0348e789edbcba84","type":"file","file":"База знаний/English/Dictionary/Irregular Verbs.md","x":-330,"y":500,"width":541,"height":488,"color":"4"},
 		{"id":"b5c8a2f54088e814","type":"file","file":"База знаний/English/Dictionary/Pronouns.md","x":251,"y":500,"width":560,"height":488,"color":"4"},
 		{"id":"37a547bd7002d163","type":"file","file":"База знаний/English/Dictionary/Prepositions.md","x":-909,"y":500,"width":520,"height":488,"color":"4"},
-		{"id":"361d14c522b2f0a5","type":"text","text":"Gerund","x":2000,"y":-1900,"width":250,"height":60}
+		{"id":"361d14c522b2f0a5","type":"text","text":"Gerund","x":-380,"y":-560,"width":250,"height":50}
 	],
 	"edges":[
 		{"id":"b077c09ce2470c30","fromNode":"53df5df1bc278634","fromSide":"top","toNode":"0c2fcb7d442e771a","toSide":"bottom"},
@@ -44,10 +44,10 @@
 		{"id":"7b6da17569a15d28","fromNode":"f1c95e1d1a5be16c","fromSide":"right","toNode":"1925457e90e9b966","toSide":"left"},
 		{"id":"d9d54fc4fcd9dfe4","fromNode":"1e60a60664d95a7d","fromSide":"right","toNode":"4a542dbf7f486e02","toSide":"left"},
 		{"id":"35adf67d91f4f00d","fromNode":"265039f4e1d97cc8","fromSide":"top","toNode":"5592acbda5b4aac9","toSide":"bottom"},
-		{"id":"7e39127cf1e87dbe","fromNode":"0f2bdf83917763c3","fromSide":"top","toNode":"361d14c522b2f0a5","toSide":"bottom"},
 		{"id":"c810f1b6ef12c481","fromNode":"53df5df1bc278634","fromSide":"bottom","toNode":"74afca6bbcbe2564","toSide":"top"},
 		{"id":"e2b01c22f78e8b8d","fromNode":"74afca6bbcbe2564","fromSide":"bottom","toNode":"0348e789edbcba84","toSide":"top"},
 		{"id":"fd5ba13eb29ca391","fromNode":"74afca6bbcbe2564","fromSide":"bottom","toNode":"b5c8a2f54088e814","toSide":"top"},
-		{"id":"b6338b6b8d166ce4","fromNode":"74afca6bbcbe2564","fromSide":"bottom","toNode":"37a547bd7002d163","toSide":"top"}
+		{"id":"b6338b6b8d166ce4","fromNode":"74afca6bbcbe2564","fromSide":"bottom","toNode":"37a547bd7002d163","toSide":"top"},
+		{"id":"0afb74626c70841a","fromNode":"0c2fcb7d442e771a","fromSide":"top","toNode":"361d14c522b2f0a5","toSide":"bottom"}
 	]
 }
