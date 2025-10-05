@@ -18,8 +18,10 @@
 		{"id":"271e162346da5125","type":"text","text":"#### **Важно: правила добавления -s/-es:**\n\n- Большинство глаголов: просто **-s** (work -> works, play -> plays)\n    \n- Окончание **-ch, -sh, -s, -x, -o**: добавляем **-es** (watch -> watches, wash -> washes, go -> goes)\n    \n- Окончание **согласная + y**: **y -> i + es** (study -> studies, try -> tries)\n    \n- Окончание **гласная + y**: просто **-s** (play -> plays, enjoy -> enjoys)","x":1640,"y":-3586,"width":610,"height":213,"color":"4"},
 		{"id":"1925457e90e9b966","type":"text","text":"#### **Глагол-связка TO BE**\n\nГлагол **to be** (быть) в Present Simple ведет себя особо: он не нуждается в вспомогательных глаголах.\n\n- **Утверждение:** I **am**, He/She/It **is**, You/We/They **are**\n    \n- **Отрицание:** I **am not**, He/She/It **is not (isn't)**, You/We/They **are not (aren't)**\n    \n- **Вопрос:** **Am** I? **Is** he? **Are** you?","x":1640,"y":-3311,"width":607,"height":222,"color":"4"},
 		{"id":"4a542dbf7f486e02","type":"text","text":"#### **Маркеры времени (слова-подсказки)**\n\nЭти слова часто указывают на использование Present Simple:\n\n- **Always** (всегда), **usually** (обычно), **often** (часто), **sometimes** (иногда), **rarely** (редко), **hardly ever** (почти никогда), **never** (никогда)\n    \n- **Every day/week/month/year** (каждый день/неделю/месяц/год)\n    \n- **On Mondays** (по понедельникам), **at the weekend** (на выходных)\n    \n- **Once a week** (один раз в неделю), **twice a month** (два раза в месяц), **three times a year** (три раза в год)","x":1231,"y":-2993,"width":714,"height":277,"color":"4"},
-		{"id":"5592acbda5b4aac9","x":3129,"y":-2480,"width":742,"height":141,"color":"4","type":"text","text":"### Действие происходит **прямо сейчас, в момент речи** или **в настоящий период времени** (не обязательно в данную секунду). Также используется для выражения **запланированных действий в будущем**."},
-		{"id":"361d14c522b2f0a5","x":1971,"y":-1909,"width":250,"height":60,"type":"text","text":"Gerundi"}
+		{"id":"5592acbda5b4aac9","type":"text","text":"### Действие происходит **прямо сейчас, в момент речи** или **в настоящий период времени** (не обязательно в данную секунду). Также используется для выражения **запланированных действий в будущем**.","x":3129,"y":-2480,"width":742,"height":141,"color":"4"},
+		{"id":"361d14c522b2f0a5","type":"text","text":"Gerundi","x":1971,"y":-1909,"width":250,"height":60},
+		{"id":"74afca6bbcbe2564","x":-188,"y":171,"width":250,"height":60,"type":"text","text":"## Dictionary"},
+		{"id":"0348e789edbcba84","x":-261,"y":492,"width":400,"height":708,"type":"file","file":"База знаний/English/Irregular Verbs.md"}
 	],
 	"edges":[
 		{"id":"b077c09ce2470c30","fromNode":"53df5df1bc278634","fromSide":"top","toNode":"0c2fcb7d442e771a","toSide":"bottom"},
@@ -40,6 +42,8 @@
 		{"id":"7b6da17569a15d28","fromNode":"f1c95e1d1a5be16c","fromSide":"right","toNode":"1925457e90e9b966","toSide":"left"},
 		{"id":"d9d54fc4fcd9dfe4","fromNode":"1e60a60664d95a7d","fromSide":"right","toNode":"4a542dbf7f486e02","toSide":"left"},
 		{"id":"35adf67d91f4f00d","fromNode":"265039f4e1d97cc8","fromSide":"top","toNode":"5592acbda5b4aac9","toSide":"bottom"},
-		{"id":"7e39127cf1e87dbe","fromNode":"0f2bdf83917763c3","fromSide":"top","toNode":"361d14c522b2f0a5","toSide":"bottom"}
+		{"id":"7e39127cf1e87dbe","fromNode":"0f2bdf83917763c3","fromSide":"top","toNode":"361d14c522b2f0a5","toSide":"bottom"},
+		{"id":"c810f1b6ef12c481","fromNode":"53df5df1bc278634","fromSide":"bottom","toNode":"74afca6bbcbe2564","toSide":"top"},
+		{"id":"e2b01c22f78e8b8d","fromNode":"74afca6bbcbe2564","fromSide":"bottom","toNode":"0348e789edbcba84","toSide":"top"}
 	]
 }

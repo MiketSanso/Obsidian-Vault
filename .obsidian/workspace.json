@@ -67,14 +67,17 @@
             "id": "4c60713d86c64ef6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "База знаний/English/Irregular Verbs.md",
-                "mode": "source",
-                "source": false
+                "file": "Декомпозиция работы/Learn English/Plan for learning english.canvas",
+                "viewState": {
+                  "x": 113.47962248037271,
+                  "y": 959.7710663812449,
+                  "zoom": -0.9576721879350694
+                }
               },
-              "icon": "lucide-file",
-              "title": "Irregular Verbs"
+              "icon": "lucide-layout-dashboard",
+              "title": "Plan for learning english"
             }
           }
         ],
@@ -239,8 +242,8 @@
   },
   "active": "4c60713d86c64ef6",
   "lastOpenFiles": [
-    "База знаний/English/Dictionary.md",
     "База знаний/English/Irregular Verbs.md",
+    "База знаний/English/Dictionary.md",
     "Days/2025-10-05.md",
     "Декомпозиция работы/Learn English/Plan for learning english.canvas",
     "conflict-files-obsidian-git.md",
