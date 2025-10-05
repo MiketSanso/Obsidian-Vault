@@ -285,3 +285,73 @@ today - сегодня
 ---
 **irregular verbs**
 
+### Группа 1: Все три формы одинаковые (Easy!)
+
+|Infinitive (V1)|Past Simple (V2)|Past Participle (V3)|Перевод|
+|---|---|---|---|
+|**cut**|cut|cut|резать|
+|**put**|put|put|класть|
+|**cost**|cost|cost|стоить|
+|**hit**|hit|hit|ударять|
+|**hurt**|hurt|hurt|причинять боль|
+|**let**|let|let|позволять|
+|**shut**|shut|shut|закрывать|
+
+---
+
+### Группа 2: Вторая и третья формы одинаковые (-t, -d)
+
+|Infinitive (V1)|Past Simple (V2)|Past Participle (V3)|Перевод|
+|---|---|---|---|
+|**bring**|brought|brought|приносить|
+|**buy**|bought|bought|покупать|
+|**catch**|caught|caught|ловить|
+|**teach**|taught|taught|учить (кого-то)|
+|**think**|thought|thought|думать|
+|**build**|built|built|строить|
+|**send**|sent|sent|отправлять|
+|**spend**|spent|spent|тратить|
+|**lend**|lent|lent|давать в долг|
+|**lose**|lost|lost|терять|
+|**have**|had|had|иметь|
+|**make**|made|made|делать|
+|**hear**|heard|heard|слышать|
+|**say**|said|said|сказать|
+|**pay**|paid|paid|платить|
+|**sit**|sat|sat|сидеть|
+|**keep**|kept|kept|хранить|
+
+---
+
+### Группа 3: Вторая и третья формы отличаются (V2 = V3 + -n / -en / -ne)
+
+|Infinitive (V1)|Past Simple (V2)|Past Participle (V3)|Перевод|
+|---|---|---|---|
+|**go**|went|**gone**|идти|
+|**see**|saw|**seen**|видеть|
+|**do**|did|**done**|делать|
+|**take**|took|**taken**|брать|
+|**write**|wrote|**written**|писать|
+|**drive**|drove|**driven**|водить машину|
+|**give**|gave|**given**|давать|
+|**speak**|spoke|**spoken**|говорить|
+|**break**|broke|**broken**|ломать|
+|**choose**|chose|**chosen**|выбирать|
+|**eat**|ate|**eaten**|есть|
+|**fall**|fell|**fallen**|падать|
+|**forget**|forgot|**forgotten**|забывать|
+|**wear**|wore|**worn**|носить (одежду)|
+
+---
+
+### Группа 4: Все три формы разные
+
+| Infinitive (V1) | Past Simple (V2) | Past Participle (V3) | Перевод  |
+| --------------- | ---------------- | -------------------- | -------- |
+| **be**          | was/were         | **been**             | быть     |
+| **begin**       | began            | **begun**            | начинать |
+| **drink**       | drank            | **drunk**            | пить     |
+| **ring**        | rang             | **rung**             | звонить  |
+| **sing**        | sang             | **sung**             | петь     |
+| **swim**        | swam             | **swum**             | плавать  |
+| **blow**        | blew             | **blown**            | дуть     |
