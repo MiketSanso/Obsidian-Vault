@@ -23,7 +23,7 @@
 		{"id":"0348e789edbcba84","type":"file","file":"База знаний/English/Dictionary/Irregular Verbs.md","x":-330,"y":500,"width":541,"height":488,"color":"4"},
 		{"id":"b5c8a2f54088e814","type":"file","file":"База знаний/English/Dictionary/Pronouns.md","x":251,"y":500,"width":560,"height":488,"color":"4"},
 		{"id":"37a547bd7002d163","type":"file","file":"База знаний/English/Dictionary/Prepositions.md","x":-909,"y":500,"width":520,"height":488,"color":"4"},
-		{"id":"361d14c522b2f0a5","type":"text","text":"Gerund","x":-380,"y":-560,"width":250,"height":50}
+		{"id":"361d14c522b2f0a5","type":"text","text":"#### Gerund","x":-380,"y":-560,"width":250,"height":50}
 	],
 	"edges":[
 		{"id":"b077c09ce2470c30","fromNode":"53df5df1bc278634","fromSide":"top","toNode":"0c2fcb7d442e771a","toSide":"bottom"},
