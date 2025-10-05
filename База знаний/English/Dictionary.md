@@ -66,12 +66,3 @@ anyway -  в любом случае
 might - вероятно
 mistake - ошибка
 today - сегодня
-
-
-
-
-
-
-**prepositions**
-
-
