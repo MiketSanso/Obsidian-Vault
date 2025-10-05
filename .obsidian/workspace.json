@@ -95,14 +95,17 @@
             "id": "d4191b7401b5db6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "База знаний/English/Dictionary/Prepositions.md",
-                "mode": "source",
-                "source": false
+                "file": "Декомпозиция работы/Learn English/Plan for learning english.canvas",
+                "viewState": {
+                  "x": 2208.4523042163414,
+                  "y": -1526.0741199854206,
+                  "zoom": -0.5796538657753263
+                }
               },
-              "icon": "lucide-file",
-              "title": "Prepositions"
+              "icon": "lucide-layout-dashboard",
+              "title": "Plan for learning english"
             }
           }
         ],
@@ -267,9 +270,9 @@
   },
   "active": "d4191b7401b5db6d",
   "lastOpenFiles": [
+    "База знаний/English/Dictionary/Irregular Verbs.md",
     "База знаний/English/Dictionary/Pronouns.md",
     "База знаний/English/Dictionary/Prepositions.md",
-    "База знаний/English/Dictionary/Irregular Verbs.md",
     "База знаний/English/Dictionary/Dictionary.md",
     "Obsidian Web.md",
     "База знаний/English/English.md",

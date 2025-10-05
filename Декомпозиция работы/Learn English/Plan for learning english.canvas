@@ -19,11 +19,11 @@
 		{"id":"1925457e90e9b966","type":"text","text":"#### **Глагол-связка TO BE**\n\nГлагол **to be** (быть) в Present Simple ведет себя особо: он не нуждается в вспомогательных глаголах.\n\n- **Утверждение:** I **am**, He/She/It **is**, You/We/They **are**\n    \n- **Отрицание:** I **am not**, He/She/It **is not (isn't)**, You/We/They **are not (aren't)**\n    \n- **Вопрос:** **Am** I? **Is** he? **Are** you?","x":1640,"y":-3311,"width":607,"height":222,"color":"4"},
 		{"id":"4a542dbf7f486e02","type":"text","text":"#### **Маркеры времени (слова-подсказки)**\n\nЭти слова часто указывают на использование Present Simple:\n\n- **Always** (всегда), **usually** (обычно), **often** (часто), **sometimes** (иногда), **rarely** (редко), **hardly ever** (почти никогда), **never** (никогда)\n    \n- **Every day/week/month/year** (каждый день/неделю/месяц/год)\n    \n- **On Mondays** (по понедельникам), **at the weekend** (на выходных)\n    \n- **Once a week** (один раз в неделю), **twice a month** (два раза в месяц), **three times a year** (три раза в год)","x":1231,"y":-2993,"width":714,"height":277,"color":"4"},
 		{"id":"5592acbda5b4aac9","type":"text","text":"### Действие происходит **прямо сейчас, в момент речи** или **в настоящий период времени** (не обязательно в данную секунду). Также используется для выражения **запланированных действий в будущем**.","x":3129,"y":-2480,"width":742,"height":141,"color":"4"},
-		{"id":"361d14c522b2f0a5","type":"text","text":"Gerundi","x":1971,"y":-1909,"width":250,"height":60},
-		{"id":"74afca6bbcbe2564","type":"text","text":"## Dictionary","x":-188,"y":171,"width":250,"height":60},
-		{"id":"0348e789edbcba84","type":"file","file":"База знаний/English/Dictionary/Irregular Verbs.md","x":-330,"y":500,"width":541,"height":488},
-		{"id":"b5c8a2f54088e814","type":"file","file":"База знаний/English/Dictionary/Pronouns.md","x":251,"y":500,"width":560,"height":488},
-		{"id":"37a547bd7002d163","x":-909,"y":500,"width":520,"height":488,"type":"file","file":"База знаний/English/Dictionary/Prepositions.md"}
+		{"id":"74afca6bbcbe2564","type":"text","text":"## Dictionary","x":-188,"y":171,"width":250,"height":60,"color":"6"},
+		{"id":"0348e789edbcba84","type":"file","file":"База знаний/English/Dictionary/Irregular Verbs.md","x":-330,"y":500,"width":541,"height":488,"color":"4"},
+		{"id":"b5c8a2f54088e814","type":"file","file":"База знаний/English/Dictionary/Pronouns.md","x":251,"y":500,"width":560,"height":488,"color":"4"},
+		{"id":"37a547bd7002d163","type":"file","file":"База знаний/English/Dictionary/Prepositions.md","x":-909,"y":500,"width":520,"height":488,"color":"4"},
+		{"id":"361d14c522b2f0a5","type":"text","text":"Gerundi","x":2000,"y":-1900,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"b077c09ce2470c30","fromNode":"53df5df1bc278634","fromSide":"top","toNode":"0c2fcb7d442e771a","toSide":"bottom"},
