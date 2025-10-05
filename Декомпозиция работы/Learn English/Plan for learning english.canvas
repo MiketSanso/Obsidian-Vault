@@ -21,7 +21,7 @@
 		{"id":"5592acbda5b4aac9","type":"text","text":"### Действие происходит **прямо сейчас, в момент речи** или **в настоящий период времени** (не обязательно в данную секунду). Также используется для выражения **запланированных действий в будущем**.","x":3129,"y":-2480,"width":742,"height":141,"color":"4"},
 		{"id":"361d14c522b2f0a5","type":"text","text":"Gerundi","x":1971,"y":-1909,"width":250,"height":60},
 		{"id":"74afca6bbcbe2564","x":-188,"y":171,"width":250,"height":60,"type":"text","text":"## Dictionary"},
-		{"id":"0348e789edbcba84","x":-261,"y":492,"width":400,"height":708,"type":"file","file":"База знаний/English/Irregular Verbs.md"}
+		{"id":"0348e789edbcba84","x":-261,"y":492,"width":461,"height":308,"type":"file","file":"База знаний/English/Irregular Verbs.md"}
 	],
 	"edges":[
 		{"id":"b077c09ce2470c30","fromNode":"53df5df1bc278634","fromSide":"top","toNode":"0c2fcb7d442e771a","toSide":"bottom"},
