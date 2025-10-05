@@ -95,17 +95,14 @@
             "id": "d4191b7401b5db6d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/Learn English/Plan for learning english.canvas",
-                "viewState": {
-                  "x": -1105.1166409056132,
-                  "y": -332.7440475380223,
-                  "zoom": 0.08701280089134034
-                }
+                "file": "База знаний/English/Dictionary/Dictionary.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Plan for learning english"
+              "icon": "lucide-file",
+              "title": "Dictionary"
             }
           }
         ],
@@ -270,6 +267,7 @@
   },
   "active": "d4191b7401b5db6d",
   "lastOpenFiles": [
+    "Декомпозиция работы/Learn English/Plan for learning english.canvas",
     "База знаний/English/Dictionary/Irregular Verbs.md",
     "База знаний/English/Dictionary/Pronouns.md",
     "База знаний/English/Dictionary/Prepositions.md",
@@ -277,7 +275,6 @@
     "Obsidian Web.md",
     "База знаний/English/English.md",
     "База знаний/English/Plan for learning english.md",
-    "Декомпозиция работы/Learn English/Plan for learning english.canvas",
     "База знаний/English/Dictionary",
     "Days/2025-10-05.md",
     "conflict-files-obsidian-git.md",
@@ -301,7 +298,6 @@
     "Days/2025-09-26.md",
     "Days/2025-09-24.md",
     "Days/2025-09-17.md",
-    "Days/2025-09-13.md",
     "Декомпозиция работы/Create Resume/Create resume.canvas",
     "Декомпозиция работы/Learn English",
     "База знаний/English",

@@ -39,6 +39,7 @@ excited - взволнованный
 further - дальнейший 
 grocery - бакалея
 pupil - ученик
+early - ранний
 
 2)
 bit - немного
