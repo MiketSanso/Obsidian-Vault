@@ -20,8 +20,9 @@
 		{"id":"4a542dbf7f486e02","type":"text","text":"#### **Маркеры времени (слова-подсказки)**\n\nЭти слова часто указывают на использование Present Simple:\n\n- **Always** (всегда), **usually** (обычно), **often** (часто), **sometimes** (иногда), **rarely** (редко), **hardly ever** (почти никогда), **never** (никогда)\n    \n- **Every day/week/month/year** (каждый день/неделю/месяц/год)\n    \n- **On Mondays** (по понедельникам), **at the weekend** (на выходных)\n    \n- **Once a week** (один раз в неделю), **twice a month** (два раза в месяц), **three times a year** (три раза в год)","x":1231,"y":-2993,"width":714,"height":277,"color":"4"},
 		{"id":"5592acbda5b4aac9","type":"text","text":"### Действие происходит **прямо сейчас, в момент речи** или **в настоящий период времени** (не обязательно в данную секунду). Также используется для выражения **запланированных действий в будущем**.","x":3129,"y":-2480,"width":742,"height":141,"color":"4"},
 		{"id":"361d14c522b2f0a5","type":"text","text":"Gerundi","x":1971,"y":-1909,"width":250,"height":60},
-		{"id":"74afca6bbcbe2564","x":-188,"y":171,"width":250,"height":60,"type":"text","text":"## Dictionary"},
-		{"id":"0348e789edbcba84","x":-261,"y":492,"width":461,"height":308,"type":"file","file":"База знаний/English/Irregular Verbs.md"}
+		{"id":"74afca6bbcbe2564","type":"text","text":"## Dictionary","x":-188,"y":171,"width":250,"height":60},
+		{"id":"0348e789edbcba84","type":"file","file":"База знаний/English/Irregular Verbs.md","x":-261,"y":492,"width":541,"height":488},
+		{"id":"b5c8a2f54088e814","x":320,"y":492,"width":560,"height":488,"type":"file","file":"База знаний/English/Pronouns.md"}
 	],
 	"edges":[
 		{"id":"b077c09ce2470c30","fromNode":"53df5df1bc278634","fromSide":"top","toNode":"0c2fcb7d442e771a","toSide":"bottom"},
@@ -44,6 +45,7 @@
 		{"id":"35adf67d91f4f00d","fromNode":"265039f4e1d97cc8","fromSide":"top","toNode":"5592acbda5b4aac9","toSide":"bottom"},
 		{"id":"7e39127cf1e87dbe","fromNode":"0f2bdf83917763c3","fromSide":"top","toNode":"361d14c522b2f0a5","toSide":"bottom"},
 		{"id":"c810f1b6ef12c481","fromNode":"53df5df1bc278634","fromSide":"bottom","toNode":"74afca6bbcbe2564","toSide":"top"},
-		{"id":"e2b01c22f78e8b8d","fromNode":"74afca6bbcbe2564","fromSide":"bottom","toNode":"0348e789edbcba84","toSide":"top"}
+		{"id":"e2b01c22f78e8b8d","fromNode":"74afca6bbcbe2564","fromSide":"bottom","toNode":"0348e789edbcba84","toSide":"top"},
+		{"id":"fd5ba13eb29ca391","fromNode":"74afca6bbcbe2564","fromSide":"bottom","toNode":"b5c8a2f54088e814","toSide":"top"}
 	]
 }
