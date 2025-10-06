@@ -44,6 +44,7 @@ crowds of people - толпы людей
 wasted - потраченный впустую. 
 waste - отходы
 scrap - отходы
+Actually - yf 
 
 2)
 bit - немного
