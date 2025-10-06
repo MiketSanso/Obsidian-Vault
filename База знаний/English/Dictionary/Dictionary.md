@@ -80,3 +80,4 @@ might - вероятно
 mistake - ошибка
 today - сегодня
 surface - поверхность 
+kind - добры
