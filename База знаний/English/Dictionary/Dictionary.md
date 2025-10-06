@@ -41,7 +41,9 @@ grocery - бакалея
 pupil - ученик
 early - ранний
 crowds of people - толпы людей
-wasted - потраченный впустую
+wasted - потраченный впустую. 
+waste - отходы
+scrap - отходы
 
 2)
 bit - немного
