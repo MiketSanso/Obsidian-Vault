@@ -81,3 +81,4 @@ mistake - ошибка
 today - сегодня
 surface - поверхность 
 kind - добрый
+depth -
