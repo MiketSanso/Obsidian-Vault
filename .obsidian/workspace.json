@@ -25,14 +25,17 @@
             "id": "67031c10cf5ce57f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "База знаний/English/Dictionary/Dictionary.md",
-                "mode": "source",
-                "source": false
+                "file": "Декомпозиция работы/Learn English/Plan for learning english.canvas",
+                "viewState": {
+                  "x": -44.914784261548206,
+                  "y": -3546.3206574145797,
+                  "zoom": -0.4419765538453969
+                }
               },
-              "icon": "lucide-file",
-              "title": "Dictionary"
+              "icon": "lucide-layout-dashboard",
+              "title": "Plan for learning english"
             }
           }
         ],
@@ -198,8 +201,8 @@
   },
   "active": "67031c10cf5ce57f",
   "lastOpenFiles": [
-    "База знаний/English/Dictionary/Pronouns.md",
     "База знаний/English/Dictionary/Dictionary.md",
+    "База знаний/English/Dictionary/Pronouns.md",
     "База знаний/English/Dictionary/Irregular Verbs.md",
     "База знаний/English/Dictionary/Prepositions.md",
     "Декомпозиция работы/Learn English/Plan for learning english.canvas",
