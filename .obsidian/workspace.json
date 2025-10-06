@@ -25,17 +25,14 @@
             "id": "67031c10cf5ce57f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/Learn English/Plan for learning english.canvas",
-                "viewState": {
-                  "x": 1533.713570054702,
-                  "y": -3207.4989394876848,
-                  "zoom": 0.11302031738483789
-                }
+                "file": "База знаний/English/Dictionary/Dictionary.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Plan for learning english"
+              "icon": "lucide-file",
+              "title": "Dictionary"
             }
           }
         ],
@@ -201,6 +198,7 @@
   },
   "active": "67031c10cf5ce57f",
   "lastOpenFiles": [
+    "Декомпозиция работы/Learn English/Plan for learning english.canvas",
     "conflict-files-obsidian-git.md",
     "База знаний/English/Dictionary/Pronouns.md",
     "База знаний/English/Dictionary/Prepositions.md",
@@ -209,7 +207,6 @@
     "База знаний/English/Dictionary",
     "Days/2025-10-05.md",
     "Days/2025-10-04.md",
-    "Декомпозиция работы/Learn English/Plan for learning english.canvas",
     "Days/2025-09-30.md",
     "Без названия.canvas",
     "База знаний/English/Dictionary.md",
@@ -235,7 +232,6 @@
     "Achivenments",
     "Days/2025-09-25.md",
     "База знаний/Технические определения для собеседований/Unity/Подготовка к собесу.md",
-    "Декомпозиция работы/Vampires/Vampires.md",
     "Декомпозиция работы/Vampires/Vampires.canvas",
     "Декомпозиция работы/Vampires",
     "Декомпозиция работы/Create Resume",

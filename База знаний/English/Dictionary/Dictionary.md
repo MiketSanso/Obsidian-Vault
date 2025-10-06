@@ -40,6 +40,7 @@ further - дальнейший
 grocery - бакалея
 pupil - ученик
 early - ранний
+crowds of people - толпы людей
 
 2)
 bit - немного
