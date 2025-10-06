@@ -44,7 +44,7 @@ crowds of people - толпы людей
 wasted - потраченный впустую. 
 waste - отходы
 scrap - отходы
-Actually - yf 
+Actually - на самом деле
 
 2)
 bit - немного
@@ -70,7 +70,7 @@ which - который
 Well - что ж
 though [ðəʊ] - хотя
 so - 
-By the way - между прочим
+By the way - между прочим/кстати
 per - по/в
 anyway -  в любом случае
 might - вероятно
