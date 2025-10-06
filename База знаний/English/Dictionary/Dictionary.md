@@ -45,7 +45,8 @@ wasted - потраченный впустую.
 waste - отходы
 scrap - отходы
 Actually - на самом деле
-acqua
+acquaintance - знакомые 
+another - другой
 
 2)
 bit - немного
