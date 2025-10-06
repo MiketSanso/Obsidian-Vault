@@ -41,6 +41,7 @@ grocery - бакалея
 pupil - ученик
 early - ранний
 crowds of people - толпы людей
+wasted - потраченный впустую
 
 2)
 bit - немного
@@ -53,7 +54,7 @@ How are **things** - как делишки
 things - вещи
 keep - держать 
 same - такой же
-everything - всё
+everything - всё +
 **`affect`** - влиять
 `thought` - мысль
 You gotta be kidding me? - я не верю в это/шутишь надо мной? 
