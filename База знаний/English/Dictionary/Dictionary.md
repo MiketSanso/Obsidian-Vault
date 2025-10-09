@@ -79,3 +79,7 @@ anyway -  в любом случае
 might - вероятно
 mistake - ошибка
 today - сегодня
+surface - поверхность 
+kind - добрый
+depth - глубина
+oppotunity - противоположность 
