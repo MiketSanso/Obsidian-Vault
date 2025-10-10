@@ -70,14 +70,17 @@
             "id": "a0c2c74d3de9f04f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Days/2025-10-10.md",
-                "mode": "source",
-                "source": false
+                "file": "Декомпозиция работы/Apyrot/Apyrot.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-10-10"
+              "icon": "lucide-layout-dashboard",
+              "title": "Apyrot"
             }
           }
         ],
@@ -243,8 +246,11 @@
   },
   "active": "a0c2c74d3de9f04f",
   "lastOpenFiles": [
-    "Декомпозиция работы/Learn English/Plan for learning english.canvas",
+    "Декомпозиция работы/Apyrot/Apyrot.md",
+    "Декомпозиция работы/Apyrot/Apyrot.canvas",
+    "Декомпозиция работы/Apyrot",
     "Days/2025-10-10.md",
+    "Декомпозиция работы/Learn English/Plan for learning english.canvas",
     "База знаний/English/English.md",
     "Days/2025-10-09.md",
     "conflict-files-obsidian-git.md",
@@ -275,7 +281,6 @@
     "База знаний/English/Plan for learning english.md",
     "База знаний/English",
     "Days/2025-09-26.md",
-    "Achivenments/Work.md",
     "Achivenments",
     "Декомпозиция работы/Vampires/Vampires.canvas",
     "Декомпозиция работы/Vampires",
@@ -284,9 +289,7 @@
     "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
     "Untitled.base",
     "Декомпозиция работы/AlexeyProject/Без названия.canvas",
-    "Декомпозиция работы/AlexeyProject",
     "Декомпозиция работы/Mentor Task.canvas",
-    "Декомпозиция работы/Untitled.canvas",
-    "Templates/Decomposition programm.canvas"
+    "Декомпозиция работы/Untitled.canvas"
   ]
 }
