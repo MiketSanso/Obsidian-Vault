@@ -70,17 +70,14 @@
             "id": "a0c2c74d3de9f04f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/Learn English/Plan for learning english.canvas",
-                "viewState": {
-                  "x": 3596.602304766108,
-                  "y": -2638.513343266367,
-                  "zoom": -0.5065892647761431
-                }
+                "file": "Days/2025-10-10.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Plan for learning english"
+              "icon": "lucide-file",
+              "title": "2025-10-10"
             }
           }
         ],
@@ -246,6 +243,8 @@
   },
   "active": "a0c2c74d3de9f04f",
   "lastOpenFiles": [
+    "Декомпозиция работы/Learn English/Plan for learning english.canvas",
+    "Days/2025-10-10.md",
     "База знаний/English/English.md",
     "Days/2025-10-09.md",
     "conflict-files-obsidian-git.md",
@@ -256,7 +255,6 @@
     "База знаний/English/Dictionary/Pronouns.md",
     "База знаний/English/Dictionary/Irregular Verbs.md",
     "База знаний/English/Dictionary/Prepositions.md",
-    "Декомпозиция работы/Learn English/Plan for learning english.canvas",
     "База знаний/English/Dictionary",
     "Days/2025-10-05.md",
     "Days/2025-10-04.md",
@@ -278,8 +276,6 @@
     "База знаний/English",
     "Days/2025-09-26.md",
     "Achivenments/Work.md",
-    "Achivenments/Sport.md",
-    "Achivenments/Completed games.md",
     "Achivenments",
     "Декомпозиция работы/Vampires/Vampires.canvas",
     "Декомпозиция работы/Vampires",
