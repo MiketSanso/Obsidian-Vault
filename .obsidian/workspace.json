@@ -70,17 +70,14 @@
             "id": "a0c2c74d3de9f04f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Декомпозиция работы/Apyrot/Apyrot.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Days/2025-10-15.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Apyrot"
+              "icon": "lucide-file",
+              "title": "2025-10-15"
             }
           }
         ],
@@ -246,8 +243,9 @@
   },
   "active": "a0c2c74d3de9f04f",
   "lastOpenFiles": [
-    "Декомпозиция работы/Apyrot/Apyrot.md",
     "Декомпозиция работы/Apyrot/Apyrot.canvas",
+    "Days/2025-10-15.md",
+    "Декомпозиция работы/Apyrot/Apyrot.md",
     "Декомпозиция работы/Apyrot",
     "Days/2025-10-10.md",
     "Декомпозиция работы/Learn English/Plan for learning english.canvas",
@@ -280,7 +278,6 @@
     "Декомпозиция работы/Learn English",
     "База знаний/English/Plan for learning english.md",
     "База знаний/English",
-    "Days/2025-09-26.md",
     "Achivenments",
     "Декомпозиция работы/Vampires/Vampires.canvas",
     "Декомпозиция работы/Vampires",
