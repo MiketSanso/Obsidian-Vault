@@ -86,12 +86,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Achivenments/Achievements.md",
+                "file": "База знаний/Knowledge base.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Achievements"
+              "title": "Knowledge base"
             }
           }
         ],
@@ -255,12 +255,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3521fa749c831347",
+  "active": "9f65b398fdbc8ece",
   "lastOpenFiles": [
-    "Achivenments/Sport.md",
-    "Achivenments/Completed games.md",
-    "База знаний/Заметки/Список покупок.md",
+    "База знаний/Предметы (КОЛЛЕДЖ)/College subjects.md",
+    "База знаний/Предметы (КОЛЛЕДЖ)/История.md",
     "База знаний/Заметки/Нерасформированные задачи (По убыванию важности).md",
+    "База знаний/Заметки/Notes.md",
+    "База знаний/Заметки/Список покупок.md",
+    "Декомпозиция работы/Work Decomposition.md",
+    "Achivenments/Sport.md",
+    "Achivenments/Work.md",
+    "Achivenments/Completed games.md",
+    "Achivenments/Achievements.md",
     "Days/2025-12-29.md",
     "База знаний/Статьи/Польза психологии.md",
     "База знаний/Статьи/Волнения при получении преподавания.md",
@@ -281,12 +287,6 @@
     "Декомпозиция работы/Apyrot",
     "Days/2025-10-10.md",
     "Декомпозиция работы/Learn English/Plan for learning english.canvas",
-    "База знаний/English/English.md",
-    "Days/2025-10-09.md",
-    "conflict-files-obsidian-git.md",
-    "Days/2025-10-08.md",
-    "Days/2025-10-07.md",
-    "Days/2025-10-06.md",
     "База знаний/English/Dictionary",
     "Без названия.canvas",
     "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
