@@ -1,4 +1,4 @@
-
+щ
 ----
 - 100 push-ups, 100 squats and 100 pull-ups in 15 minutes 
 	Status: ==In progress==
