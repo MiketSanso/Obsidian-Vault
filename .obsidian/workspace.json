@@ -86,12 +86,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Days/2026-01-19.md",
+                "file": "Декомпозиция работы/Chat Bot/Chat Bot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-19"
+              "title": "Chat Bot"
             }
           }
         ],
@@ -257,8 +257,10 @@
   },
   "active": "3521fa749c831347",
   "lastOpenFiles": [
-    "Days/2026-01-06.md",
     "Days/2026-01-19.md",
+    "Декомпозиция работы/Chat Bot/Chat Bot.md",
+    "Декомпозиция работы/Chat Bot",
+    "Days/2026-01-06.md",
     "База знаний/Статьи/Итоги года.md",
     "Days/2026-01-03.md",
     "База знаний/Предметы (КОЛЛЕДЖ)/College subjects.md",
@@ -286,7 +288,6 @@
     "Templates/Category task.md",
     "База знаний/Технические определения для собеседований/Unity/Подготовка к собесу.md",
     "База знаний/Технические определения для собеседований/Unity/Новые навыки, комментарии к ним, пояснения.md",
-    "База знаний/Технические определения для собеседований/Unity/ММОРПГ, и как они были устроены у нас под капотом..md",
     "Декомпозиция работы/Apyrot/Apyrot.canvas",
     "Декомпозиция работы/Apyrot",
     "База знаний/English/Dictionary",
@@ -300,7 +301,6 @@
     "Декомпозиция работы/Create Resume",
     "Декомпозиция работы/Alexey Project",
     "Декомпозиция работы/AlexeyProject/Alexey Project.canvas",
-    "Untitled.base",
     "Декомпозиция работы/AlexeyProject/Без названия.canvas",
     "Декомпозиция работы/Mentor Task.canvas"
   ]
