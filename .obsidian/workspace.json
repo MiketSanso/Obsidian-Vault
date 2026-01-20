@@ -98,12 +98,14 @@
             "id": "9058653cf8e17f52",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "База знаний/Предметы (КОЛЛЕДЖ)/В общем по колледжу.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.11.4"
+              "icon": "lucide-file",
+              "title": "В общем по колледжу"
             }
           }
         ],
