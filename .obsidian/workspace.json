@@ -86,12 +86,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Заметки/Список покупок.md",
+                "file": "База знаний/Статьи/История зарождения любви к психологии.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Список покупок"
+              "title": "История зарождения любви к психологии"
             }
           }
         ],
@@ -257,9 +257,11 @@
   },
   "active": "3521fa749c831347",
   "lastOpenFiles": [
-    "База знаний/Заметки/Нерасформированные задачи (По убыванию важности).md",
-    "База знаний/Предметы (КОЛЛЕДЖ)/В общем по колледжу.md",
+    "База знаний/Статьи/Волнения при получении преподавания.md",
     "База знаний/Предметы (КОЛЛЕДЖ)/История.md",
+    "База знаний/Заметки/Нерасформированные задачи (По убыванию важности).md",
+    "База знаний/Заметки/Список покупок.md",
+    "База знаний/Предметы (КОЛЛЕДЖ)/В общем по колледжу.md",
     "База знаний/Предметы (КОЛЛЕДЖ)/College subjects.md",
     "Декомпозиция работы/Chat Bot/Chat Bot.md",
     "Days/2026-01-19.md",
@@ -270,7 +272,6 @@
     "Obsidian Web.md",
     "Templates/Templates.md",
     "Templates/Task.md",
-    "База знаний/Заметки/Список покупок.md",
     "База знаний/Books/Books to read or search....md",
     "База знаний/Books/Books.md",
     "База знаний/English/Dictionary/Dictionary.md",
@@ -287,7 +288,6 @@
     "Templates/Group.md",
     "Templates/Decomposition programm.canvas",
     "Templates/Day.md",
-    "Templates/Category task.md",
     "Декомпозиция работы/Apyrot/Apyrot.canvas",
     "Декомпозиция работы/Apyrot",
     "База знаний/English/Dictionary",
