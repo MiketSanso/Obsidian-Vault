@@ -93,9 +93,21 @@
               "icon": "lucide-file",
               "title": "Психология"
             }
+          },
+          {
+            "id": "9058653cf8e17f52",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.11.4"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -255,7 +267,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3521fa749c831347",
+  "active": "9058653cf8e17f52",
   "lastOpenFiles": [
     "База знаний/Предметы (КОЛЛЕДЖ)/История.md",
     "База знаний/Заметки/Нерасформированные задачи (По убыванию важности).md",
