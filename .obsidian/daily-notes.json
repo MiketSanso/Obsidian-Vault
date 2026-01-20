@@ -1,5 +1,4 @@
 {
   "folder": "Days",
-  "template": "Templates/Day",
-  "autorun": true
+  "template": "Templates/Day"
 }

@@ -100,16 +100,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Предметы (КОЛЛЕДЖ)/Комп. Сети.md",
+                "file": "Days/2026-01-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Комп. Сети"
+              "title": "2026-01-21"
+            }
+          },
+          {
+            "id": "8c028267f6210a1b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.11.5"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -269,10 +281,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9058653cf8e17f52",
+  "active": "8c028267f6210a1b",
   "lastOpenFiles": [
-    "База знаний/Предметы (КОЛЛЕДЖ)/OC.md",
     "База знаний/Предметы (КОЛЛЕДЖ)/Комп. Сети.md",
+    "Days/2026-01-21.md",
+    "База знаний/Предметы (КОЛЛЕДЖ)/OC.md",
     "База знаний/Предметы (КОЛЛЕДЖ)/Психология.md",
     "База знаний/Предметы (КОЛЛЕДЖ)/В общем по колледжу.md",
     "База знаний/Заметки/Нерасформированные задачи (По убыванию важности).md",
@@ -300,7 +313,6 @@
     "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
     "Декомпозиция работы/Create Resume/Create resume.canvas",
     "Декомпозиция работы/Learn English/Plan for learning english.canvas",
-    "Achivenments/Sport.md",
     "Templates/Decomposition programm.canvas",
     "Декомпозиция работы/Apyrot/Apyrot.canvas",
     "Декомпозиция работы/Apyrot",
