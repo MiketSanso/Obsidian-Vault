@@ -109,6 +109,20 @@
             }
           },
           {
+            "id": "8e4a9abde4664f03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия"
+            }
+          },
+          {
             "id": "8c028267f6210a1b",
             "type": "leaf",
             "state": {
@@ -123,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -143,7 +157,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -283,12 +297,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9058653cf8e17f52",
+  "active": "9f65b398fdbc8ece",
   "lastOpenFiles": [
+    "Без названия",
+    "База знаний/Предметы (КОЛЛЕДЖ)/КОЛЛЕДЖ.md",
+    "Без названия.md",
     "База знаний/Предметы (КОЛЛЕДЖ)/Лекции-Доклады/История.md",
     "База знаний/Предметы (КОЛЛЕДЖ)/Лекции-Доклады/Комп. Сети.md",
     "Days/2026-01-21.md",
-    "База знаний/Предметы (КОЛЛЕДЖ)/КОЛЛЕДЖ.md",
     "База знаний/Предметы (КОЛЛЕДЖ)/Лекции-Доклады/ПРАВОВОЕ БЕСПЕЧЕНИЕ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ.md",
     "База знаний/Предметы (КОЛЛЕДЖ)/College subjects.md",
     "База знаний/Предметы (КОЛЛЕДЖ)/Лекции-Доклады/Lections-Messages.md",
@@ -311,8 +327,6 @@
     "Templates/Templates.md",
     "Templates/Task.md",
     "База знаний/Books/Books to read or search....md",
-    "База знаний/Books/Books.md",
-    "База знаний/English/Dictionary/Dictionary.md",
     "Декомпозиция работы/Alexey Project/Alexey Project.canvas",
     "Декомпозиция работы/Create Resume/Create resume.canvas",
     "Декомпозиция работы/Learn English/Plan for learning english.canvas",
