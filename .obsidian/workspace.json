@@ -114,12 +114,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "Days/2026-01-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "2026-01-21"
             }
           },
           {
@@ -297,7 +297,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f65b398fdbc8ece",
+  "active": "8e4a9abde4664f03",
   "lastOpenFiles": [
     "Без названия",
     "База знаний/Предметы (КОЛЛЕДЖ)/КОЛЛЕДЖ.md",
