@@ -1,2 +1,2 @@
-[[Lections]]
+[[Lections-Messages]]
 [[КОЛЛЕДЖ]]
